@@ -1,0 +1,389 @@
+[
+  {
+    "id": "ascension",
+    "title": {
+      "en": "The Ascension of Jesus",
+      "zh": "耶穌升天"
+    },
+    "description": {
+      "en": "Jesus ascends to heaven after commissioning his disciples to be witnesses to all nations",
+      "zh": "耶穌在差遣門徒向萬國作見證後升天"
+    },
+    "scripture": {
+      "book": "Acts",
+      "chapter": 1,
+      "verseStart": 6,
+      "verseEnd": 11,
+      "display": "Acts 1:6-11"
+    },
+    "date": {
+      "year": 30,
+      "displayText": {
+        "en": "A.D. 30",
+        "zh": "主後30年"
+      },
+      "order": 1
+    },
+    "location": "mount-of-olives",
+    "primaryImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=400&fit=crop",
+    "imageSource": "Unsplash",
+    "category": "early-church",
+    "keyFigures": ["jesus", "peter", "john"],
+    "passage": {
+      "en": {
+        "fullText": "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel? And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power. But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth. And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight. And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel; Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.",
+        "verses": [
+          { "number": 6, "text": "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?" },
+          { "number": 7, "text": "And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power." },
+          { "number": 8, "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth." },
+          { "number": 9, "text": "And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight." },
+          { "number": 10, "text": "And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;" },
+          { "number": 11, "text": "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven." }
+        ],
+        "excerpt": "But ye shall receive power, after that the Holy Ghost is come upon you..."
+      },
+      "zh": {
+        "fullText": "他們聚集的時候，問耶穌說：主啊，你復興以色列國就在這時候嗎？耶穌對他們說：父憑著自己的權柄所定的時候、日期，不是你們可以知道的。但聖靈降臨在你們身上，你們就必得著能力，並要在耶路撒冷、猶太全地和撒馬利亞，直到地極，作我的見證。說了這話，他們正看的時候，他就被取上升。有一朵雲彩把他接去，便看不見他了。當他往上去，他們定睛望天的時候，忽然有兩個人身穿白衣，站在旁邊，說：加利利人哪，你們為甚麼站著望天呢？這離開你們被接升天的耶穌，你們見他怎樣往天上去，他還要怎樣來。",
+        "verses": [
+          { "number": 6, "text": "他們聚集的時候，問耶穌說：主啊，你復興以色列國就在這時候嗎？" },
+          { "number": 7, "text": "耶穌對他們說：父憑著自己的權柄所定的時候、日期，不是你們可以知道的。" },
+          { "number": 8, "text": "但聖靈降臨在你們身上，你們就必得著能力，並要在耶路撒冷、猶太全地和撒馬利亞，直到地極，作我的見證。" },
+          { "number": 9, "text": "說了這話，他們正看的時候，他就被取上升。有一朵雲彩把他接去，便看不見他了。" },
+          { "number": 10, "text": "當他往上去，他們定睛望天的時候，忽然有兩個人身穿白衣，站在旁邊，" },
+          { "number": 11, "text": "說：加利利人哪，你們為甚麼站著望天呢？這離開你們被接升天的耶穌，你們見他怎樣往天上去，他還要怎樣來。" }
+        ],
+        "excerpt": "但聖靈降臨在你們身上，你們就必得著能力..."
+      }
+    },
+    "nextEventId": "pentecost"
+  },
+  {
+    "id": "pentecost",
+    "title": {
+      "en": "Pentecost - The Holy Spirit Comes",
+      "zh": "五旬節 - 聖靈降臨"
+    },
+    "description": {
+      "en": "The Holy Spirit descends on the disciples with tongues of fire, and Peter preaches to the crowds",
+      "zh": "聖靈如火焰降臨在門徒身上，彼得向眾人講道"
+    },
+    "scripture": {
+      "book": "Acts",
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 4,
+      "display": "Acts 2:1-4"
+    },
+    "date": {
+      "year": 30,
+      "displayText": {
+        "en": "A.D. 30",
+        "zh": "主後30年"
+      },
+      "order": 2
+    },
+    "location": "jerusalem",
+    "primaryImage": "https://christianleadermag.com/wp-content/uploads/2021/05/May-Pentecost-scene.jpg",
+    "imageSource": "Christian Leader Magazine",
+    "category": "early-church",
+    "keyFigures": ["peter", "john"],
+    "passage": {
+      "en": {
+        "fullText": "And when the day of Pentecost was fully come, they were all with one accord in one place. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.",
+        "verses": [
+          { "number": 1, "text": "And when the day of Pentecost was fully come, they were all with one accord in one place." },
+          { "number": 2, "text": "And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting." },
+          { "number": 3, "text": "And there appeared unto them cloven tongues like as of fire, and it sat upon each of them." },
+          { "number": 4, "text": "And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance." }
+        ],
+        "excerpt": "And they were all filled with the Holy Ghost..."
+      },
+      "zh": {
+        "fullText": "五旬節到了，門徒都聚集在一處。忽然，從天上有響聲下來，好像一陣大風吹過，充滿了他們所坐的屋子；又有舌頭如火焰顯現出來，分開落在他們各人頭上。他們就都被聖靈充滿，按著聖靈所賜的口才說起別國的話來。",
+        "verses": [
+          { "number": 1, "text": "五旬節到了，門徒都聚集在一處。" },
+          { "number": 2, "text": "忽然，從天上有響聲下來，好像一陣大風吹過，充滿了他們所坐的屋子；" },
+          { "number": 3, "text": "又有舌頭如火焰顯現出來，分開落在他們各人頭上。" },
+          { "number": 4, "text": "他們就都被聖靈充滿，按著聖靈所賜的口才說起別國的話來。" }
+        ],
+        "excerpt": "他們就都被聖靈充滿..."
+      }
+    },
+    "previousEventId": "ascension",
+    "nextEventId": "lame-man-healed"
+  },
+  {
+    "id": "lame-man-healed",
+    "title": {
+      "en": "Peter Heals a Lame Beggar",
+      "zh": "彼得治好瘸腿的乞丐"
+    },
+    "description": {
+      "en": "Peter and John heal a man lame from birth at the temple gate called Beautiful",
+      "zh": "彼得和約翰在聖殿的美門醫治一個生來瘸腿的人"
+    },
+    "scripture": {
+      "book": "Acts",
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 10,
+      "display": "Acts 3:1-10"
+    },
+    "date": {
+      "year": 30,
+      "displayText": {
+        "en": "A.D. 30",
+        "zh": "主後30年"
+      },
+      "order": 3
+    },
+    "location": "jerusalem",
+    "primaryImage": "https://images.unsplash.com/photo-1509840841025-9088ba78a826?w=800&h=400&fit=crop",
+    "imageSource": "Unsplash",
+    "category": "miracle",
+    "keyFigures": ["peter", "john"],
+    "passage": {
+      "en": {
+        "fullText": "Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour. And a certain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms of them that entered into the temple; Who seeing Peter and John about to go into the temple asked an alms. And Peter, fastening his eyes upon him with John, said, Look on us. And he gave heed unto them, expecting to receive something of them. Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk. And he took him by the right hand, and lifted him up: and immediately his feet and ankle bones received strength. And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God. And all the people saw him walking and praising God: And they knew that it was he which sat for alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened unto him.",
+        "verses": [
+          { "number": 1, "text": "Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour." },
+          { "number": 2, "text": "And a certain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms of them that entered into the temple;" },
+          { "number": 3, "text": "Who seeing Peter and John about to go into the temple asked an alms." },
+          { "number": 4, "text": "And Peter, fastening his eyes upon him with John, said, Look on us." },
+          { "number": 5, "text": "And he gave heed unto them, expecting to receive something of them." },
+          { "number": 6, "text": "Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk." },
+          { "number": 7, "text": "And he took him by the right hand, and lifted him up: and immediately his feet and ankle bones received strength." },
+          { "number": 8, "text": "And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God." },
+          { "number": 9, "text": "And all the people saw him walking and praising God:" },
+          { "number": 10, "text": "And they knew that it was he which sat for alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened unto him." }
+        ],
+        "excerpt": "Silver and gold have I none; but such as I have give I thee..."
+      },
+      "zh": {
+        "fullText": "申初禱告的時候，彼得、約翰上聖殿去。有一個人，生來是瘸腿的，天天被人抬來，放在殿的一個門口（那門名叫美門），要求進殿的人賙濟。他看見彼得、約翰將要進殿，就求他們賙濟。彼得、約翰定睛看他。彼得說：「你看我們！」那人就留意看他們，指望得著甚麼。彼得說：「金銀我都沒有，只把我所有的給你：我奉拿撒勒人耶穌基督的名，叫你起來行走！」於是拉著他的右手，扶他起來；他的腳和踝子骨立刻健壯了，就跳起來，站著，又行走，同他們進了殿，走著，跳著，讚美神。百姓都看見他行走，讚美神；認得他是那素常坐在殿的美門口求賙濟的，就因他所遇著的事滿心希奇、驚訝。",
+        "verses": [
+          { "number": 1, "text": "申初禱告的時候，彼得、約翰上聖殿去。" },
+          { "number": 2, "text": "有一個人，生來是瘸腿的，天天被人抬來，放在殿的一個門口（那門名叫美門），要求進殿的人賙濟。" },
+          { "number": 3, "text": "他看見彼得、約翰將要進殿，就求他們賙濟。" },
+          { "number": 4, "text": "彼得、約翰定睛看他。彼得說：「你看我們！」" },
+          { "number": 5, "text": "那人就留意看他們，指望得著甚麼。" },
+          { "number": 6, "text": "彼得說：「金銀我都沒有，只把我所有的給你：我奉拿撒勒人耶穌基督的名，叫你起來行走！」" },
+          { "number": 7, "text": "於是拉著他的右手，扶他起來；他的腳和踝子骨立刻健壯了，" },
+          { "number": 8, "text": "就跳起來，站著，又行走，同他們進了殿，走著，跳著，讚美神。" },
+          { "number": 9, "text": "百姓都看見他行走，讚美神；" },
+          { "number": 10, "text": "認得他是那素常坐在殿的美門口求賙濟的，就因他所遇著的事滿心希奇、驚訝。" }
+        ],
+        "excerpt": "金銀我都沒有，只把我所有的給你..."
+      }
+    },
+    "previousEventId": "pentecost",
+    "nextEventId": "ananias-sapphira"
+  },
+  {
+    "id": "ananias-sapphira",
+    "title": {
+      "en": "Ananias and Sapphira",
+      "zh": "亞拿尼亞和撒非喇"
+    },
+    "description": {
+      "en": "Ananias and Sapphira lie about their offering and face God's judgment",
+      "zh": "亞拿尼亞和撒非喇謊報奉獻而面臨神的審判"
+    },
+    "scripture": {
+      "book": "Acts",
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 11,
+      "display": "Acts 5:1-11"
+    },
+    "date": {
+      "year": 31,
+      "displayText": {
+        "en": "A.D. 31",
+        "zh": "主後31年"
+      },
+      "order": 4
+    },
+    "location": "jerusalem",
+    "primaryImage": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=400&fit=crop",
+    "imageSource": "Unsplash",
+    "category": "early-church",
+    "keyFigures": ["peter"],
+    "passage": {
+      "en": {
+        "fullText": "But a certain man named Ananias, with Sapphira his wife, sold a possession, And kept back part of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles' feet. But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land? Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God. And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things. And the young men arose, wound him up, and carried him out, and buried him. And it was about the space of three hours after, when his wife, not knowing what was done, came in. And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much. Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband are at the door, and shall carry thee out. Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband. And great fear came upon all the church, and upon as many as heard these things.",
+        "verses": [
+          { "number": 1, "text": "But a certain man named Ananias, with Sapphira his wife, sold a possession," },
+          { "number": 2, "text": "And kept back part of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles' feet." },
+          { "number": 3, "text": "But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?" },
+          { "number": 4, "text": "Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God." },
+          { "number": 5, "text": "And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things." },
+          { "number": 6, "text": "And the young men arose, wound him up, and carried him out, and buried him." },
+          { "number": 7, "text": "And it was about the space of three hours after, when his wife, not knowing what was done, came in." },
+          { "number": 8, "text": "And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much." },
+          { "number": 9, "text": "Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband are at the door, and shall carry thee out." },
+          { "number": 10, "text": "Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband." },
+          { "number": 11, "text": "And great fear came upon all the church, and upon as many as heard these things." }
+        ],
+        "excerpt": "Thou hast not lied unto men, but unto God..."
+      },
+      "zh": {
+        "fullText": "有一個人，名叫亞拿尼亞，同他的妻子撒非喇賣了田產，把價銀私自留下幾分，他的妻子也知道，其餘的幾分拿來放在使徒腳前。彼得說：「亞拿尼亞！為甚麼撒但充滿了你的心，叫你欺哄聖靈，把田地的價銀私自留下幾分呢？田地還沒有賣，不是你自己的嗎？既賣了，價銀不是你作主嗎？你怎麼心裡起這意念呢？你不是欺哄人，是欺哄神了。」亞拿尼亞聽見這話，就仆倒，斷了氣；聽見的人都甚懼怕。有些少年人起來，把他包裹，抬出去埋葬了。約過了三小時，他的妻子進來，還不知道這事。彼得對她說：「你告訴我，你們賣田地的價銀就是這些嗎？」她說：「就是這些。」彼得說：「你們為甚麼同心試探主的靈呢？埋葬你丈夫之人的腳已到門口，他們也要把你抬出去。」婦人立刻仆倒在彼得腳前，斷了氣。那些少年人進來，見她已經死了，就抬出去，埋在她丈夫旁邊。全教會和聽見這事的人都甚懼怕。",
+        "verses": [
+          { "number": 1, "text": "有一個人，名叫亞拿尼亞，同他的妻子撒非喇賣了田產，" },
+          { "number": 2, "text": "把價銀私自留下幾分，他的妻子也知道，其餘的幾分拿來放在使徒腳前。" },
+          { "number": 3, "text": "彼得說：「亞拿尼亞！為甚麼撒但充滿了你的心，叫你欺哄聖靈，把田地的價銀私自留下幾分呢？" },
+          { "number": 4, "text": "田地還沒有賣，不是你自己的嗎？既賣了，價銀不是你作主嗎？你怎麼心裡起這意念呢？你不是欺哄人，是欺哄神了。」" },
+          { "number": 5, "text": "亞拿尼亞聽見這話，就仆倒，斷了氣；聽見的人都甚懼怕。" },
+          { "number": 6, "text": "有些少年人起來，把他包裹，抬出去埋葬了。" },
+          { "number": 7, "text": "約過了三小時，他的妻子進來，還不知道這事。" },
+          { "number": 8, "text": "彼得對她說：「你告訴我，你們賣田地的價銀就是這些嗎？」她說：「就是這些。」" },
+          { "number": 9, "text": "彼得說：「你們為甚麼同心試探主的靈呢？埋葬你丈夫之人的腳已到門口，他們也要把你抬出去。」" },
+          { "number": 10, "text": "婦人立刻仆倒在彼得腳前，斷了氣。那些少年人進來，見她已經死了，就抬出去，埋在她丈夫旁邊。" },
+          { "number": 11, "text": "全教會和聽見這事的人都甚懼怕。" }
+        ],
+        "excerpt": "你不是欺哄人，是欺哄神了..."
+      }
+    },
+    "previousEventId": "lame-man-healed",
+    "nextEventId": "stephen-martyrdom"
+  },
+  {
+    "id": "stephen-martyrdom",
+    "title": {
+      "en": "The Stoning of Stephen",
+      "zh": "司提反殉道"
+    },
+    "description": {
+      "en": "Stephen becomes the first Christian martyr, stoned for his bold testimony about Jesus",
+      "zh": "司提反成為第一位基督徒殉道者，因為他為耶穌作大膽見證而被石頭打死"
+    },
+    "scripture": {
+      "book": "Acts",
+      "chapter": 7,
+      "verseStart": 54,
+      "verseEnd": 60,
+      "display": "Acts 7:54-60"
+    },
+    "date": {
+      "year": 34,
+      "displayText": {
+        "en": "A.D. 34",
+        "zh": "主後34年"
+      },
+      "order": 5
+    },
+    "location": "jerusalem",
+    "primaryImage": "https://images.unsplash.com/photo-1494783367193-149034c05e8f?w=800&h=400&fit=crop",
+    "imageSource": "Unsplash",
+    "category": "persecution",
+    "keyFigures": ["stephen", "paul"],
+    "passage": {
+      "en": {
+        "fullText": "When they heard these things, they were cut to the heart, and they gnashed on him with their teeth. But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God. Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord, And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul. And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit. And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.",
+        "verses": [
+          { "number": 54, "text": "When they heard these things, they were cut to the heart, and they gnashed on him with their teeth." },
+          { "number": 55, "text": "But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God," },
+          { "number": 56, "text": "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God." },
+          { "number": 57, "text": "Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord," },
+          { "number": 58, "text": "And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul." },
+          { "number": 59, "text": "And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit." },
+          { "number": 60, "text": "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep." }
+        ],
+        "excerpt": "Lord Jesus, receive my spirit..."
+      },
+      "zh": {
+        "fullText": "眾人聽見這話就極其惱怒，向司提反咬牙切齒。但司提反被聖靈充滿，定睛望天，看見神的榮耀，又看見耶穌站在神的右邊，就說：「我看見天開了，人子站在神的右邊。」眾人大聲喊叫，摀著耳朵，齊心擁上前去，把他推到城外，用石頭打他。作見證的人把衣裳放在一個少年人名叫掃羅的腳前。他們正用石頭打的時候，司提反呼籲主說：「求主耶穌接收我的靈魂！」又跪下大聲喊著說：「主啊，不要將這罪歸於他們！」說了這話，就睡了。",
+        "verses": [
+          { "number": 54, "text": "眾人聽見這話就極其惱怒，向司提反咬牙切齒。" },
+          { "number": 55, "text": "但司提反被聖靈充滿，定睛望天，看見神的榮耀，又看見耶穌站在神的右邊，" },
+          { "number": 56, "text": "就說：「我看見天開了，人子站在神的右邊。」" },
+          { "number": 57, "text": "眾人大聲喊叫，摀著耳朵，齊心擁上前去，" },
+          { "number": 58, "text": "把他推到城外，用石頭打他。作見證的人把衣裳放在一個少年人名叫掃羅的腳前。" },
+          { "number": 59, "text": "他們正用石頭打的時候，司提反呼籲主說：「求主耶穌接收我的靈魂！」" },
+          { "number": 60, "text": "又跪下大聲喊著說：「主啊，不要將這罪歸於他們！」說了這話，就睡了。" }
+        ],
+        "excerpt": "求主耶穌接收我的靈魂..."
+      }
+    },
+    "previousEventId": "ananias-sapphira",
+    "nextEventId": "philip-ethiopian"
+  },
+  {
+    "id": "philip-ethiopian",
+    "title": {
+      "en": "Philip and the Ethiopian Eunuch",
+      "zh": "腓利和埃塞俄比亞太監"
+    },
+    "description": {
+      "en": "Philip shares the gospel with an Ethiopian official reading Isaiah, leading to his baptism",
+      "zh": "腓利向正在讀以賽亞書的埃塞俄比亞官員傳福音，帶領他受洗"
+    },
+    "scripture": {
+      "book": "Acts",
+      "chapter": 8,
+      "verseStart": 26,
+      "verseEnd": 40,
+      "display": "Acts 8:26-40"
+    },
+    "date": {
+      "year": 34,
+      "displayText": {
+        "en": "A.D. 34",
+        "zh": "主後34年"
+      },
+      "order": 6
+    },
+    "location": "gaza",
+    "primaryImage": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=800&h=400&fit=crop",
+    "imageSource": "Unsplash",
+    "category": "conversion",
+    "keyFigures": ["philip"],
+    "passage": {
+      "en": {
+        "fullText": "And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert. And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship, Was returning, and sitting in his chariot read Esaias the prophet. Then the Spirit said unto Philip, Go near, and join thyself to this chariot. And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest? And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him. The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth: In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth. And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man? Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus. And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized? And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God. And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him. And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing. But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea.",
+        "verses": [
+          { "number": 26, "text": "And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert." },
+          { "number": 27, "text": "And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship," },
+          { "number": 28, "text": "Was returning, and sitting in his chariot read Esaias the prophet." },
+          { "number": 29, "text": "Then the Spirit said unto Philip, Go near, and join thyself to this chariot." },
+          { "number": 30, "text": "And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?" },
+          { "number": 31, "text": "And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him." },
+          { "number": 32, "text": "The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth:" },
+          { "number": 33, "text": "In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth." },
+          { "number": 34, "text": "And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man?" },
+          { "number": 35, "text": "Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus." },
+          { "number": 36, "text": "And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized?" },
+          { "number": 37, "text": "And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God." },
+          { "number": 38, "text": "And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him." },
+          { "number": 39, "text": "And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing." },
+          { "number": 40, "text": "But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea." }
+        ],
+        "excerpt": "Then Philip opened his mouth...and preached unto him Jesus..."
+      },
+      "zh": {
+        "fullText": "有主的一個使者對腓利說：「起來！向南走，往那從耶路撒冷下迦薩的路上去。」那路是曠野。腓利就起身去了，不料，有一個埃塞俄比亞人，是個有大權的太監，在埃塞俄比亞女王甘大基的手下總管銀庫，他上耶路撒冷禮拜去了。現在回來，在車上坐著，念先知以賽亞的書。聖靈對腓利說：「你去！貼近那車走。」腓利就跑到太監那裡，聽見他念先知以賽亞的書，便問他說：「你所念的，你明白嗎？」他說：「沒有人指教我，怎能明白呢？」於是請腓利上車，與他同坐。他所念的那段經，說：他像羊被牽到宰殺之地，又像羊羔在剪毛的人手下無聲；他也是這樣不開口。他卑微的時候，人不按公義審判他；誰能述說他的世代？因為他的生命從地上奪去。太監對腓利說：「請問，先知說這話是指著誰？是指著自己呢？是指著別人呢？」腓利就開口從這經上起，對他傳講耶穌。二人正往前走，到了有水的地方，太監說：「看哪，這裡有水，我受洗有甚麼妨礙呢？」腓利說：「你若是一心相信，就可以。」他回答說：「我信耶穌基督是神的兒子。」於是吩咐車站住，腓利和太監二人同下水裡去，腓利就給他施洗。從水裡上來，主的靈把腓利提了去，太監也不再見他了，就歡歡喜喜地走路。後來有人在亞鎖都遇見腓利；他走遍那地方，在各城宣傳福音，直到該撒利亞。",
+        "verses": [
+          { "number": 26, "text": "有主的一個使者對腓利說：「起來！向南走，往那從耶路撒冷下迦薩的路上去。」那路是曠野。" },
+          { "number": 27, "text": "腓利就起身去了，不料，有一個埃塞俄比亞人，是個有大權的太監，在埃塞俄比亞女王甘大基的手下總管銀庫，他上耶路撒冷禮拜去了。" },
+          { "number": 28, "text": "現在回來，在車上坐著，念先知以賽亞的書。" },
+          { "number": 29, "text": "聖靈對腓利說：「你去！貼近那車走。」" },
+          { "number": 30, "text": "腓利就跑到太監那裡，聽見他念先知以賽亞的書，便問他說：「你所念的，你明白嗎？」" },
+          { "number": 31, "text": "他說：「沒有人指教我，怎能明白呢？」於是請腓利上車，與他同坐。" },
+          { "number": 32, "text": "他所念的那段經，說：他像羊被牽到宰殺之地，又像羊羔在剪毛的人手下無聲；他也是這樣不開口。" },
+          { "number": 33, "text": "他卑微的時候，人不按公義審判他；誰能述說他的世代？因為他的生命從地上奪去。" },
+          { "number": 34, "text": "太監對腓利說：「請問，先知說這話是指著誰？是指著自己呢？是指著別人呢？」" },
+          { "number": 35, "text": "腓利就開口從這經上起，對他傳講耶穌。" },
+          { "number": 36, "text": "二人正往前走，到了有水的地方，太監說：「看哪，這裡有水，我受洗有甚麼妨礙呢？」" },
+          { "number": 37, "text": "腓利說：「你若是一心相信，就可以。」他回答說：「我信耶穌基督是神的兒子。」" },
+          { "number": 38, "text": "於是吩咐車站住，腓利和太監二人同下水裡去，腓利就給他施洗。" },
+          { "number": 39, "text": "從水裡上來，主的靈把腓利提了去，太監也不再見他了，就歡歡喜喜地走路。" },
+          { "number": 40, "text": "後來有人在亞鎖都遇見腓利；他走遍那地方，在各城宣傳福音，直到該撒利亞。" }
+        ],
+        "excerpt": "腓利就開口從這經上起，對他傳講耶穌..."
+      }
+    },
+    "previousEventId": "stephen-martyrdom",
+    "nextEventId": "saul-conversion"
+  }
+]

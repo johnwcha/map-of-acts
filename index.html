@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no" />
+    <meta name="description" content="Interactive devotional study of the Book of Acts with chronological timeline and maps" />
+    <meta name="theme-color" content="#1152d4" />
+
+    <!-- PWA Tags -->
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="apple-touch-icon" href="/pwa-192x192.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="Acts Timeline" />
+
+    <!-- Social Media Tags -->
+    <meta property="og:title" content="Map of Acts - Interactive Timeline" />
+    <meta property="og:description" content="Interactive devotional study of the Book of Acts with chronological timeline and maps" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://map-of-acts.web.app" />
+    <meta property="og:image" content="https://map-of-acts.web.app/social-share.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Map of Acts - Interactive Timeline" />
+    <meta name="twitter:description" content="Interactive devotional study of the Book of Acts" />
+    <meta name="twitter:image" content="https://map-of-acts.web.app/social-share.png" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Serif:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <title>Map of Acts - Interactive Timeline</title>
+
+    <style>
+      /* iOS Safe Area Support */
+      :root {
+        --safe-area-inset-bottom: env(safe-area-inset-bottom, 0px);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "timeline": "Timeline",
+    "map": "Atlas",
+    "read": "Read",
+    "people": "People"
+  },
+  "timeline": {
+    "title": "The Book of Acts",
+    "subtitle": "Journey of the Early Church",
+    "viewRoute": "View Route"
+  },
+  "event": {
+    "location": "Location",
+    "keyFigures": "Key Figures",
+    "readFullPassage": "Read Full Passage",
+    "compareTranslations": "Compare Translations",
+    "selectTranslation": "Select Translation",
+    "opensBibleGateway": "Opens in Bible Gateway",
+    "previous": "Previous",
+    "next": "Next",
+    "share": "Share"
+  },
+  "map": {
+    "title": "Acts Journey",
+    "search": "Search locations...",
+    "readStory": "Read Story",
+    "bookmark": "Bookmark",
+    "chapter": "Chapter",
+    "journeys": {
+      "first": "1st Journey",
+      "second": "2nd Journey",
+      "third": "3rd Journey",
+      "rome": "Rome"
+    }
+  },
+  "common": {
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "Error loading content",
+    "view_map": "View Map"
+  },
+  "categories": {
+    "early-church": "The Early Church",
+    "persecution": "Persecution & Growth",
+    "conversion": "Conversion & Calling",
+    "missionary-journey": "Missionary Journeys",
+    "imprisonment": "Trials & Imprisonment",
+    "miracle": "Miracles & Signs"
+  },
+  "read": {
+    "title": "Read Acts",
+    "chapterOf": "Chapter {current} of {total}",
+    "verses": "verses",
+    "readingMode": {
+      "sideBySide": "Side-by-Side",
+      "englishOnly": "English",
+      "chineseOnly": "Chinese"
+    },
+    "bookmark": {
+      "add": "Bookmark",
+      "remove": "Remove Bookmark",
+      "chapter": "Chapter {num}",
+      "verse": "Verse {num}"
+    },
+    "navigation": {
+      "previous": "Previous Chapter",
+      "next": "Next Chapter"
+    }
+  }
+}

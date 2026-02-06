@@ -1,0 +1,67 @@
+[
+  {
+    "id": "saul-conversion",
+    "title": {
+      "en": "Conversion of Saul",
+      "zh": "掃羅悔改"
+    },
+    "description": {
+      "en": "Saul encounters Jesus on the road to Damascus and is transformed from persecutor to apostle",
+      "zh": "掃羅在前往大馬士革的路上遇見耶穌，從逼迫者變成使徒"
+    },
+    "scripture": {
+      "book": "Acts",
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 9,
+      "display": "Acts 9:1-9"
+    },
+    "date": {
+      "year": 34,
+      "displayText": {
+        "en": "A.D. 34",
+        "zh": "主後34年"
+      },
+      "order": 7
+    },
+    "location": "damascus",
+    "primaryImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=400&fit=crop",
+    "imageSource": "Unsplash",
+    "category": "conversion",
+    "keyFigures": ["paul"],
+    "passage": {
+      "en": {
+        "fullText": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest, And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem. And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven: And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks. And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do. And the men which journeyed with him stood speechless, hearing a voice, but seeing no man. And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought him into Damascus. And he was three days without sight, and neither did eat nor drink.",
+        "verses": [
+          { "number": 1, "text": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest," },
+          { "number": 2, "text": "And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem." },
+          { "number": 3, "text": "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:" },
+          { "number": 4, "text": "And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?" },
+          { "number": 5, "text": "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks." },
+          { "number": 6, "text": "And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do." },
+          { "number": 7, "text": "And the men which journeyed with him stood speechless, hearing a voice, but seeing no man." },
+          { "number": 8, "text": "And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought him into Damascus." },
+          { "number": 9, "text": "And he was three days without sight, and neither did eat nor drink." }
+        ],
+        "excerpt": "Saul, Saul, why persecutest thou me?"
+      },
+      "zh": {
+        "fullText": "掃羅仍然向主的門徒口吐威嚇兇殺的話，去見大祭司，求文書給大馬士革的各會堂，若是找著信奉這道的人，無論男女，都准他捆綁帶到耶路撒冷。掃羅行路，將到大馬士革，忽然從天上發光，四面照著他；他就仆倒在地，聽見有聲音對他說：「掃羅！掃羅！你為甚麼逼迫我？」他說：「主啊！你是誰？」主說：「我就是你所逼迫的耶穌。起來！進城去，你所當做的事，必有人告訴你。」同行的人站在那裡，說不出話來，聽見聲音，卻看不見人。掃羅從地上起來，睜開眼睛，竟不能看見甚麼。有人拉他的手，領他進了大馬士革；三日不能看見，也不吃也不喝。",
+        "verses": [
+          { "number": 1, "text": "掃羅仍然向主的門徒口吐威嚇兇殺的話，去見大祭司，" },
+          { "number": 2, "text": "求文書給大馬士革的各會堂，若是找著信奉這道的人，無論男女，都准他捆綁帶到耶路撒冷。" },
+          { "number": 3, "text": "掃羅行路，將到大馬士革，忽然從天上發光，四面照著他；" },
+          { "number": 4, "text": "他就仆倒在地，聽見有聲音對他說：「掃羅！掃羅！你為甚麼逼迫我？」" },
+          { "number": 5, "text": "他說：「主啊！你是誰？」主說：「我就是你所逼迫的耶穌。" },
+          { "number": 6, "text": "起來！進城去，你所當做的事，必有人告訴你。」" },
+          { "number": 7, "text": "同行的人站在那裡，說不出話來，聽見聲音，卻看不見人。" },
+          { "number": 8, "text": "掃羅從地上起來，睜開眼睛，竟不能看見甚麼。有人拉他的手，領他進了大馬士革；" },
+          { "number": 9, "text": "三日不能看見，也不吃也不喝。" }
+        ],
+        "excerpt": "掃羅！掃羅！你為甚麼逼迫我？"
+      }
+    },
+    "previousEventId": "philip-ethiopian",
+    "nextEventId": "peter-cornelius"
+  }
+]

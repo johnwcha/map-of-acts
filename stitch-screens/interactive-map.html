@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#1152d4",
+                        "background-light": "#f6f6f8",
+                        "background-dark": "#101622",
+                    },
+                    fontFamily: {
+                        "display": ["Noto Serif"]
+                    },
+                    borderRadius: { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" },
+                },
+            },
+        }
+    </script>
+<style type="text/tailwindcss">
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        body {
+            font-family: "Noto Serif", serif;
+            min-height: max(884px, 100dvh);
+        }
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background-light dark:bg-background-dark text-[#111318] dark:text-white">
+<div class="relative flex h-screen w-full flex-col overflow-hidden">
+<div class="flex items-center bg-white/90 dark:bg-background-dark/90 backdrop-blur-md p-4 pb-2 justify-between z-50 border-b border-gray-100 dark:border-gray-800">
+<div class="text-[#111318] dark:text-white flex size-12 shrink-0 items-center cursor-pointer">
+<span class="material-symbols-outlined text-[24px]">arrow_back_ios</span>
+</div>
+<h2 class="text-[#111318] dark:text-white text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-center">Acts Journey</h2>
+<div class="flex w-12 items-center justify-end">
+<button class="flex items-center justify-center rounded-lg h-12 bg-transparent text-[#111318] dark:text-white">
+<span class="material-symbols-outlined">search</span>
+</button>
+</div>
+</div>
+<div class="relative flex-1 @container">
+<div class="absolute inset-0 bg-[#e0d8c0]">
+<img alt="Terrain map of the Mediterranean" class="w-full h-full object-cover opacity-90 mix-blend-multiply" src="https://lh3.googleusercontent.com/aida-public/AB6AXuArHnKREu_DjmNTTtznPk92FS6y0Syw0qTO5ldHc8EZdM14gC7eZn0JayOw8MPbS-Rh2TzCF_K0vEW_4xcuu-Dx-DOtpi4lmDI-6gvtzUzHGMVtsF-KGqR8htDs9uhHXynjufCnw6v8P7958hY3f1EFUABL0dJLN2wmVrKgvSmKQlax7o-T6bAwfqnGgAQYK1-paHTLcEpC1GgfRZyZF4lQRAQlaUVfuRn1ymaXKipT6UTz3_csv04RAa_8RpJt5fs_AvmhZPRCwv1H"/>
+<div class="absolute inset-0">
+<div class="absolute bottom-[20%] left-[65%] flex flex-col items-center">
+<span class="text-[10px] font-bold text-black/70 bg-white/40 px-1 rounded uppercase tracking-tighter">Jerusalem</span>
+<div class="size-2 rounded-full bg-primary border border-white shadow-sm"></div>
+</div>
+<div class="absolute top-[35%] left-[75%] flex flex-col items-center">
+<span class="text-[10px] font-bold text-black/70 bg-white/40 px-1 rounded uppercase tracking-tighter">Damascus</span>
+<div class="size-2 rounded-full bg-primary border border-white shadow-sm"></div>
+</div>
+</div>
+<svg class="absolute inset-0 w-full h-full pointer-events-none" preserveAspectRatio="none" viewBox="0 0 400 600">
+<path class="opacity-80" d="M 260 480 Q 280 400 300 210" fill="transparent" stroke="#1152d4" stroke-dasharray="6 4" stroke-width="3"></path>
+</svg>
+</div>
+<div class="absolute top-4 left-4 right-4 z-40">
+<label class="flex flex-col h-12 shadow-lg">
+<div class="flex w-full flex-1 items-stretch rounded-lg h-full overflow-hidden">
+<div class="text-gray-500 flex border-none bg-white dark:bg-gray-800 items-center justify-center pl-4">
+<span class="material-symbols-outlined">map</span>
+</div>
+<input class="form-input flex w-full min-w-0 flex-1 border-none bg-white dark:bg-gray-800 focus:ring-0 h-full text-[#111318] dark:text-white px-4 pl-2 text-base font-normal" placeholder="Search cities (e.g., Damascus)" value=""/>
+</div>
+</label>
+</div>
+<div class="absolute right-4 top-24 flex flex-col gap-3 z-40">
+<div class="flex flex-col gap-0.5 rounded-lg overflow-hidden shadow-lg border border-black/5">
+<button class="flex size-12 items-center justify-center bg-white dark:bg-gray-800 text-[#111318] dark:text-white border-b border-gray-100 dark:border-gray-700">
+<span class="material-symbols-outlined">add</span>
+</button>
+<button class="flex size-12 items-center justify-center bg-white dark:bg-gray-800 text-[#111318] dark:text-white">
+<span class="material-symbols-outlined">remove</span>
+</button>
+</div>
+<button class="flex size-12 items-center justify-center rounded-lg bg-white dark:bg-gray-800 shadow-lg border border-black/5 text-primary">
+<span class="material-symbols-outlined">my_location</span>
+</button>
+</div>
+<div class="absolute top-20 left-0 w-full overflow-x-auto no-scrollbar z-40">
+<div class="flex gap-3 p-4">
+<div class="flex h-9 shrink-0 items-center justify-center gap-x-2 rounded-full bg-primary text-white px-5 shadow-md">
+<p class="text-sm font-medium">1st Journey</p>
+</div>
+<div class="flex h-9 shrink-0 items-center justify-center gap-x-2 rounded-full bg-white dark:bg-gray-800 text-[#111318] dark:text-white px-5 shadow-md">
+<p class="text-sm font-medium">2nd Journey</p>
+</div>
+<div class="flex h-9 shrink-0 items-center justify-center gap-x-2 rounded-full bg-white dark:bg-gray-800 text-[#111318] dark:text-white px-5 shadow-md">
+<p class="text-sm font-medium">3rd Journey</p>
+</div>
+<div class="flex h-9 shrink-0 items-center justify-center gap-x-2 rounded-full bg-white dark:bg-gray-800 text-[#111318] dark:text-white px-5 shadow-md">
+<p class="text-sm font-medium">Rome</p>
+</div>
+</div>
+</div>
+<div class="absolute bottom-6 left-4 right-4 z-40">
+<div class="flex items-stretch justify-between gap-4 rounded-xl bg-white/95 dark:bg-gray-800/95 backdrop-blur-md p-4 shadow-2xl border border-white/50 dark:border-white/10">
+<div class="flex flex-[2_2_0px] flex-col gap-3">
+<div class="flex flex-col gap-1">
+<span class="text-xs font-bold uppercase tracking-wider text-primary">Active Event</span>
+<p class="text-[#111318] dark:text-white text-lg font-bold leading-tight">The Conversion of Saul</p>
+<p class="text-gray-500 dark:text-gray-400 text-sm font-normal">Acts 9:1-19 • Damascus</p>
+</div>
+<div class="flex gap-2">
+<button class="flex flex-1 cursor-pointer items-center justify-center rounded-lg h-9 bg-primary text-white gap-2 text-sm font-medium">
+<span class="material-symbols-outlined text-[18px]">auto_stories</span>
+<span class="truncate">Read Story</span>
+</button>
+<button class="flex size-9 items-center justify-center rounded-lg bg-gray-100 dark:bg-gray-700 text-[#111318] dark:text-white">
+<span class="material-symbols-outlined text-[20px]">bookmark</span>
+</button>
+</div>
+</div>
+<div class="w-24 h-24 bg-center bg-no-repeat bg-cover rounded-lg shrink-0 shadow-inner" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBvRvXp6OHkvmYcOxrnXPGupfZvL6H3a4mGxEbjCcWckYps9Jsh_sJS5M22CA1kflvXHtzu6mvvjwHLQiWmQLUIkr0_bprZLLUCLDLcmdimgX9beWSwg7YvpaDQj3tUZzNV1MxrpEfHl9O3gSkA-OX_1_qoPZ12Uo4RSZi0b--lXDHpTHmYPKvoFYndp8vsh7HLsf2ph3eT0hzwW0qf9iFIQYutxxk33t2m4FDkZF8IdHZwdHXw5pWE4-ResP2fjXKxuP_etK-DTA63");'>
+</div>
+</div>
+</div>
+</div>
+<div class="bg-white dark:bg-background-dark border-t border-gray-100 dark:border-gray-800 px-6 pt-4 pb-8 z-50">
+<div class="flex w-full items-center justify-between mb-2">
+<p class="text-primary text-base font-bold">Chapter 9</p>
+<div class="flex items-center gap-1 text-gray-500 dark:text-gray-400">
+<span class="material-symbols-outlined text-sm">schedule</span>
+<p class="text-xs font-medium">AD 34</p>
+</div>
+</div>
+<div class="relative flex h-6 w-full items-center">
+<div class="flex h-1.5 flex-1 rounded-full bg-gray-200 dark:bg-gray-700">
+<div class="h-full w-[32%] rounded-full bg-primary relative">
+<div class="absolute -right-3 -top-2.5 size-6 rounded-full bg-white border-2 border-primary shadow-lg flex items-center justify-center">
+<div class="size-2 rounded-full bg-primary"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="flex justify-between mt-2 text-[10px] text-gray-400 uppercase tracking-widest font-bold">
+<span>Acts 1</span>
+<span>Acts 14</span>
+<span>Acts 28</span>
+</div>
+</div>
+</div>
+
+</body></html>

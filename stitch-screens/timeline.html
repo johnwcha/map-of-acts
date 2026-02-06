@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Acts Chronological Timeline</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&amp;family=Noto+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#1152d4",
+                        "background-light": "#f6f6f8",
+                        "background-dark": "#101622",
+                    },
+                    fontFamily: {
+                        "display": ["Noto Serif", "serif"],
+                        "sans": ["Noto Sans", "sans-serif"]
+                    },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                },
+            },
+        }
+    </script>
+<style>
+        body {
+            font-family: 'Noto Sans', sans-serif;
+        }
+        .serif-font {
+            font-family: 'Noto Serif', serif;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background-light dark:bg-background-dark min-h-screen text-slate-900 dark:text-slate-100">
+<!-- Top Navigation Bar -->
+<nav class="sticky top-0 z-50 bg-white/80 dark:bg-background-dark/80 backdrop-blur-md border-b border-slate-200 dark:border-slate-800">
+<div class="flex items-center p-4 justify-between max-w-md mx-auto">
+<div class="text-primary flex size-10 items-center justify-center rounded-full hover:bg-primary/10 cursor-pointer transition-colors">
+<span class="material-symbols-outlined">arrow_back_ios_new</span>
+</div>
+<h1 class="serif-font text-lg font-bold leading-tight flex-1 text-center">Acts Timeline</h1>
+<div class="flex size-10 items-center justify-end">
+<button class="flex items-center justify-center rounded-full text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 p-2">
+<span class="material-symbols-outlined">search</span>
+</button>
+</div>
+</div>
+</nav>
+<main class="max-w-md mx-auto pb-20">
+<!-- Header Section -->
+<header class="pt-8 pb-6 px-4 text-center">
+<h2 class="serif-font text-primary tracking-tight text-[32px] font-bold leading-tight mb-2">The Book of Acts</h2>
+<p class="text-slate-500 dark:text-slate-400 text-sm font-normal serif-font italic">A Chronological Journey of the Early Church</p>
+</header>
+<!-- Timeline Container -->
+<div class="px-4">
+<!-- Timeline Item 1 -->
+<div class="grid grid-cols-[40px_1fr] gap-x-4">
+<div class="flex flex-col items-center">
+<div class="bg-primary size-4 rounded-full border-4 border-primary/20 ring-4 ring-white dark:ring-background-dark z-10 mt-6"></div>
+<div class="w-[2px] bg-primary/30 h-full -mt-2"></div>
+</div>
+<div class="flex flex-col py-4 bg-white dark:bg-slate-900/50 rounded-xl p-4 mb-4 shadow-sm border border-slate-100 dark:border-slate-800">
+<span class="text-primary text-xs font-bold tracking-wider uppercase mb-1">Acts 1:6-11</span>
+<h3 class="serif-font text-[#111318] dark:text-white text-lg font-bold leading-tight">The Ascension</h3>
+<p class="text-slate-600 dark:text-slate-400 text-sm mt-2 leading-relaxed">Jesus is taken up into heaven from the Mount of Olives after promising the Holy Spirit.</p>
+<div class="mt-4 relative group cursor-pointer">
+<div class="absolute inset-0 bg-black/5 group-hover:bg-black/0 transition-colors rounded-lg"></div>
+<div class="aspect-[16/7] w-full rounded-lg bg-cover bg-center overflow-hidden border border-slate-200 dark:border-slate-700" data-alt="Ancient map showing the Mount of Olives" data-location="Jerusalem" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuC293A0ueK9lb46IcqlJ81rxQ93DyGd2EdiVbnqBeAAjFEVYnMJXw-1HiNjlF1FtJQZH1yTzCsxdgu0SdJ6v7SdlqjloETUODA2reC0_c--DhZU0hITTthDJhWpmrj03VpEI6FMOAfk0bIbjqMkIuuhDvrlKWDUBaXKpKowQUFjGDWJRcVR9bHZ3mqDC8G_CqexCZzE7It0mWjG0GX1bUCyoRqqjkPRBoPv8UbZsZJ20Emo20ZCgnO_KqlxbwBVJWxksA42bVfK6-Bo");'>
+</div>
+<div class="absolute bottom-2 right-2 bg-white/90 dark:bg-slate-800/90 p-1.5 rounded-md shadow-md flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px]">location_on</span>
+<span class="text-[10px] font-bold uppercase tracking-tighter">Jerusalem</span>
+</div>
+</div>
+</div>
+</div>
+<!-- Timeline Item 2 -->
+<div class="grid grid-cols-[40px_1fr] gap-x-4">
+<div class="flex flex-col items-center">
+<div class="bg-primary size-4 rounded-full border-4 border-primary/20 ring-4 ring-white dark:ring-background-dark z-10 mt-6"></div>
+<div class="w-[2px] bg-primary/30 h-full -mt-2"></div>
+</div>
+<div class="flex flex-col py-4 bg-white dark:bg-slate-900/50 rounded-xl p-4 mb-4 shadow-sm border border-slate-100 dark:border-slate-800">
+<span class="text-primary text-xs font-bold tracking-wider uppercase mb-1">Acts 2:1-4</span>
+<h3 class="serif-font text-[#111318] dark:text-white text-lg font-bold leading-tight">Day of Pentecost</h3>
+<p class="text-slate-600 dark:text-slate-400 text-sm mt-2 leading-relaxed">The Holy Spirit descends upon the disciples in the Upper Room, enabling them to speak in tongues.</p>
+<div class="mt-4 flex items-center gap-3 p-3 bg-slate-50 dark:bg-slate-800/80 rounded-lg border border-slate-200/50 dark:border-slate-700/50">
+<span class="material-symbols-outlined text-primary">auto_awesome</span>
+<span class="text-xs font-medium text-slate-500 italic">Birth of the Global Church</span>
+</div>
+</div>
+</div>
+<!-- Section Divider -->
+<div class="grid grid-cols-[40px_1fr] gap-x-4">
+<div class="flex flex-col items-center">
+<div class="w-[2px] bg-primary/30 h-full"></div>
+</div>
+<div class="py-4">
+<h4 class="serif-font text-slate-400 dark:text-slate-500 font-bold text-xs uppercase tracking-[0.2em] py-2">The Early Persecutions</h4>
+</div>
+</div>
+<!-- Timeline Item 3 -->
+<div class="grid grid-cols-[40px_1fr] gap-x-4">
+<div class="flex flex-col items-center">
+<div class="bg-primary size-4 rounded-full border-4 border-primary/20 ring-4 ring-white dark:ring-background-dark z-10 mt-6"></div>
+<div class="w-[2px] bg-primary/30 h-full -mt-2"></div>
+</div>
+<div class="flex flex-col py-4 bg-white dark:bg-slate-900/50 rounded-xl p-4 mb-4 shadow-sm border border-slate-100 dark:border-slate-800">
+<span class="text-primary text-xs font-bold tracking-wider uppercase mb-1">Acts 7:54-60</span>
+<h3 class="serif-font text-[#111318] dark:text-white text-lg font-bold leading-tight">The Stoning of Stephen</h3>
+<p class="text-slate-600 dark:text-slate-400 text-sm mt-2 leading-relaxed">The first Christian martyr is stoned to death. A young man named Saul approves of his execution.</p>
+<div class="mt-4 aspect-[16/7] w-full rounded-lg bg-cover bg-center border border-slate-200 dark:border-slate-700" data-alt="Map of Jerusalem showing the Damascus Gate area" data-location="Jerusalem" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuC293A0ueK9lb46IcqlJ81rxQ93DyGd2EdiVbnqBeAAjFEVYnMJXw-1HiNjlF1FtJQZH1yTzCsxdgu0SdJ6v7SdlqjloETUODA2reC0_c--DhZU0hITTthDJhWpmrj03VpEI6FMOAfk0bIbjqMkIuuhDvrlKWDUBaXKpKowQUFjGDWJRcVR9bHZ3mqDC8G_CqexCZzE7It0mWjG0GX1bUCyoRqqjkPRBoPv8UbZsZJ20Emo20ZCgnO_KqlxbwBVJWxksA42bVfK6-Bo");'>
+</div>
+</div>
+</div>
+<!-- Timeline Item 4 -->
+<div class="grid grid-cols-[40px_1fr] gap-x-4">
+<div class="flex flex-col items-center">
+<div class="bg-primary size-4 rounded-full border-4 border-primary/20 ring-4 ring-white dark:ring-background-dark z-10 mt-6"></div>
+<div class="w-[2px] bg-primary/30 h-full -mt-2"></div>
+</div>
+<div class="flex flex-col py-4 bg-white dark:bg-slate-900/50 rounded-xl p-4 mb-4 shadow-sm border border-slate-100 dark:border-slate-800">
+<span class="text-primary text-xs font-bold tracking-wider uppercase mb-1">Acts 9:1-19</span>
+<h3 class="serif-font text-[#111318] dark:text-white text-lg font-bold leading-tight">Conversion of Saul</h3>
+<p class="text-slate-600 dark:text-slate-400 text-sm mt-2 leading-relaxed">Saul encounters the risen Christ on the road to Damascus and is blinded by a heavenly light.</p>
+<div class="mt-4 relative group">
+<div class="aspect-[16/7] w-full rounded-lg bg-cover bg-center border border-slate-200 dark:border-slate-700" data-alt="Geographical map highlighting the road from Jerusalem to Damascus" data-location="Damascus" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCiPzQ_iiBBZKwoQIMPR5iCoF4FpsEnFhiulIfdQdZoQmPQe7u17HCGS0_hr8RFRPf77LE0FqSzae8ky2Q3V9PLm5X7s5MnUdMNsy2EqWmTjVk0nZJI1HP7yowQNleUeTtuolq6Kd3H6VJCa216rGXsZ2rh7U0dnbZVQXIzTQudUftVjFeO9mI_81QTgrpdtFaETsN9va4ZjWoLwvJWy9oVc6nI9K22KVmwnWWYZf4scqypdJzplGilhRsdiX1xtFy9JkI_GzzLek4v");'>
+</div>
+<div class="absolute inset-0 flex items-center justify-center">
+<div class="bg-white/20 backdrop-blur-sm p-3 rounded-full border border-white/40">
+<span class="material-symbols-outlined text-white text-3xl">light_mode</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Timeline Item 5 (Final in view) -->
+<div class="grid grid-cols-[40px_1fr] gap-x-4">
+<div class="flex flex-col items-center">
+<div class="bg-primary size-4 rounded-full border-4 border-primary/20 ring-4 ring-white dark:ring-background-dark z-10 mt-6"></div>
+<div class="w-[2px] bg-gradient-to-b from-primary/30 to-transparent h-20 -mt-2"></div>
+</div>
+<div class="flex flex-col py-4 bg-white dark:bg-slate-900/50 rounded-xl p-4 mb-4 shadow-sm border border-slate-100 dark:border-slate-800">
+<span class="text-primary text-xs font-bold tracking-wider uppercase mb-1">Acts 13-14</span>
+<h3 class="serif-font text-[#111318] dark:text-white text-lg font-bold leading-tight">Paul's First Journey</h3>
+<p class="text-slate-600 dark:text-slate-400 text-sm mt-2 leading-relaxed">Paul and Barnabas are sent out by the church in Antioch to preach throughout Cyprus and Galatia.</p>
+<div class="mt-4 flex items-center justify-between">
+<div class="flex -space-x-2">
+<div class="size-8 rounded-full border-2 border-white dark:border-slate-900 bg-slate-200 flex items-center justify-center text-[10px] font-bold">PB</div>
+<div class="size-8 rounded-full border-2 border-white dark:border-slate-900 bg-primary/20 flex items-center justify-center text-[10px] font-bold text-primary">MAP</div>
+</div>
+<button class="text-primary text-xs font-bold flex items-center gap-1 hover:underline">
+                            View Route <span class="material-symbols-outlined text-xs">arrow_forward</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!-- Bottom Tab Bar (iOS Style) -->
+<div class="fixed bottom-0 left-0 right-0 bg-white/90 dark:bg-background-dark/90 backdrop-blur-xl border-t border-slate-200 dark:border-slate-800 pb-6 pt-2 z-50">
+<div class="max-w-md mx-auto flex justify-around items-center">
+<div class="flex flex-col items-center gap-1 text-primary">
+<span class="material-symbols-outlined fill-1">route</span>
+<span class="text-[10px] font-bold">Timeline</span>
+</div>
+<div class="flex flex-col items-center gap-1 text-slate-400">
+<span class="material-symbols-outlined">map</span>
+<span class="text-[10px] font-medium">Atlas</span>
+</div>
+<div class="flex flex-col items-center gap-1 text-slate-400">
+<span class="material-symbols-outlined">menu_book</span>
+<span class="text-[10px] font-medium">Read</span>
+</div>
+<div class="flex flex-col items-center gap-1 text-slate-400">
+<span class="material-symbols-outlined">person</span>
+<span class="text-[10px] font-medium">People</span>
+</div>
+</div>
+</div>
+</body></html>

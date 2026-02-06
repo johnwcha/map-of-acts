@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "timeline": "時間軸",
+    "map": "地圖",
+    "read": "閱讀",
+    "people": "人物"
+  },
+  "timeline": {
+    "title": "使徒行傳",
+    "subtitle": "早期教會之旅",
+    "viewRoute": "查看路線"
+  },
+  "event": {
+    "location": "地點",
+    "keyFigures": "關鍵人物",
+    "readFullPassage": "閱讀完整經文",
+    "compareTranslations": "比較譯本",
+    "selectTranslation": "選擇譯本",
+    "opensBibleGateway": "在 Bible Gateway 中開啟",
+    "previous": "上一個",
+    "next": "下一個",
+    "share": "分享"
+  },
+  "map": {
+    "title": "使徒行程",
+    "search": "搜索地點...",
+    "readStory": "閱讀故事",
+    "bookmark": "書籤",
+    "chapter": "章節",
+    "journeys": {
+      "first": "第一次旅程",
+      "second": "第二次旅程",
+      "third": "第三次旅程",
+      "rome": "羅馬"
+    }
+  },
+  "common": {
+    "back": "返回",
+    "loading": "載入中...",
+    "error": "載入內容時發生錯誤",
+    "view_map": "查看地圖"
+  },
+  "categories": {
+    "early-church": "早期教會",
+    "persecution": "逼迫與增長",
+    "conversion": "悔改與呼召",
+    "missionary-journey": "宣教旅程",
+    "imprisonment": "審判與監禁",
+    "miracle": "神蹟與奇事"
+  },
+  "read": {
+    "title": "閱讀使徒行傳",
+    "chapterOf": "第 {current} 章，共 {total} 章",
+    "verses": "節",
+    "readingMode": {
+      "sideBySide": "中英對照",
+      "englishOnly": "英文",
+      "chineseOnly": "中文"
+    },
+    "bookmark": {
+      "add": "收藏",
+      "remove": "取消收藏",
+      "chapter": "第 {num} 章",
+      "verse": "第 {num} 節"
+    },
+    "navigation": {
+      "previous": "上一章",
+      "next": "下一章"
+    }
+  }
+}

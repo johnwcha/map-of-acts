@@ -1,0 +1,3342 @@
+{
+  "events": [
+    {
+      "id": "ascension",
+      "title": {
+        "en": "The Ascension of Jesus",
+        "zh": "耶穌升天"
+      },
+      "description": {
+        "en": "Jesus ascends to heaven after commissioning his disciples to be witnesses to all nations",
+        "zh": "耶穌在差遣門徒向萬國作見證後升天"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 1,
+        "verseStart": 6,
+        "verseEnd": 11,
+        "display": "Acts 1:6-11"
+      },
+      "date": {
+        "year": 30,
+        "displayText": {
+          "en": "A.D. 30",
+          "zh": "主後30年"
+        },
+        "order": 1
+      },
+      "location": "mount-of-olives",
+      "primaryImage": "/images/events/The-Ascension-of-Jesus.jpg",
+      "imageSource": "Unsplash",
+      "category": "early-church",
+      "keyFigures": [
+        "jesus",
+        "peter",
+        "john"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "They therefore, when they were come together, asked him, saying, Lord, dost thou at this time restore the kingdom to Israel? And he said unto them, It is not for you to know times or seasons, which the Father hathset within his own authority. But ye shall receive power, when the Holy Spirit is come upon you: and ye shall be my witnesses both in Jerusalem, and in all Judaea and Samaria, and unto the uttermost part of the earth. And when he had said these things, as they were looking, he was taken up; and a cloud received him out of their sight. And while they were looking stedfastly into heaven as he went, behold two men stood by them in white apparel; 11who also said, Ye men of Galilee, why stand ye looking into heaven? this Jesus, who was received up from you into heaven, shall so come in like manner as ye beheld him going into heaven.",
+          "verses": [
+            {
+              "number": 6,
+              "text": "They therefore, when they were come together, asked him, saying, Lord, dost thou at this time restore the kingdom to Israel?"
+            },
+            {
+              "number": 7,
+              "text": "And he said unto them, It is not for you to know times or seasons, which the Father hathset within his own authority."
+            },
+            {
+              "number": 8,
+              "text": "But ye shall receive power, when the Holy Spirit is come upon you: and ye shall be my witnesses both in Jerusalem, and in all Judaea and Samaria, and unto the uttermost part of the earth."
+            },
+            {
+              "number": 9,
+              "text": "And when he had said these things, as they were looking, he was taken up; and a cloud received him out of their sight."
+            },
+            {
+              "number": 10,
+              "text": "And while they were looking stedfastly into heaven as he went, behold two men stood by them in white apparel; 11who also said, Ye men of Galilee, why stand ye looking into heaven? this Jesus, who was received up from you into heaven, shall so come in like manner as ye beheld him going into heaven."
+            }
+          ],
+          "excerpt": "They therefore, when they were come together, asked him, saying, Lord, dost t..."
+        },
+        "zh": {
+          "fullText": "他們聚集的時候，問耶穌說：主啊，你復興以色列國就在這時候嗎？耶穌對他們說：父憑著自己的權柄所定的時候、日期，不是你們可以知道的。但聖靈降臨在你們身上，你們就必得著能力，並要在耶路撒冷、猶太全地和撒馬利亞，直到地極，作我的見證。說了這話，他們正看的時候，他就被取上升。有一朵雲彩把他接去，便看不見他了。當他往上去，他們定睛望天的時候，忽然有兩個人身穿白衣，站在旁邊，說：加利利人哪，你們為甚麼站著望天呢？這離開你們被接升天的耶穌，你們見他怎樣往天上去，他還要怎樣來。",
+          "verses": [
+            {
+              "number": 6,
+              "text": "他們聚集的時候，問耶穌說：主啊，你復興以色列國就在這時候嗎？"
+            },
+            {
+              "number": 7,
+              "text": "耶穌對他們說：父憑著自己的權柄所定的時候、日期，不是你們可以知道的。"
+            },
+            {
+              "number": 8,
+              "text": "但聖靈降臨在你們身上，你們就必得著能力，並要在耶路撒冷、猶太全地和撒馬利亞，直到地極，作我的見證。"
+            },
+            {
+              "number": 9,
+              "text": "說了這話，他們正看的時候，他就被取上升。有一朵雲彩把他接去，便看不見他了。"
+            },
+            {
+              "number": 10,
+              "text": "當他往上去，他們定睛望天的時候，忽然有兩個人身穿白衣，站在旁邊，"
+            },
+            {
+              "number": 11,
+              "text": "說：加利利人哪，你們為甚麼站著望天呢？這離開你們被接升天的耶穌，你們見他怎樣往天上去，他還要怎樣來。"
+            }
+          ],
+          "excerpt": "但聖靈降臨在你們身上，你們就必得著能力..."
+        }
+      },
+      "nextEventId": "pentecost"
+    },
+    {
+      "id": "pentecost",
+      "title": {
+        "en": "Pentecost - The Holy Spirit Comes",
+        "zh": "五旬節 - 聖靈降臨"
+      },
+      "description": {
+        "en": "The Holy Spirit descends on the disciples with tongues of fire, and Peter preaches to the crowds",
+        "zh": "聖靈如火焰降臨在門徒身上，彼得向眾人講道"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 2,
+        "verseStart": 1,
+        "verseEnd": 4,
+        "display": "Acts 2:1-4"
+      },
+      "date": {
+        "year": 30,
+        "displayText": {
+          "en": "A.D. 30",
+          "zh": "主後30年"
+        },
+        "order": 2
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/Pentecost-The-Holy-Spirit-Comes.jpg",
+      "imageSource": "Christian Leader Magazine",
+      "category": "early-church",
+      "keyFigures": [
+        "peter",
+        "john"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And when the day of Pentecostwas now come, they were all together in one place. And suddenly there came from heaven a sound as of the rushing of a mighty wind, and it filled all the house where they were sitting. And there appeared unto them tonguesparting asunder, like as of fire; and it sat upon each one of them. And they were all filled with the Holy Spirit, and began to speak with other tongues, as the Spirit gave them utterance.",
+          "verses": [
+            {
+              "number": 1,
+              "text": "And when the day of Pentecost was now come, they were all together in one place."
+            },
+            {
+              "number": 2,
+              "text": "And suddenly there came from heaven a sound as of the rushing of a mighty wind, and it filled all the house where they were sitting."
+            },
+            {
+              "number": 3,
+              "text": "And there appeared unto them tongues parting asunder, like as of fire; and it sat upon each one of them."
+            },
+            {
+              "number": 4,
+              "text": "And they were all filled with the Holy Spirit, and began to speak with other tongues, as the Spirit gave them utterance."
+            }
+          ],
+          "excerpt": "And when the day of Pentecost was now come, they were all together in one pla..."
+        },
+        "zh": {
+          "fullText": "五旬節到了，門徒都聚集在一處。忽然，從天上有響聲下來，好像一陣大風吹過，充滿了他們所坐的屋子；又有舌頭如火焰顯現出來，分開落在他們各人頭上。他們就都被聖靈充滿，按著聖靈所賜的口才說起別國的話來。",
+          "verses": [
+            {
+              "number": 1,
+              "text": "五旬節到了，門徒都聚集在一處。"
+            },
+            {
+              "number": 2,
+              "text": "忽然，從天上有響聲下來，好像一陣大風吹過，充滿了他們所坐的屋子；"
+            },
+            {
+              "number": 3,
+              "text": "又有舌頭如火焰顯現出來，分開落在他們各人頭上。"
+            },
+            {
+              "number": 4,
+              "text": "他們就都被聖靈充滿，按著聖靈所賜的口才說起別國的話來。"
+            }
+          ],
+          "excerpt": "他們就都被聖靈充滿..."
+        }
+      },
+      "previousEventId": "ascension",
+      "nextEventId": "lame-man-healed"
+    },
+    {
+      "id": "lame-man-healed",
+      "title": {
+        "en": "Peter Heals a Lame Beggar",
+        "zh": "彼得治好瘸腿的乞丐"
+      },
+      "description": {
+        "en": "Peter and John heal a man lame from birth at the temple gate called Beautiful",
+        "zh": "彼得和約翰在聖殿的美門醫治一個生來瘸腿的人"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 3,
+        "verseStart": 1,
+        "verseEnd": 10,
+        "display": "Acts 3:1-10"
+      },
+      "date": {
+        "year": 30,
+        "displayText": {
+          "en": "A.D. 30",
+          "zh": "主後30年"
+        },
+        "order": 3
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/peter-heals-lame-begger.jpg",
+      "imageSource": "Unsplash",
+      "category": "miracle",
+      "keyFigures": [
+        "peter",
+        "john"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "Now Peter and John were going up into the temple at the hour of prayer,beingthe ninthhour. And a certain man that was lame from his mother’s womb was carried, whom they laid daily at the door of the temple which is called Beautiful, to ask alms of them that entered into the temple; 3who seeing Peter and John about to go into the temple, asked to receive an alms. And Peter, fastening his eyes upon him, with John, said, Look on us. And he gave heed unto them, expecting to receive something from them. But Peter said, Silver and gold have I none; but what I have, that give I thee. In the name of Jesus Christ of Nazareth, walk. And he took him by the right hand, and raised him up: and immediately his feet and his ankle-bones received strength. And leaping up, he stood, and began to walk; and he entered with them into the temple, walking, and leaping, and praising God. And all the people saw him walking and praising God: 10and they took knowledge of him, that it was he that sat for alms at the Beautiful Gate of the temple; and they were filled with wonder and amazement at that which had happened unto him.",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Now Peter and John were going up into the temple at the hour of prayer, being the ninth hour."
+            },
+            {
+              "number": 2,
+              "text": "And a certain man that was lame from his mother's womb was carried, whom they laid daily at the door of the temple which is called Beautiful, to ask alms of them that entered into the temple;"
+            },
+            {
+              "number": 3,
+              "text": "who seeing Peter and John about to go into the temple, asked to receive an alms."
+            },
+            {
+              "number": 4,
+              "text": "And Peter, fastening his eyes upon him, with John, said, Look on us."
+            },
+            {
+              "number": 5,
+              "text": "And he gave heed unto them, expecting to receive something from them."
+            },
+            {
+              "number": 6,
+              "text": "But Peter said, Silver and gold have I none; but what I have, that give I thee. In the name of Jesus Christ of Nazareth, walk."
+            },
+            {
+              "number": 7,
+              "text": "And he took him by the right hand, and raised him up: and immediately his feet and his ankle-bones received strength."
+            },
+            {
+              "number": 8,
+              "text": "And leaping up, he stood, and began to walk; and he entered with them into the temple, walking, and leaping, and praising God."
+            },
+            {
+              "number": 9,
+              "text": "And all the people saw him walking and praising God:"
+            },
+            {
+              "number": 10,
+              "text": "and they took knowledge of him, that it was he that sat for alms at the Beautiful Gate of the temple; and they were filled with wonder and amazement at that which had happened unto him."
+            }
+          ],
+          "excerpt": "Now Peter and John were going up into the temple at the hour of prayer, being..."
+        },
+        "zh": {
+          "fullText": "申初禱告的時候，彼得、約翰上聖殿去。有一個人，生來是瘸腿的，天天被人抬來，放在殿的一個門口（那門名叫美門），要求進殿的人賙濟。他看見彼得、約翰將要進殿，就求他們賙濟。彼得、約翰定睛看他。彼得說：「你看我們！」那人就留意看他們，指望得著甚麼。彼得說：「金銀我都沒有，只把我所有的給你：我奉拿撒勒人耶穌基督的名，叫你起來行走！」於是拉著他的右手，扶他起來；他的腳和踝子骨立刻健壯了，就跳起來，站著，又行走，同他們進了殿，走著，跳著，讚美神。百姓都看見他行走，讚美神；認得他是那素常坐在殿的美門口求賙濟的，就因他所遇著的事滿心希奇、驚訝。",
+          "verses": [
+            {
+              "number": 1,
+              "text": "申初禱告的時候，彼得、約翰上聖殿去。"
+            },
+            {
+              "number": 2,
+              "text": "有一個人，生來是瘸腿的，天天被人抬來，放在殿的一個門口（那門名叫美門），要求進殿的人賙濟。"
+            },
+            {
+              "number": 3,
+              "text": "他看見彼得、約翰將要進殿，就求他們賙濟。"
+            },
+            {
+              "number": 4,
+              "text": "彼得、約翰定睛看他。彼得說：「你看我們！」"
+            },
+            {
+              "number": 5,
+              "text": "那人就留意看他們，指望得著甚麼。"
+            },
+            {
+              "number": 6,
+              "text": "彼得說：「金銀我都沒有，只把我所有的給你：我奉拿撒勒人耶穌基督的名，叫你起來行走！」"
+            },
+            {
+              "number": 7,
+              "text": "於是拉著他的右手，扶他起來；他的腳和踝子骨立刻健壯了，"
+            },
+            {
+              "number": 8,
+              "text": "就跳起來，站著，又行走，同他們進了殿，走著，跳著，讚美神。"
+            },
+            {
+              "number": 9,
+              "text": "百姓都看見他行走，讚美神；"
+            },
+            {
+              "number": 10,
+              "text": "認得他是那素常坐在殿的美門口求賙濟的，就因他所遇著的事滿心希奇、驚訝。"
+            }
+          ],
+          "excerpt": "金銀我都沒有，只把我所有的給你..."
+        }
+      },
+      "previousEventId": "pentecost",
+      "nextEventId": "peter-speech-solomons-colonnade"
+    },
+    {
+      "id": "peter-speech-solomons-colonnade",
+      "title": {
+        "en": "Peter's Speech at Solomon's Colonnade",
+        "zh": "彼得在所羅門廊下的講道"
+      },
+      "description": {
+        "en": "Following the healing of the lame man, Peter addresses the crowd at the temple, testifying of Jesus' resurrection and calling the people to repentance.",
+        "zh": "在醫治瘸腿的人之後，彼得在聖殿向群眾講道，見證耶穌的復活並呼籲百姓悔改。"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 3,
+        "verseStart": 12,
+        "verseEnd": 26,
+        "display": "Acts 3:12-26"
+      },
+      "date": {
+        "year": 30,
+        "displayText": {
+          "en": "A.D. 30",
+          "zh": "主後30年"
+        },
+        "order": 3.5
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/placeholder.jpg",
+      "imageSource": "Placeholder",
+      "category": "speech",
+      "keyFigures": [
+        "peter",
+        "john"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And when Peter saw it, he answered unto the people, Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk? The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go. But ye denied the Holy One and the Just, and desired a murderer to be granted unto you; And killed the Prince of life, whom God hath raised from the dead; whereof we are witnesses. And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all. And now, brethren, I wot that through ignorance ye did it, as did also your rulers. But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled. Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord; And he shall send Jesus Christ, which before was preached unto you: Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began. For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people. Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days. Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed. Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.",
+          "verses": [
+            {
+              "number": 12,
+              "text": "And when Peter saw it, he answered unto the people, Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk?"
+            },
+            {
+              "number": 13,
+              "text": "The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go."
+            },
+            {
+              "number": 14,
+              "text": "But ye denied the Holy One and the Just, and desired a murderer to be granted unto you;"
+            },
+            {
+              "number": 15,
+              "text": "And killed the Prince of life, whom God hath raised from the dead; whereof we are witnesses."
+            },
+            {
+              "number": 16,
+              "text": "And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all."
+            },
+            {
+              "number": 17,
+              "text": "And now, brethren, I wot that through ignorance ye did it, as did also your rulers."
+            },
+            {
+              "number": 18,
+              "text": "But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled."
+            },
+            {
+              "number": 19,
+              "text": "Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;"
+            },
+            {
+              "number": 20,
+              "text": "And he shall send Jesus Christ, which before was preached unto you:"
+            },
+            {
+              "number": 21,
+              "text": "Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began."
+            },
+            {
+              "number": 22,
+              "text": "For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you."
+            },
+            {
+              "number": 23,
+              "text": "And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people."
+            },
+            {
+              "number": 24,
+              "text": "Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days."
+            },
+            {
+              "number": 25,
+              "text": "Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed."
+            },
+            {
+              "number": 26,
+              "text": "Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities."
+            }
+          ],
+          "excerpt": "Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us..."
+        },
+        "zh": {
+          "fullText": "彼得看見，就對百姓說：以色列人哪，為什麼把這事當作希奇呢？為什麼定睛看我們，以為我們憑自己的能力和虔誠使這人行走呢？亞伯拉罕、以撒、雅各的神，就是我們列祖的神，已經榮耀了他的僕人（或作：兒子）耶穌；你們卻把他交付彼拉多。彼拉多定意要釋放他，你們竟在彼拉多面前棄絕了他。你們棄絕了那聖潔公義者，反求著釋放一個兇手給你們。你們殺了那生命的主，神卻叫他從死裏復活了；我們都是為這事作見證。我們因信他的名，他的名便叫你們所看見所認識的這人健壯了；正是他所賜的信心，叫這人在你們眾人面前全然好了。弟兄們，我曉得你們做這事是出於不知，你們的官長也是如此。但神曾藉眾先知的口，預言基督將要受害，就這樣應驗了。所以，你們當悔改歸正，使你們的罪得以塗抹，這樣，那安舒的日子就必從主面前來到；主也必差遣所預定給你們的基督耶穌降臨。天必留他，直到萬物復興的時候，就是神從創世以來、藉著聖先知的口所說的。摩西曾說：主─神要從你們弟兄中間給你們興起一位先知像我，凡他向你們所說的，你們都要聽從。凡不聽從那先知的，必要從民中全然滅絕。從撒母耳以來的眾先知，凡說預言的，也都說到這些日子。你們是先知的子孫，也承受神與你們祖宗所立的約，就是對亞伯拉罕說：地上萬族都要因你的後裔得福。神既興起他的僕人，（或作：兒子），就先差他到你們這裡來，賜福給你們，叫你們各人回轉，離開罪惡。",
+          "verses": [
+            {
+              "number": 12,
+              "text": "彼得看見，就對百姓說：以色列人哪，為什麼把這事當作希奇呢？為什麼定睛看我們，以為我們憑自己的能力和虔誠使這人行走呢？"
+            },
+            {
+              "number": 13,
+              "text": "亞伯拉罕、以撒、雅各的神，就是我們列祖的神，已經榮耀了他的僕人（或作：兒子）耶穌；你們卻把他交付彼拉多。彼拉多定意要釋放他，你們竟在彼拉多面前棄絕了他。"
+            },
+            {
+              "number": 14,
+              "text": "你們棄絕了那聖潔公義者，反求著釋放一個兇手給你們。"
+            },
+            {
+              "number": 15,
+              "text": "你們殺了那生命的主，神卻叫他從死裡復活了；我們都是為這事作見證。"
+            },
+            {
+              "number": 16,
+              "text": "我們因信他的名，他的名便叫你們所看見所認識的這人健壯了；正是他所賜的信心，叫這人在你們眾人面前全然好了。"
+            },
+            {
+              "number": 17,
+              "text": "弟兄們，我曉得你們做這事是出於不知，你們的官長也是如此。"
+            },
+            {
+              "number": 18,
+              "text": "但神曾藉眾先知的口，預言基督將要受害，就這樣應驗了。"
+            },
+            {
+              "number": 19,
+              "text": "所以，你們當悔改歸正，使你們的罪得以塗抹，這樣，那安舒的日子就必從主面前來到；"
+            },
+            {
+              "number": 20,
+              "text": "主也必差遣所預定給你們的基督耶穌降臨。"
+            },
+            {
+              "number": 21,
+              "text": "天必留他，直到萬物復興的時候，就是神從創世以來、藉著聖先知的口所說的。"
+            },
+            {
+              "number": 22,
+              "text": "摩西曾說：主─神要從你們弟兄中間給你們興起一位先知像我，凡他向你們所ﯩ的，你們都要聽從。"
+            },
+            {
+              "number": 23,
+              "text": "凡不聽從那先知的，必要從民中全然滅絕。"
+            },
+            {
+              "number": 24,
+              "text": "從撒母耳以來的眾先知，凡說預言的，也都ﯩ到這些日子。"
+            },
+            {
+              "number": 25,
+              "text": "你們是先知的子孫，也承受神與你們祖宗所立的約，就是對亞伯拉罕說：地上萬族都要因你的後裔得福。"
+            },
+            {
+              "number": 26,
+              "text": "神既興起他的僕人，（或作：兒子），就先差他到你們這裡來，賜福給你們，叫你們各人回轉，離開罪惡。"
+            }
+          ],
+          "excerpt": "以色列人哪，為什麼把這事當作希奇呢？為什麼定睛看我們..."
+        }
+      },
+      "previousEventId": "lame-man-healed",
+      "nextEventId": "peter-john-before-sanhedrin"
+    },
+    {
+      "id": "peter-john-before-sanhedrin",
+      "title": {
+        "en": "Peter and John Before the Sanhedrin",
+        "zh": "彼得和約翰在公會受審"
+      },
+      "description": {
+        "en": "Peter and John are arrested for preaching in Jesus' name. They testify boldly before the religious leaders, and after their release, the church prays for continued boldness.",
+        "zh": "彼得和約翰因奉耶穌的名講道而被捕。他們在宗教領袖面前大膽作見證。釋放後，教會同心合意祈求繼續大放膽量。"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 4,
+        "verseStart": 1,
+        "verseEnd": 31,
+        "display": "Acts 4:1-31"
+      },
+      "date": {
+        "year": 30,
+        "displayText": {
+          "en": "A.D. 30",
+          "zh": "主後30年"
+        },
+        "order": 3.75
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/placeholder.jpg",
+      "imageSource": "Placeholder",
+      "category": "persecution",
+      "keyFigures": [
+        "peter",
+        "john"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them, Being grieved that they taught the people, and preached through Jesus the resurrection from the dead. And they laid hands on them, and put them in hold unto the next day: for it was now eventide. Howbeit many of them which heard the word believed; and the number of the men was about five thousand. And it came to pass on the morrow, that their rulers, and elders, and scribes, And Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest, were gathered together at Jerusalem. And when they had set them in the midst, they asked, By what power, or by what name, have ye done this? Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel, If we this day be examined of the good deed done to the impotent man, by what means he is made whole; Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole. This is the stone which was set at nought of you builders, which is become the head of the corner. Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved. Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus. ... And being let go, they went to their own company, and reported all that the chief priests and elders had said unto them. And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou art God, which hast made heaven, and earth, and the sea, and all that in them is: ... And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.",
+          "verses": [
+            {
+              "number": 1,
+              "text": "And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,"
+            },
+            {
+              "number": 2,
+              "text": "Being grieved that they taught the people, and preached through Jesus the resurrection from the dead."
+            },
+            {
+              "number": 3,
+              "text": "And they laid hands on them, and put them in hold unto the next day: for it was now eventide."
+            },
+            {
+              "number": 4,
+              "text": "Howbeit many of them which heard the word believed; and the number of the men was about five thousand."
+            },
+            {
+              "number": 7,
+              "text": "And quando they had set them in the midst, they asked, By what power, or by what name, have ye done this?"
+            },
+            {
+              "number": 8,
+              "text": "Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel,"
+            },
+            {
+              "number": 10,
+              "text": "Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole."
+            },
+            {
+              "number": 11,
+              "text": "This is the stone which was set at nought of you builders, which is become the head of the corner."
+            },
+            {
+              "number": 12,
+              "text": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved."
+            },
+            {
+              "number": 13,
+              "text": "Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus."
+            },
+            {
+              "number": 19,
+              "text": "But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye."
+            },
+            {
+              "number": 20,
+              "text": "For we cannot but speak the things which we have seen and heard."
+            },
+            {
+              "number": 24,
+              "text": "And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou art God, which hast made heaven, and earth, and the sea, and all that in them is:"
+            },
+            {
+              "number": 29,
+              "text": "And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word,"
+            },
+            {
+              "number": 31,
+              "text": "And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness."
+            }
+          ],
+          "excerpt": "Neither is there salvation in any other: for there is none other name under h..."
+        },
+        "zh": {
+          "fullText": "使徒對百姓說話的時候，祭司們和守殿官並撒都該人忽然來了。因他們教訓百姓，本著耶穌傳說死人復活，就很煩惱，於是下手拿住他們。因為天已經晚了，就把他們押到第二天。但聽道之人有許多信的，男丁數目約到五千。第二天，官府、長老和文士在耶路撒冷聚會，又有大祭司亞那和該亞法、約翰、亞歷山大，並大祭司的親族都在那裡，叫使徒站在當中，就問他們說：「你們用什麼能力，奉誰的名做這事呢？」那時彼得被聖靈充滿，對他們說：「治民的官府和長老啊，倘若今日因為在殘疾人身上所行的善事，查問我們他是怎麼得了痊癒，你們眾人和以色列百姓都當知道：站在你們面前的這人得痊癒，是因你們所釘十字架、神叫他從死裡復活的拿撒勒人耶穌基督的名。他是『你們匠人所棄的石頭，已成了房角的頭塊石頭』。除他以外，別無拯救，因為在天下人間，沒有賜下別的名我們可以靠著得救。」他們見彼得、約翰的膽量，又看出他們原是沒有學問的小民，就稀奇，認明他們是跟過耶穌的。 ... 二人既被釋放，就到會友那裡去，把祭司長和長老所說的話都告訴他們。他們聽見了，就同心合意的高聲向神說：「主啊！你是造天、地、海，和其中萬物的 ... 禱告完了，聚會的地方震動，他們就都被聖靈充滿，放膽講論神的道。",
+          "verses": [
+            {
+              "number": 1,
+              "text": "使徒對百姓說話的時候，祭司們和守殿官並撒都該人忽然來了。"
+            },
+            {
+              "number": 2,
+              "text": "因他們教訓百姓，本著耶穌傳說死人復活，就很煩惱，"
+            },
+            {
+              "number": 3,
+              "text": "於是下手拿住他們。因為天已經晚了，就把他們押到第二天。"
+            },
+            {
+              "number": 4,
+              "text": "但聽道之人有許多信的，男丁數目約到五千。"
+            },
+            {
+              "number": 7,
+              "text": "叫使徒站在當中，就問他們說：「你們用什麼能力，奉誰的名做這事呢？」"
+            },
+            {
+              "number": 8,
+              "text": "那時彼得被聖靈充滿，對他們說：「治民的官府和長老啊，"
+            },
+            {
+              "number": 10,
+              "text": "你們眾人和以色列百姓都當知道：站在你們面前的這人得痊癒，是因你們所釘十字架、神叫他從死裡復活的拿撒勒人耶穌基督的名。」"
+            },
+            {
+              "number": 11,
+              "text": "「他是『你們匠人所棄的石頭，已成了房角的頭塊石頭』。」"
+            },
+            {
+              "number": 12,
+              "text": "「除他以外，別無拯救，因為在天下人間，沒有賜下別的名我們可以靠著得救。」"
+            },
+            {
+              "number": 13,
+              "text": "他們見彼得、約翰的膽量，又看出他們原是沒有學問的小民，就稀奇，認明他們是跟過耶穌的。"
+            },
+            {
+              "number": 19,
+              "text": "彼得、約翰說：「聽從你們不聽從神，這在神面前合理不合理，你們自己酌量吧！」"
+            },
+            {
+              "number": 20,
+              "text": "「我們所看見、所聽見的，不能不說。」"
+            },
+            {
+              "number": 24,
+              "text": "他們聽見了，就同心合意的高聲向神說：「主啊！你是造天、地、海，和其中萬物的...」"
+            },
+            {
+              "number": 29,
+              "text": "「他們恐嚇我們，現在求主鑒察，一面叫你仆人大放膽量講你的道...」"
+            },
+            {
+              "number": 31,
+              "text": "禱告完了，聚會的地方震動，他們就都被聖靈充滿，放膽講論神的道。"
+            }
+          ],
+          "excerpt": "除他以外，別無拯救，因為在天下人間，沒有賜下別的名我們可以靠著得救。"
+        }
+      },
+      "previousEventId": "peter-speech-solomons-colonnade",
+      "nextEventId": "ananias-sapphira"
+    },
+    {
+      "id": "ananias-sapphira",
+      "title": {
+        "en": "Ananias and Sapphira",
+        "zh": "亞拿尼亞和撒非喇"
+      },
+      "description": {
+        "en": "Ananias and Sapphira lie about their offering and face God's judgment",
+        "zh": "亞拿尼亞和撒非喇謊報奉獻而面臨神的審判"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 5,
+        "verseStart": 1,
+        "verseEnd": 11,
+        "display": "Acts 5:1-11"
+      },
+      "date": {
+        "year": 31,
+        "displayText": {
+          "en": "A.D. 31",
+          "zh": "主後31年"
+        },
+        "order": 4
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/Ananias-and-Sapphira.jpg",
+      "imageSource": "Local",
+      "category": "early-church",
+      "keyFigures": [
+        "peter"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "But a certain man named Ananias, with Sapphira his wife, sold a possession, 2and kept backpartof the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles’ feet. But Peter said, Ananias, why hath Satan filled thy heart tolie to the Holy Spirit, and to keep backpartof the price of the land? While it remained, did it not remain thine own? and after it was sold, was it not in thy power? How is it that thou hast conceived this thing in thy heart? thou hast not lied unto men, but unto God. And Ananias hearing these words fell down and gave up the ghost: and great fear came upon all that heard it. And theyoung men arose and wrapped him round, and they carried him out and buried him. And it was about the space of three hours after, when his wife, not knowing what was done, came in. And Peter answered unto her, Tell me whether ye sold the land for so much. And she said, Yea, for so much. But Petersaidunto her, How is it that ye have agreed together to try the Spirit of the Lord? behold, the feet of them that have buried thy husband are at the door, and they shall carry thee out. And she fell down immediately at his feet, and gave up the ghost: and the young men came in and found her dead, and they carried her out and buried her by her husband. And great fear came upon the whole church, and upon all that heard these things.",
+          "verses": [
+            {
+              "number": 5,
+              "text": "But a certain man named Ananias, with Sapphira his wife, sold a possession, 2and kept backpartof the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles’ feet."
+            },
+            {
+              "number": 3,
+              "text": "But Peter said, Ananias, why hath Satan filled thy heart tolie to the Holy Spirit, and to keep backpartof the price of the land?"
+            },
+            {
+              "number": 4,
+              "text": "While it remained, did it not remain thine own? and after it was sold, was it not in thy power? How is it that thou hast conceived this thing in thy heart? thou hast not lied unto men, but unto God."
+            },
+            {
+              "number": 5,
+              "text": "And Ananias hearing these words fell down and gave up the ghost: and great fear came upon all that heard it."
+            },
+            {
+              "number": 6,
+              "text": "And theyoung men arose and wrapped him round, and they carried him out and buried him."
+            },
+            {
+              "number": 7,
+              "text": "And it was about the space of three hours after, when his wife, not knowing what was done, came in."
+            },
+            {
+              "number": 8,
+              "text": "And Peter answered unto her, Tell me whether ye sold the land for so much. And she said, Yea, for so much."
+            },
+            {
+              "number": 9,
+              "text": "But Petersaidunto her, How is it that ye have agreed together to try the Spirit of the Lord? behold, the feet of them that have buried thy husband are at the door, and they shall carry thee out."
+            },
+            {
+              "number": 10,
+              "text": "And she fell down immediately at his feet, and gave up the ghost: and the young men came in and found her dead, and they carried her out and buried her by her husband."
+            },
+            {
+              "number": 11,
+              "text": "And great fear came upon the whole church, and upon all that heard these things."
+            }
+          ],
+          "excerpt": "But a certain man named Ananias, with Sapphira his wife, sold a possession, 2..."
+        },
+        "zh": {
+          "fullText": "有一個人，名叫亞拿尼亞，同他的妻子撒非喇賣了田產，把價銀私自留下幾分，他的妻子也知道，其餘的幾分拿來放在使徒腳前。彼得說：「亞拿尼亞！為甚麼撒但充滿了你的心，叫你欺哄聖靈，把田地的價銀私自留下幾分呢？田地還沒有賣，不是你自己的嗎？既賣了，價銀不是你作主嗎？你怎麼心裡起這意念呢？你不是欺哄人，是欺哄神了。」亞拿尼亞聽見這話，就仆倒，斷了氣；聽見的人都甚懼怕。有些少年人起來，把他包裹，抬出去埋葬了。約過了三小時，他的妻子進來，還不知道這事。彼得對她說：「你告訴我，你們賣田地的價銀就是這些嗎？」她說：「就是這些。」彼得說：「你們為甚麼同心試探主的靈呢？埋葬你丈夫之人的腳已到門口，他們也要把你抬出去。」婦人立刻仆倒在彼得腳前，斷了氣。那些少年人進來，見她已經死了，就抬出去，埋在她丈夫旁邊。全教會和聽見這事的人都甚懼怕。",
+          "verses": [
+            {
+              "number": 1,
+              "text": "有一個人，名叫亞拿尼亞，同他的妻子撒非喇賣了田產，"
+            },
+            {
+              "number": 2,
+              "text": "把價銀私自留下幾分，他的妻子也知道，其餘的幾分拿來放在使徒腳前。"
+            },
+            {
+              "number": 3,
+              "text": "彼得說：「亞拿尼亞！為甚麼撒但充滿了你的心，叫你欺哄聖靈，把田地的價銀私自留下幾分呢？"
+            },
+            {
+              "number": 4,
+              "text": "田地還沒有賣，不是你自己的嗎？既賣了，價銀不是你作主嗎？你怎麼心裡起這意念呢？你不是欺哄人，是欺哄神了。」"
+            },
+            {
+              "number": 5,
+              "text": "亞拿尼亞聽見這話，就仆倒，斷了氣；聽見的人都甚懼怕。"
+            },
+            {
+              "number": 6,
+              "text": "有些少年人起來，把他包裹，抬出去埋葬了。"
+            },
+            {
+              "number": 7,
+              "text": "約過了三小時，他的妻子進來，還不知道這事。"
+            },
+            {
+              "number": 8,
+              "text": "彼得對她說：「你告訴我，你們賣田地的價銀就是這些嗎？」她說：「就是這些。」"
+            },
+            {
+              "number": 9,
+              "text": "彼得說：「你們為甚麼同心試探主的靈呢？埋葬你丈夫之人的腳已到門口，他們也要把你抬出去。」"
+            },
+            {
+              "number": 10,
+              "text": "婦人立刻仆倒在彼得腳前，斷了氣。那些少年人進來，見她已經死了，就抬出去，埋在她丈夫旁邊。"
+            },
+            {
+              "number": 11,
+              "text": "全教會和聽見這事的人都甚懼怕。"
+            }
+          ],
+          "excerpt": "你不是欺哄人，是欺哄神了..."
+        }
+      },
+      "previousEventId": "peter-john-before-sanhedrin",
+      "nextEventId": "apostles-prison-and-gamaliel"
+    },
+    {
+      "id": "apostles-prison-and-gamaliel",
+      "title": {
+        "en": "Apostles' Signs and Miraculous Escape",
+        "zh": "使徒的神蹟與奇蹟脫監"
+      },
+      "description": {
+        "en": "The apostles perform many signs and wonders, leading to more believers. They are imprisoned by the religious leaders but freed by an angel by night. They continue to preach and, when brought before the council again, are defended by the wisdom of Gamaliel.",
+        "zh": "使徒行了許多神蹟奇事，信徒人數也隨之增加。他們被宗教領袖監禁，但主的使者在夜間開了監門領他們出來。他們繼續講道，再次被帶到公會受審時，因迦瑪列的勸戒而獲釋。"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 5,
+        "verseStart": 12,
+        "verseEnd": 42,
+        "display": "Acts 5:12-42"
+      },
+      "date": {
+        "year": 31,
+        "displayText": {
+          "en": "A.D. 31",
+          "zh": "主後31年"
+        },
+        "order": 4.25
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/placeholder.jpg",
+      "imageSource": "Placeholder",
+      "category": "miracle",
+      "keyFigures": [
+        "peter",
+        "john",
+        "gamaliel"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon's porch... Then the high priest rose up, and all they that were with him... and were filled with indignation, And laid their hands on the apostles, and put them in the common prison. But the angel of the Lord by night opened the prison doors, and brought them forth, and said, Go, stand and speak in the temple to the people all the words of this life... Then Peter and the other apostles answered and said, We ought to obey God rather than men... When they heard that, they were cut to the heart, and took counsel to slay them. Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law... And to him they agreed: and when they had called the apostles, and beaten them, they commanded that they should not speak in the name of Jesus, and let them go. And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name. And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ.",
+          "verses": [
+            {
+              "number": 12,
+              "text": "And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon's porch."
+            },
+            {
+              "number": 15,
+              "text": "Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them."
+            },
+            {
+              "number": 19,
+              "text": "But the angel of the Lord by night opened the prison doors, and brought them forth, and said, Go, stand and speak in the temple to the people all the words of this life."
+            },
+            {
+              "number": 29,
+              "text": "Then Peter and the other apostles answered and said, We ought to obey God rather than men."
+            },
+            {
+              "number": 34,
+              "text": "Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people."
+            },
+            {
+              "number": 38,
+              "text": "And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought: But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God."
+            },
+            {
+              "number": 41,
+              "text": "And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name."
+            },
+            {
+              "number": 42,
+              "text": "And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ."
+            }
+          ],
+          "excerpt": "顺从神，不顺从人，是应当的。"
+        },
+        "zh": {
+          "fullText": "主藉使徒的手在民間行了許多神蹟奇事；他們（或作：信的人）都同心合意的在所羅門的廊下。 ... 大祭司和他的一切同人，就是撒都該教門的人，都起來，滿心忌恨，就下手拿住使徒，收在外監。但主的使者夜間開了監門，領他們出來，說：你們去站在殿裡，把這生命的道都講給百姓聽。 ... 彼得和眾使徒回答說：順從神，不順從人，是應當的。 ... 公會的人聽見就極其惱怒，想要殺他們。但有一個法利賽人，名叫迦瑪列，是眾百姓所敬重的教法師，在公會中站起來 ... 公會的人聽從了他，便叫使徒來，把他們打了，又吩咐他們不可奉耶穌的名講道，就把他們釋放了。他們離開公會，心裡歡喜，因被算是配為這名受辱。他們就每日在殿裡、在家裡、不住的教訓人，傳耶穌是基督。",
+          "verses": [
+            {
+              "number": 12,
+              "text": "主藉使徒的手在民間行了許多神蹟奇事；他們（或作：信的人）都同心合意的在所羅門的廊下。"
+            },
+            {
+              "number": 15,
+              "text": "甚至有人將病人抬到街上，放在床上或褥子上，指望彼得過來的時候，或者得他的影兒照在甚麼人身上。"
+            },
+            {
+              "number": 19,
+              "text": "但主的使者夜間開了監門，領他們出來，ﯩ：你們去站在殿裡，把這生命的道都講給百姓聽。"
+            },
+            {
+              "number": 29,
+              "text": "彼得和眾使徒回答ﯩ：順從神，不順從人，是應當的。"
+            },
+            {
+              "number": 34,
+              "text": "但有一個法利賽人，名叫迦瑪列，是眾百姓所敬重的教法師，在公會中站起來。"
+            },
+            {
+              "number": 38,
+              "text": "現在，我勸你們不要管這些人，任憑他們罷！他們所謀的、所行的，若是出於人，必要敗壞；若是出於神，你們就不能敗壞他們。"
+            },
+            {
+              "number": 41,
+              "text": "他們離開公會，心裡歡喜，因被算是配為這名受辱。"
+            },
+            {
+              "number": 42,
+              "text": "他們就每日在殿裡、在家裡、不住的教訓人，傳耶穌是基督。"
+            }
+          ],
+          "excerpt": "顺从神，不顺从人，是应当的。"
+        }
+      },
+      "previousEventId": "ananias-sapphira",
+      "nextEventId": "stephen-ministry-and-speech"
+    },
+    {
+      "id": "stephen-ministry-and-speech",
+      "title": {
+        "en": "Choosing of the Seven and Stephen's Address",
+        "zh": "選出七執事與司提反的申訴"
+      },
+      "description": {
+        "en": "The early church chooses seven deacons, including Stephen, to oversee the distribution of food. Stephen, full of grace and power, performs great wonders. He is falsely accused and brought before the Sanhedrin, where he delivers a powerful historical defense.",
+        "zh": "早期教會選出包括司提反在內的七位執事，負責管理飯食。司提反滿有恩惠能力，在民間行了大事。他被誣陷並帶到公會，在那裡他發表了一段強有力的歷史性辯護。"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 6,
+        "verseStart": 1,
+        "verseEnd": 7,
+        "display": "Acts 6:1-7:53"
+      },
+      "date": {
+        "year": 34,
+        "displayText": {
+          "en": "A.D. 34",
+          "zh": "主後34年"
+        },
+        "order": 4.75
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/placeholder.jpg",
+      "imageSource": "Placeholder",
+      "category": "early-church",
+      "keyFigures": [
+        "stephen",
+        "peter",
+        "philip"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "Now in those days, when the number of the disciples was multiplying, there arose a murmuring of the Grecian Jews against the Hebrews, because their widows were neglected in the daily ministration. And the twelve called the multitude of the disciples unto them, and said, It is not fit that we should forsake the word of God, and serve tables. Look ye out therefore, brethren, from among you seven men of good report, full of the Spirit and of wisdom, whom we may appoint over this business... And the word of God increased; and the number of the disciples multiplied in Jerusalem greatly... And Stephen, full of grace and power, wrought great wonders and signs among the people... Then they suborned men, who said, We have heard him speak blasphemous words against Moses, and against God... And the high priest said, Are these things so? And he said, Brethren and fathers, hearken... Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Spirit: as your fathers did, so do ye. Which of the prophets did not your fathers persecute? and they killed them that showed before of the coming of the Righteous One; of whom ye have now become betrayers and murderers; ye who received the law as it was ordained by angels, and kept it not.",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Now in those days, when the number of the disciples was multiplying, there arose a murmuring of the Grecian Jews against the Hebrews, because their widows were neglected in the daily ministration."
+            },
+            {
+              "number": 3,
+              "text": "Look ye out therefore, brethren, from among you seven men of good report, full of the Spirit and of wisdom, whom we may appoint over this business."
+            },
+            {
+              "number": 7,
+              "text": "And the word of God increased; and the number of the disciples multiplied in Jerusalem greatly; and a great company of the priests were obedient to the faith."
+            },
+            {
+              "number": 8,
+              "text": "And Stephen, full of grace and power, wrought great wonders and signs among the people."
+            },
+            {
+              "number": 51,
+              "text": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Spirit: as your fathers did, so do ye."
+            },
+            {
+              "number": 52,
+              "text": "Which of the prophets did not your fathers persecute? and they killed them that showed before of the coming of the Righteous One; of whom ye have now become betrayers and murderers."
+            }
+          ],
+          "excerpt": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Spirit."
+        },
+        "zh": {
+          "fullText": "那時，門徒增多，有說希臘話的猶太人向希伯來人發怨言，因為在天天的供給上忽略了他們的寡婦。十二使徒叫眾門徒來，說：我們撇下神的道去管理飯食，原是不合宜的。所以弟兄們，當從你們中間選出七個有好名聲、被聖靈充滿、智慧充足的人，我們就派他們管理這事。 ... 神的道興旺起來；在耶路撒冷門徒數目滿有加增，也有許多祭司信從了這道。司提反滿有恩惠、能力，在民間行了大神蹟和好事。 ... 他們收買人來說：我們聽見他說謗讟摩西和神的話。 ... 大祭司就說：這些事果然有嗎？司提反說：諸位父兄請聽 ... 你們這硬著頸項、心與耳未受割禮的人，常時抗拒聖靈！你們的祖宗怎樣，你們也怎樣。那一個先知不是你們祖宗逼迫呢？他們也把預先傳說那義者要來的人殺了；如今你們又把那義者賣了，殺了。你們受了天使所傳的律法，竟不遵守。",
+          "verses": [
+            {
+              "number": 1,
+              "text": "那時，門徒增多，有ﯩ希臘話的猶太人向希伯來人發怨言，因為在天天的供給上忽略了他們的寡婦。"
+            },
+            {
+              "number": 3,
+              "text": "所以弟兄們，當從你們中間選出七個有好名聲、被聖靈充滿、智慧充足的人，我們就派他們管理這事。"
+            },
+            {
+              "number": 7,
+              "text": "神的道興旺起來；在耶路撒冷門徒數目滿有加增，也有許多祭司信從了這道。"
+            },
+            {
+              "number": 8,
+              "text": "司提反滿有恩惠、能力，在民間行了大神蹟和好事。"
+            },
+            {
+              "number": 51,
+              "text": "你們這硬著頸項、心與耳未受割禮的人，常時抗拒聖靈！你們的祖宗怎樣，你們也怎樣。"
+            },
+            {
+              "number": 52,
+              "text": "那一個先知不是你們祖宗逼迫呢？他們也把預先傳ﯩ那義者要來的人殺了；如今你們又把那義者賣了，殺了。"
+            }
+          ],
+          "excerpt": "你們這硬著頸項、心與耳未受割禮的人，常時抗拒聖靈！"
+        }
+      },
+      "previousEventId": "apostles-prison-and-gamaliel",
+      "nextEventId": "stephen-martyrdom"
+    },
+    {
+      "id": "stephen-martyrdom",
+      "title": {
+        "en": "The Stoning of Stephen",
+        "zh": "司提反殉道"
+      },
+      "description": {
+        "en": "Stephen becomes the first Christian martyr, stoned for his bold testimony about Jesus",
+        "zh": "司提反成為第一位基督徒殉道者，因為他為耶穌作大膽見證而被石頭打死"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 7,
+        "verseStart": 54,
+        "verseEnd": 60,
+        "display": "Acts 7:54-60"
+      },
+      "date": {
+        "year": 34,
+        "displayText": {
+          "en": "A.D. 34",
+          "zh": "主後34年"
+        },
+        "order": 5
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/stoning_of_stephen.jpg",
+      "imageSource": "Local",
+      "category": "persecution",
+      "keyFigures": [
+        "stephen",
+        "paul"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "Now when they heard these things, they were cut to the heart, and they gnashed on him with their teeth. But he, being full of the Holy Spirit, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, 56and said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God. But they cried out with a loud voice, and stopped their ears, and rushed upon him with one accord; 58and they cast him out of the city, and stoned him: and the witnesses laid down their garments at the feet of a young man named Saul. And they stoned Stephen, calling uponthe Lord, and saying, Lord Jesus, receive my spirit. And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.",
+          "verses": [
+            {
+              "number": 54,
+              "text": "Now when they heard these things, they were cut to the heart, and they gnashed on him with their teeth."
+            },
+            {
+              "number": 55,
+              "text": "But he, being full of the Holy Spirit, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, 56and said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God."
+            },
+            {
+              "number": 57,
+              "text": "But they cried out with a loud voice, and stopped their ears, and rushed upon him with one accord; 58and they cast him out of the city, and stoned him: and the witnesses laid down their garments at the feet of a young man named Saul."
+            },
+            {
+              "number": 59,
+              "text": "And they stoned Stephen, calling uponthe Lord, and saying, Lord Jesus, receive my spirit."
+            },
+            {
+              "number": 60,
+              "text": "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep."
+            }
+          ],
+          "excerpt": "Now when they heard these things, they were cut to the heart, and they gnashe..."
+        },
+        "zh": {
+          "fullText": "眾人聽見這話就極其惱怒，向司提反咬牙切齒。但司提反被聖靈充滿，定睛望天，看見神的榮耀，又看見耶穌站在神的右邊，就說：「我看見天開了，人子站在神的右邊。」眾人大聲喊叫，摀著耳朵，齊心擁上前去，把他推到城外，用石頭打他。作見證的人把衣裳放在一個少年人名叫掃羅的腳前。他們正用石頭打的時候，司提反呼籲主說：「求主耶穌接收我的靈魂！」又跪下大聲喊著說：「主啊，不要將這罪歸於他們！」說了這話，就睡了。",
+          "verses": [
+            {
+              "number": 54,
+              "text": "眾人聽見這話就極其惱怒，向司提反咬牙切齒。"
+            },
+            {
+              "number": 55,
+              "text": "但司提反被聖靈充滿，定睛望天，看見神的榮耀，又看見耶穌站在神的右邊，"
+            },
+            {
+              "number": 56,
+              "text": "就說：「我看見天開了，人子站在神的右邊。」"
+            },
+            {
+              "number": 57,
+              "text": "眾人大聲喊叫，摀著耳朵，齊心擁上前去，"
+            },
+            {
+              "number": 58,
+              "text": "把他推到城外，用石頭打他。作見證的人把衣裳放在一個少年人名叫掃羅的腳前。"
+            },
+            {
+              "number": 59,
+              "text": "他們正用石頭打的時候，司提反呼籲主說：「求主耶穌接收我的靈魂！」"
+            },
+            {
+              "number": 60,
+              "text": "又跪下大聲喊著說：「主啊，不要將這罪歸於他們！」說了這話，就睡了。"
+            }
+          ],
+          "excerpt": "求主耶穌接收我的靈魂..."
+        }
+      },
+      "previousEventId": "stephen-ministry-and-speech",
+      "nextEventId": "persecution-and-samaria"
+    },
+    {
+      "id": "persecution-and-samaria",
+      "title": {
+        "en": "Great Persecution and Philip in Samaria",
+        "zh": "耶路撒冷的逼迫與腓利在撒瑪利亞"
+      },
+      "description": {
+        "en": "A great persecution scatters the church. Philip journeys to Samaria, preaching Christ and performing miracles. Simon the sorcerer believes, and Peter and John visit to impart the Holy Spirit.",
+        "zh": "大遭逼迫使教會門徒分散。腓利下到撒瑪利亞宣講基督並行神蹟。行邪術的西門也信了，彼得和約翰前來使信徒受聖靈。"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 8,
+        "verseStart": 1,
+        "verseEnd": 25,
+        "display": "Acts 8:1-25"
+      },
+      "date": {
+        "year": 34,
+        "displayText": {
+          "en": "A.D. 34",
+          "zh": "主後34年"
+        },
+        "order": 5.5
+      },
+      "location": "samaria",
+      "primaryImage": "/images/events/placeholder.jpg",
+      "imageSource": "Placeholder",
+      "category": "evangelism",
+      "keyFigures": [
+        "philip",
+        "peter",
+        "john",
+        "paul"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles. ... Therefore they that were scattered abroad went every where preaching the word. Then Philip went down to the city of Samaria, and preached Christ unto them. And the people with one accord gave heed unto those things which Philip spake, hearing and seeing the miracles which he did. ... But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women. Then Simon himself believed also... Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John: Who, when they were come down, prayed for them, that they might receive the Holy Ghost... Then laid they their hands on them, and they received the Holy Ghost. And when Simon saw that through laying on of the apostles' hands the Holy Ghost was given, he offered them money... But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.",
+          "verses": [
+            {
+              "number": 1,
+              "text": "And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles."
+            },
+            {
+              "number": 4,
+              "text": "Therefore they that were scattered abroad went every where preaching the word."
+            },
+            {
+              "number": 5,
+              "text": "Then Philip went down to the city of Samaria, and preached Christ unto them."
+            },
+            {
+              "number": 12,
+              "text": "But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women."
+            },
+            {
+              "number": 13,
+              "text": "Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done."
+            },
+            {
+              "number": 14,
+              "text": "Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:"
+            },
+            {
+              "number": 17,
+              "text": "Then laid they their hands on them, and they received the Holy Ghost."
+            },
+            {
+              "number": 20,
+              "text": "But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money."
+            }
+          ],
+          "excerpt": "Therefore they that were scattered abroad went every where preaching the word."
+        },
+        "zh": {
+          "fullText": "從這日起，耶路撒冷的教會大遭逼迫，除了使徒以外，門徒都分散在猶太和撒瑪利亞各處。有虔誠的人把司提反埋葬了，為他捶胸大哭。掃羅卻殘害教會，進各人的家，拉著男女下在監裡。那些分散的人往各處去傳道。腓利下撒瑪利亞城去，宣講基督。眾人聽見了，又看見腓利所行的神蹟，就同心合意地聽從他的話。 ... 及至他們信了腓利所傳神國的福音和耶穌基督的名，連男帶女就受了洗。西門自己也信了；既受了洗，就常與腓利在一處，看見他所行的神蹟和大異能，就甚驚奇。耶路撒冷的使徒聽見撒瑪利亞人領受了神的道，就打發彼得、約翰往他們那裡去。二人到了，就為他們禱告，要叫他們受聖靈。 ... 於是使徒按手在他們頭上，他們就受了聖靈。西門看見使徒按手，便有聖靈賜下，就拿錢給使徒... 彼得說：你的銀子和你一同滅亡罷！因你想神的恩賜是可以用錢買的。",
+          "verses": [
+            {
+              "number": 1,
+              "text": "從這日起，耶路撒冷的教會大遭逼迫，除了使徒以外，門徒都分散在猶太和撒瑪利亞各處。"
+            },
+            {
+              "number": 4,
+              "text": "那些分散的人往各處去傳道。"
+            },
+            {
+              "number": 5,
+              "text": "腓利下撒瑪利亞城去，宣講基督。"
+            },
+            {
+              "number": 12,
+              "text": "及至他們信了腓利所傳神國的福音和耶穌基督的名，連男帶女就受了洗。"
+            },
+            {
+              "number": 13,
+              "text": "西門自己也信了；既受了洗，就常與腓利在一處，看見他所行的神蹟和大異能，就甚驚奇。"
+            },
+            {
+              "number": 14,
+              "text": "耶路撒冷的使徒聽見撒瑪利亞人領受了神的道，就打發彼得、約翰往他們那裡去。"
+            },
+            {
+              "number": 17,
+              "text": "於是使徒按手在他們頭上，他們就受了聖靈。"
+            },
+            {
+              "number": 20,
+              "text": "彼得說：你的銀子和你一同滅亡罷！因你想神的恩賜是可以用錢買的。"
+            }
+          ],
+          "excerpt": "那些分散的人往各處去傳道。"
+        }
+      },
+      "previousEventId": "stephen-martyrdom",
+      "nextEventId": "philip-ethiopian"
+    },
+    {
+      "id": "philip-ethiopian",
+      "title": {
+        "en": "Philip and the Ethiopian Eunuch",
+        "zh": "腓利和埃塞俄比亞太監"
+      },
+      "description": {
+        "en": "Philip shares the gospel with an Ethiopian official reading Isaiah, leading to his baptism",
+        "zh": "腓利向正在讀以賽亞書的埃塞俄比亞官員傳福音，帶領他受洗"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 8,
+        "verseStart": 26,
+        "verseEnd": 40,
+        "display": "Acts 8:26-40"
+      },
+      "date": {
+        "year": 34,
+        "displayText": {
+          "en": "A.D. 34",
+          "zh": "主後34年"
+        },
+        "order": 6
+      },
+      "location": "gaza",
+      "primaryImage": "/images/events/ethiopian-eunuch-and-philip.jpg",
+      "imageSource": "Local",
+      "category": "conversion",
+      "keyFigures": [
+        "philip"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "But an angel of the Lord spake unto Philip, saying, Arise, and gotoward the south unto the way that goeth down from Jerusalem unto Gaza: the same is desert. And he arose and went: and behold, a man of Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians, who was over all her treasure, who had come to Jerusalem to worship; 28and he was returning and sitting in his chariot, and was reading the prophet Isaiah. And the Spirit said unto Philip, Go near, and join thyself to this chariot. And Philip ran to him, and heard him reading Isaiah the prophet, and said, Understandest thou what thou readest? And he said, How can I, except some one shall guide me? And he besought Philip to come up and sit with him. Now the passage of the scripture which he was reading was this, He was led as a sheep to the slaughter; And as a lamb before his shearer is dumb, So he openeth not his mouth: In his humiliation his judgment was taken away: His generation who shall declare? For his life is taken from the earth. And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other? And Philip opened his mouth, and beginning from this scripture,preached unto him Jesus. And as they went on the way, they came unto a certain water; and the eunuch saith, Behold,here iswater; what doth hinder me to be baptized? And he commanded the chariot to stand still: and they both went down into the water, both Philip and the eunuch; and he baptized him. And when they came up out of the water, the Spirit of the Lord caught away Philip; and the eunuch saw him no more, for he went on his way rejoicing. But Philip was found at Azotus: and passing through hepreached the gospel to all the cities, till he came to Caesarea.",
+          "verses": [
+            {
+              "number": 26,
+              "text": "But an angel of the Lord spake unto Philip, saying, Arise, and gotoward the south unto the way that goeth down from Jerusalem unto Gaza: the same is desert."
+            },
+            {
+              "number": 27,
+              "text": "And he arose and went: and behold, a man of Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians, who was over all her treasure, who had come to Jerusalem to worship; 28and he was returning and sitting in his chariot, and was reading the prophet Isaiah."
+            },
+            {
+              "number": 29,
+              "text": "And the Spirit said unto Philip, Go near, and join thyself to this chariot."
+            },
+            {
+              "number": 30,
+              "text": "And Philip ran to him, and heard him reading Isaiah the prophet, and said, Understandest thou what thou readest?"
+            },
+            {
+              "number": 31,
+              "text": "And he said, How can I, except some one shall guide me? And he besought Philip to come up and sit with him."
+            },
+            {
+              "number": 32,
+              "text": "Now the passage of the scripture which he was reading was this, He was led as a sheep to the slaughter; And as a lamb before his shearer is dumb, So he openeth not his mouth:"
+            },
+            {
+              "number": 33,
+              "text": "In his humiliation his judgment was taken away: His generation who shall declare? For his life is taken from the earth."
+            },
+            {
+              "number": 34,
+              "text": "And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other?"
+            },
+            {
+              "number": 35,
+              "text": "And Philip opened his mouth, and beginning from this scripture,preached unto him Jesus."
+            },
+            {
+              "number": 36,
+              "text": "And as they went on the way, they came unto a certain water; and the eunuch saith, Behold,here iswater; what doth hinder me to be baptized?"
+            },
+            {
+              "number": 37,
+              "text": "And Philip said, If thou believest with all thy heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God."
+            },
+            {
+              "number": 38,
+              "text": "And he commanded the chariot to stand still: and they both went down into the water, both Philip and the eunuch; and he baptized him."
+            },
+            {
+              "number": 39,
+              "text": "And when they came up out of the water, the Spirit of the Lord caught away Philip; and the eunuch saw him no more, for he went on his way rejoicing."
+            },
+            {
+              "number": 40,
+              "text": "But Philip was found at Azotus: and passing through hepreached the gospel to all the cities, till he came to Caesarea."
+            }
+          ],
+          "excerpt": "But an angel of the Lord spake unto Philip, saying, Arise, and gotoward the s..."
+        },
+        "zh": {
+          "fullText": "有主的一個使者對腓利說：「起來！向南走，往那從耶路撒冷下迦薩的路上去。」那路是曠野。腓利就起身去了，不料，有一個埃塞俄比亞人，是個有大權的太監，在埃塞俄比亞女王甘大基的手下總管銀庫，他上耶路撒冷禮拜去了。現在回來，在車上坐著，念先知以賽亞的書。聖靈對腓利說：「你去！貼近那車走。」腓利就跑到太監那裡，聽見他念先知以賽亞的書，便問他說：「你所念的，你明白嗎？」他說：「沒有人指教我，怎能明白呢？」於是請腓利上車，與他同坐。他所念的那段經，說：他像羊被牽到宰殺之地，又像羊羔在剪毛的人手下無聲；他也是這樣不開口。他卑微的時候，人不按公義審判他；誰能述說他的世代？因為他的生命從地上奪去。太監對腓利說：「請問，先知說這話是指著誰？是指著自己呢？是指著別人呢？」腓利就開口從這經上起，對他傳講耶穌。二人正往前走，到了有水的地方，太監說：「看哪，這裡有水，我受洗有甚麼妨礙呢？」腓利說：「你若是一心相信，就可以。」他回答說：「我信耶穌基督是神的兒子。」於是吩咐車站住，腓利和太監二人同下水裡去，腓利就給他施洗。從水裡上來，主的靈把腓利提了去，太監也不再見他了，就歡歡喜喜地走路。後來有人在亞鎖都遇見腓利；他走遍那地方，在各城宣傳福音，直到該撒利亞。",
+          "verses": [
+            {
+              "number": 26,
+              "text": "有主的一個使者對腓利說：「起來！向南走，往那從耶路撒冷下迦薩的路上去。」那路是曠野。"
+            },
+            {
+              "number": 27,
+              "text": "腓利就起身去了，不料，有一個埃塞俄比亞人，是個有大權的太監，在埃塞俄比亞女王甘大基的手下總管銀庫，他上耶路撒冷禮拜去了。"
+            },
+            {
+              "number": 28,
+              "text": "現在回來，在車上坐著，念先知以賽亞的書。"
+            },
+            {
+              "number": 29,
+              "text": "聖靈對腓利說：「你去！貼近那車走。」"
+            },
+            {
+              "number": 30,
+              "text": "腓利就跑到太監那裡，聽見他念先知以賽亞的書，便問他說：「你所念的，你明白嗎？」"
+            },
+            {
+              "number": 31,
+              "text": "他說：「沒有人指教我，怎能明白呢？」於是請腓利上車，與他同坐。"
+            },
+            {
+              "number": 32,
+              "text": "他所念的那段經，說：他像羊被牽到宰殺之地，又像羊羔在剪毛的人手下無聲；他也是這樣不開口。"
+            },
+            {
+              "number": 33,
+              "text": "他卑微的時候，人不按公義審判他；誰能述說他的世代？因為他的生命從地上奪去。"
+            },
+            {
+              "number": 34,
+              "text": "太監對腓利說：「請問，先知說這話是指著誰？是指著自己呢？是指著別人呢？」"
+            },
+            {
+              "number": 35,
+              "text": "腓利就開口從這經上起，對他傳講耶穌。"
+            },
+            {
+              "number": 36,
+              "text": "二人正往前走，到了有水的地方，太監說：「看哪，這裡有水，我受洗有甚麼妨礙呢？」"
+            },
+            {
+              "number": 37,
+              "text": "腓利說：「你若是一心相信，就可以。」他回答說：「我信耶穌基督是神的兒子。」"
+            },
+            {
+              "number": 38,
+              "text": "於是吩咐車站住，腓利和太監二人同下水裡去，腓利就給他施洗。"
+            },
+            {
+              "number": 39,
+              "text": "從水裡上來，主的靈把腓利提了去，太監也不再見他了，就歡歡喜喜地走路。"
+            },
+            {
+              "number": 40,
+              "text": "後來有人在亞鎖都遇見腓利；他走遍那地方，在各城宣傳福音，直到該撒利亞。"
+            }
+          ],
+          "excerpt": "腓利就開口從這經上起，對他傳講耶穌..."
+        }
+      },
+      "previousEventId": "persecution-and-samaria",
+      "nextEventId": "saul-conversion"
+    },
+    {
+      "id": "saul-conversion",
+      "title": {
+        "en": "Saul's Conversion and Healing",
+        "zh": "掃羅的悔改與醫治"
+      },
+      "description": {
+        "en": "Saul encounters Jesus on the road to Damascus, is blinded for three days, and is then healed and baptized by a disciple named Ananias.",
+        "zh": "掃羅在前往大馬士革的路上遇見耶穌，瞎眼了三天，隨後由門徒亞拿尼亞醫治並受洗。"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 9,
+        "verseStart": 1,
+        "verseEnd": 19,
+        "display": "Acts 9:1-19"
+      },
+      "date": {
+        "year": 34,
+        "displayText": {
+          "en": "A.D. 34",
+          "zh": "主後34年"
+        },
+        "order": 7
+      },
+      "location": "damascus",
+      "primaryImage": "/images/events/conversion_of_saul.jpg",
+      "imageSource": "Local",
+      "category": "conversion",
+      "keyFigures": [
+        "paul",
+        "ananias"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "But Saul, yet breathing threatening and slaughter against the disciples of the Lord, went unto the high priest, ... And as he journeyed, it came to pass that he drew nigh unto Damascus: and suddenly there shone round about him a light out of heaven: and he fell upon the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? ... And Saul arose from the earth; and when his eyes were opened, he saw nothing... And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision... And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost. And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized.",
+          "verses": [
+            {
+              "number": 1,
+              "text": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,"
+            },
+            {
+              "number": 3,
+              "text": "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:"
+            },
+            {
+              "number": 4,
+              "text": "And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?"
+            },
+            {
+              "number": 5,
+              "text": "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks."
+            },
+            {
+              "number": 11,
+              "text": "And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,"
+            },
+            {
+              "number": 15,
+              "text": "But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:"
+            },
+            {
+              "number": 17,
+              "text": "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost."
+            },
+            {
+              "number": 18,
+              "text": "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized."
+            }
+          ],
+          "excerpt": "I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks."
+        },
+        "zh": {
+          "fullText": "掃羅仍然向主的門徒口吐威嚇兇殺的話，去見大祭司... 掃羅行路，將到大馬士革，忽然從天上發光，四面照著他；他就仆倒在地，聽見有聲音對他說：「掃羅！掃羅！你為甚麼逼迫我？」... 掃羅從地上起來，睜開眼睛，竟不能看見甚麼... 當下，在大馬士革有一個門徒，名叫亞拿尼亞。主在異象中對他說：起來！往直街去，在猶大的家裡，訪問一個大數人，名叫掃羅。他正禱告... 亞拿尼亞就去了，進入那家，把手按在掃羅身上，說：主，就是你來的路上向你顯現的耶穌，打發我來，叫你能看見，又被聖靈充滿。掃羅的眼睛上，好像有鱗立刻掉下來，他就看見了。於是起來受了洗。",
+          "verses": [
+            {
+              "number": 1,
+              "text": "掃羅仍然向主的門徒口吐威嚇兇殺的話，去見大祭司，"
+            },
+            {
+              "number": 3,
+              "text": "掃羅行路，將到大馬士革，忽然從天上發光，四面照著他；"
+            },
+            {
+              "number": 4,
+              "text": "他就仆倒在地，聽見有聲音對他說：「掃羅！掃羅！你為甚麼逼迫我？」"
+            },
+            {
+              "number": 5,
+              "text": "他說：「主啊！你是誰？」主說：「我就是你所逼迫的耶穌。」"
+            },
+            {
+              "number": 11,
+              "text": "主對他說：「起來！往直街去，在猶大的家裡，訪問一個大數人，名叫掃羅。他正禱告，」"
+            },
+            {
+              "number": 15,
+              "text": "主對亞拿尼亞說：「你只管去！他是我所揀選的器皿，要在外邦人和君王，並以色列人面前宣揚我的名。」"
+            },
+            {
+              "number": 17,
+              "text": "亞拿尼亞就去了，進入那家，把手按在掃羅身上，說：「主，就是你來的路上向你顯現的耶穌，打發我來，叫你能看見，又被聖靈充滿。」"
+            },
+            {
+              "number": 18,
+              "text": "掃羅的眼睛上，好像有鱗立刻掉下來，他就看見了。於是起來受了洗。"
+            }
+          ],
+          "excerpt": "我就是你所逼迫的耶穌。起來！進城去。"
+        }
+      },
+      "previousEventId": "philip-ethiopian",
+      "nextEventId": "saul-preaching-and-escape"
+    },
+    {
+      "id": "saul-preaching-and-escape",
+      "title": {
+        "en": "Saul's Early Ministry and Escape",
+        "zh": "掃羅早期的傳道與逃脫"
+      },
+      "description": {
+        "en": "Saul begins preaching in Damascus synagogues, confounding the Jews. He escapes a death plot by being lowered in a basket, then travels to Jerusalem where Barnabas introduces him to the apostles.",
+        "zh": "掃羅開始在大馬士革的會堂講道，使猶太人驚奇。他藉著筐子從城牆上下去，逃脫了暗殺陰謀，隨後前往耶路撒冷，由巴拿巴引薦給使徒。"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 9,
+        "verseStart": 20,
+        "verseEnd": 31,
+        "display": "Acts 9:20-31"
+      },
+      "date": {
+        "year": 37,
+        "displayText": {
+          "en": "A.D. 37",
+          "zh": "主後37年"
+        },
+        "order": 7.3
+      },
+      "location": "damascus",
+      "primaryImage": "/images/events/placeholder.jpg",
+      "imageSource": "Placeholder",
+      "category": "evangelism",
+      "keyFigures": [
+        "paul",
+        "barnabas"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And straightway he preached Christ in the synagogues, that he is the Son of God. ... And after that many days were fulfilled, the Jews took counsel to kill him: But their laying await was known of Saul. And they watched the gates day and night to kill him. Then the disciples took him by night, and let him down by the wall in a basket. And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple. But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus. ... Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.",
+          "verses": [
+            {
+              "number": 20,
+              "text": "And straightway he preached Christ in the synagogues, that he is the Son of God."
+            },
+            {
+              "number": 22,
+              "text": "But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ."
+            },
+            {
+              "number": 23,
+              "text": "And after that many days were fulfilled, the Jews took counsel to kill him:"
+            },
+            {
+              "number": 25,
+              "text": "Then the disciples took him by night, and let him down by the wall in a basket."
+            },
+            {
+              "number": 26,
+              "text": "And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple."
+            },
+            {
+              "number": 27,
+              "text": "But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus."
+            },
+            {
+              "number": 31,
+              "text": "Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied."
+            }
+          ],
+          "excerpt": "Then the disciples took him by night, and let him down by the wall in a basket."
+        },
+        "zh": {
+          "fullText": "就在各會堂裡宣傳耶穌，說他是神的兒子。 ... 過了有好些日子，猶太人商議要殺掃羅，但他們的計謀被掃羅知道了。他們又晝夜在城門守候，要殺他。他的門徒就在夜間用筐子把他從城牆上縋下去。掃羅到了耶路撒冷，想與門徒結交，他們卻都怕他，不信他是門徒。惟有巴拿巴接待他，領去見使徒，把他在路上怎麼看見主，主怎麼向他說話，他在大馬士革怎麼奉耶穌的名放膽傳道，都述說出來。 ... 那時，猶太、加利利、撒瑪利亞各處的教會都得平安，被建立；凡事敬畏主，蒙聖靈的安慰，人數就增多了。",
+          "verses": [
+            {
+              "number": 20,
+              "text": "就在各會堂裡宣傳耶穌，說他是神的兒子。"
+            },
+            {
+              "number": 22,
+              "text": "但掃羅越發有能力，駁倒住大馬士革的猶太人，證明耶穌是基督。"
+            },
+            {
+              "number": 23,
+              "text": "過了有好些日子，猶太人商議要殺掃羅，"
+            },
+            {
+              "number": 25,
+              "text": "他的門徒就在夜間用筐子把他從城牆上縋下去。"
+            },
+            {
+              "number": 26,
+              "text": "掃羅到了耶路撒冷，想與門徒結交，他們卻都怕他，不信他是門徒。"
+            },
+            {
+              "number": 27,
+              "text": "惟有巴拿巴接待他，領去見使徒，把他在路上怎麼看見主，主怎麼向他說話，他在大馬士革怎麼奉耶穌的名放膽傳道，都述說出來。"
+            },
+            {
+              "number": 31,
+              "text": "那時，猶太、加利利、撒瑪利亞各處的教會都得平安，被建立；凡事敬畏主，蒙聖靈的安慰，人數就增多了。"
+            }
+          ],
+          "excerpt": "他的門徒就在夜間用筐子把他從城牆上縋下去。"
+        }
+      },
+      "previousEventId": "saul-conversion",
+      "nextEventId": "peter-lydda-joppa"
+    },
+    {
+      "id": "peter-lydda-joppa",
+      "title": {
+        "en": "Peter in Lydda and Joppa",
+        "zh": "彼得在呂大和約帕"
+      },
+      "description": {
+        "en": "Peter heals Aeneas, who was paralyzed for eight years, and raises Tabitha (Dorcas) from the dead, resulting in many turning to the Lord.",
+        "zh": "彼得醫治了癱瘓八年的以尼雅，並使多加（大比大）從死裡復活，使許多人歸信了主。"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 9,
+        "verseStart": 32,
+        "verseEnd": 43,
+        "display": "Acts 9:32-43"
+      },
+      "date": {
+        "year": 38,
+        "displayText": {
+          "en": "A.D. 38",
+          "zh": "主後38年"
+        },
+        "order": 7.6
+      },
+      "location": "joppa",
+      "primaryImage": "/images/events/placeholder.jpg",
+      "imageSource": "Placeholder",
+      "category": "miracle",
+      "keyFigures": [
+        "peter"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda. And there he found a certain man named Aeneas, which had kept his bed eight years, and was sick of the palsy. And Peter said unto him, Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately. ... Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas... it came to pass in those days, that she was sick, and died... But Peter put them all forth, and kneeled down, and prayed; and turning him to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up. And he gave her his hand, and lifted her up, and when he had called the saints and widows, presented her alive.",
+          "verses": [
+            {
+              "number": 32,
+              "text": "And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda."
+            },
+            {
+              "number": 34,
+              "text": "And Peter said unto him, Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately."
+            },
+            {
+              "number": 36,
+              "text": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did."
+            },
+            {
+              "number": 40,
+              "text": "But Peter put them all forth, and kneeled down, and prayed; and turning him to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up."
+            },
+            {
+              "number": 41,
+              "text": "And he gave her his hand, and lifted her up, and when he had called the saints and widows, presented her alive."
+            },
+            {
+              "number": 42,
+              "text": "And it was known throughout all Joppa; and many believed in the Lord."
+            }
+          ],
+          "excerpt": "Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed."
+        },
+        "zh": {
+          "fullText": "彼得周流四方的時候，也下到住呂大的聖徒那裡；遇見一個人，名叫以尼雅，得了癱瘓，在褥子上躺臥八年。彼得對他說：以尼雅，耶穌基督醫好你了；起來！收拾你的褥子。他就立刻起來了。 ... 在約帕有一個女徒，名叫大比大，翻希臘話就是多加；他廣行善事，多施賙濟。當那些日子，他患病死了... 彼得叫他們都出去，就跪下禱告，轉身對著死人說：大比大，起來！他就睜開眼睛，看見彼得，便坐起來。彼得伸手扶他起來，叫眾聖徒和寡婦進去，把多加活活的交給他們。",
+          "verses": [
+            {
+              "number": 32,
+              "text": "彼得周流四方的時候，也下到住呂大的聖徒那裡；"
+            },
+            {
+              "number": 34,
+              "text": "遇見一個人，名叫以尼雅，得了癱瘓，在褥子上躺臥八年。彼得對他說：「以尼雅，耶穌基督醫好你了；起來！收拾你的褥子。」他就立刻起來了。"
+            },
+            {
+              "number": 36,
+              "text": "在約帕有一個女徒，名叫大比大，翻希臘話就是多加；他廣行善事，多施賙濟。"
+            },
+            {
+              "number": 40,
+              "text": "彼得叫他們都出去，就跪下禱告，轉身對著死人說：「大比大，起來！」他就睜開眼睛，看見彼得，便坐起來。"
+            },
+            {
+              "number": 41,
+              "text": "彼得伸手扶他起來，叫眾聖徒和寡婦進去，把多加活活的交給他們。"
+            },
+            {
+              "number": 42,
+              "text": "這事傳揚了約帕全地，就有許多人信了主。"
+            }
+          ],
+          "excerpt": "以尼雅，耶穌基督醫好你了；起來！收拾你的褥子。"
+        }
+      },
+      "previousEventId": "saul-preaching-and-escape",
+      "nextEventId": "peter-cornelius"
+    },
+    {
+      "id": "peter-cornelius",
+      "title": {
+        "en": "Peter and Cornelius",
+        "zh": "彼得和哥尼流"
+      },
+      "description": {
+        "en": "Peter receives a vision and brings the gospel to the first Gentile household",
+        "zh": "彼得領受異象，將福音傳給第一個外邦人家庭"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 10,
+        "verseStart": 34,
+        "verseEnd": 48,
+        "display": "Acts 10:34-48"
+      },
+      "date": {
+        "year": 40,
+        "displayText": {
+          "en": "A.D. 40",
+          "zh": "主後40年"
+        },
+        "order": 8
+      },
+      "location": "caesarea",
+      "primaryImage": "/images/events/peter-cornelius.jpg",
+      "imageSource": "Unsplash",
+      "category": "conversion",
+      "keyFigures": [
+        "peter"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons: 35but in every nation he that feareth him, and worketh righteousness, is acceptable to him. The word which he sent unto the children of Israel, preachinggood tidings of peace by Jesus Christ (he is Lord of all)— 37that saying ye yourselves know, which was published throughout all Judaea, beginning from Galilee, after the baptism which John preached; 38evenJesus of Nazareth, how God anointed him with the Holy Spirit and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him. And we are witnesses of all things which he did both in the country of the Jews, and in Jerusalem; whom also they slew, hanging him on a tree. Him God raised up the third day, and gave him to be made manifest, 41not to all the people, but unto witnesses that were chosen before of God,evento us, who ate and drank with him after he rose from the dead. And he charged us to preach unto the people, and to testify that this is he who is ordained of Godto bethe Judge of the living and the dead. To him bear all the prophets witness, that through his name every one that believeth on him shall receive remission of sins. While Peter yet spake these words, the Holy Spirit fell on all them that heard the word. And they of the circumcision that believed were amazed, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Spirit. For they heard them speak with tongues, and magnify God. Then answered Peter, Can any man forbid the water, that these should not be baptized, who have received the Holy Spirit as well as we? And he commanded them to be baptized in the name of Jesus Christ. Then prayed they him to tarry certain days.",
+          "verses": [
+            {
+              "number": 34,
+              "text": "And Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons: 35but in every nation he that feareth him, and worketh righteousness, is acceptable to him."
+            },
+            {
+              "number": 36,
+              "text": "The word which he sent unto the children of Israel, preachinggood tidings of peace by Jesus Christ (he is Lord of all)— 37that saying ye yourselves know, which was published throughout all Judaea, beginning from Galilee, after the baptism which John preached; 38evenJesus of Nazareth, how God anointed him with the Holy Spirit and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him."
+            },
+            {
+              "number": 39,
+              "text": "And we are witnesses of all things which he did both in the country of the Jews, and in Jerusalem; whom also they slew, hanging him on a tree."
+            },
+            {
+              "number": 40,
+              "text": "Him God raised up the third day, and gave him to be made manifest, 41not to all the people, but unto witnesses that were chosen before of God,evento us, who ate and drank with him after he rose from the dead."
+            },
+            {
+              "number": 42,
+              "text": "And he charged us to preach unto the people, and to testify that this is he who is ordained of Godto bethe Judge of the living and the dead."
+            },
+            {
+              "number": 43,
+              "text": "To him bear all the prophets witness, that through his name every one that believeth on him shall receive remission of sins."
+            },
+            {
+              "number": 44,
+              "text": "While Peter yet spake these words, the Holy Spirit fell on all them that heard the word."
+            },
+            {
+              "number": 45,
+              "text": "And they of the circumcision that believed were amazed, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Spirit."
+            },
+            {
+              "number": 46,
+              "text": "For they heard them speak with tongues, and magnify God. Then answered Peter,"
+            },
+            {
+              "number": 47,
+              "text": "Can any man forbid the water, that these should not be baptized, who have received the Holy Spirit as well as we?"
+            },
+            {
+              "number": 48,
+              "text": "And he commanded them to be baptized in the name of Jesus Christ. Then prayed they him to tarry certain days."
+            }
+          ],
+          "excerpt": "And Peter opened his mouth, and said, Of a truth I perceive that God is no re..."
+        },
+        "zh": {
+          "fullText": "彼得就開口說：「我真看出神是不偏待人。原來，各國中那敬畏主、行義的人都為主所悅納。神藉著耶穌基督（他是萬有的主）傳和平的福音，將這道賜給以色列人。這話在約翰宣傳洗禮以後，從加利利起，傳遍了猶太。神怎樣以聖靈和能力膏拿撒勒人耶穌，這都是你們知道的。他周流四方，行善事，醫好凡被魔鬼壓制的人，因為神與他同在。他在猶太人之地，並耶路撒冷所行的一切事，有我們作見證。他們竟把他掛在木頭上殺了。第三日，神叫他復活，顯現出來；不是顯現給眾人看，乃是顯現給神預先所揀選為他作見證的人看，就是我們這些在他從死裡復活以後和他同吃同喝的人。他吩咐我們傳道給眾人，證明他是神所立定的，要作審判活人、死人的主。眾先知也為他作見證說：『凡信他的人必因他的名得蒙赦罪。』彼得還說這話的時候，聖靈降在一切聽道的人身上。那些奉割禮、和彼得同來的信徒，見聖靈的恩賜也澆在外邦人身上，就都希奇；因聽見他們說方言，稱讚神為大。於是彼得說：「這些人既受了聖靈，與我們一樣，誰能禁止用水給他們施洗呢？」就吩咐奉耶穌基督的名給他們施洗。他們又請彼得住了幾天。",
+          "verses": [
+            {
+              "number": 34,
+              "text": "彼得就開口說：「我真看出神是不偏待人。"
+            },
+            {
+              "number": 35,
+              "text": "原來，各國中那敬畏主、行義的人都為主所悅納。"
+            },
+            {
+              "number": 44,
+              "text": "彼得還說這話的時候，聖靈降在一切聽道的人身上。"
+            },
+            {
+              "number": 45,
+              "text": "那些奉割禮、和彼得同來的信徒，見聖靈的恩賜也澆在外邦人身上，就都希奇；"
+            }
+          ],
+          "excerpt": "神是不偏待人..."
+        }
+      },
+      "previousEventId": "peter-lydda-joppa",
+      "nextEventId": "antioch-church"
+    },
+    {
+      "id": "antioch-church",
+      "title": {
+        "en": "The Church at Antioch",
+        "zh": "安提阿教會"
+      },
+      "description": {
+        "en": "Believers are first called Christians at Antioch, establishing a major center for the early church",
+        "zh": "信徒首次被稱為基督徒在安提阿，建立早期教會的主要中心"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 11,
+        "verseStart": 19,
+        "verseEnd": 26,
+        "display": "Acts 11:19-26"
+      },
+      "date": {
+        "year": 42,
+        "displayText": {
+          "en": "A.D. 42",
+          "zh": "主後42年"
+        },
+        "order": 9
+      },
+      "location": "antioch",
+      "primaryImage": "/images/events/antioch-church.jpg",
+      "imageSource": "Unsplash",
+      "category": "early-church",
+      "keyFigures": [
+        "barnabas",
+        "paul"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "They therefore that were scattered abroad upon the tribulation that arose about Stephen travelled as far as Phoenicia, and Cyprus, and Antioch, speaking the word to none save only to Jews. But there were some of them, men of Cyprus and Cyrene, who, when they were come to Antioch, spake unto theGreeks also,preaching the Lord Jesus. And the hand of the Lord was with them: and a great number that believed turned unto the Lord. And the report concerning them came to the ears of the church which was in Jerusalem: and they sent forth Barnabas as far as Antioch: 23who, when he was come, and had seen the grace of God, was glad; and he exhorted them all,that with purpose of heart they would cleave unto the Lord: 24for he was a good man, and full of the Holy Spirit and of faith: and much people was added unto the Lord. And he went forth to Tarsus to seek for Saul; 26and when he had found him, he brought him unto Antioch. And it came to pass, that even for a whole year they were gathered togetherwith the church, and taught much people; and that the disciples were called Christians first in Antioch.",
+          "verses": [
+            {
+              "number": 19,
+              "text": "They therefore that were scattered abroad upon the tribulation that arose about Stephen travelled as far as Phoenicia, and Cyprus, and Antioch, speaking the word to none save only to Jews."
+            },
+            {
+              "number": 20,
+              "text": "But there were some of them, men of Cyprus and Cyrene, who, when they were come to Antioch, spake unto theGreeks also,preaching the Lord Jesus."
+            },
+            {
+              "number": 21,
+              "text": "And the hand of the Lord was with them: and a great number that believed turned unto the Lord."
+            },
+            {
+              "number": 22,
+              "text": "And the report concerning them came to the ears of the church which was in Jerusalem: and they sent forth Barnabas as far as Antioch: 23who, when he was come, and had seen the grace of God, was glad; and he exhorted them all,that with purpose of heart they would cleave unto the Lord: 24for he was a good man, and full of the Holy Spirit and of faith: and much people was added unto the Lord."
+            },
+            {
+              "number": 25,
+              "text": "And he went forth to Tarsus to seek for Saul; 26and when he had found him, he brought him unto Antioch. And it came to pass, that even for a whole year they were gathered togetherwith the church, and taught much people; and that the disciples were called Christians first in Antioch."
+            }
+          ],
+          "excerpt": "They therefore that were scattered abroad upon the tribulation that arose abo..."
+        },
+        "zh": {
+          "fullText": "那些因司提反的事遭患難四散的門徒直走到腓尼基和塞浦路斯，並安提阿；他們不向別人講道，只向猶太人講。但內中有塞浦路斯和古利奈人，他們到了安提阿也向希臘人傳講主耶穌。主與他們同在，信而歸主的人就很多了。這風聲傳到耶路撒冷教會人的耳中，他們就打發巴拿巴出去，走到安提阿為止。他到了那裡，看見神所賜的恩就歡喜，勸勉眾人，立定心志，恆久靠主。這巴拿巴原是個好人，被聖靈充滿，大有信心。於是有許多人歸服了主。他又往大數去找掃羅，找著了，就帶他到安提阿去。他們足有一年的工夫和教會一同聚集，教訓了許多人。門徒稱為「基督徒」是從安提阿起首。",
+          "verses": [
+            {
+              "number": 19,
+              "text": "那些因司提反的事遭患難四散的門徒直走到腓尼基和塞浦路斯，並安提阿；他們不向別人講道，只向猶太人講。"
+            },
+            {
+              "number": 20,
+              "text": "但內中有塞浦路斯和古利奈人，他們到了安提阿也向希臘人傳講主耶穌。"
+            },
+            {
+              "number": 21,
+              "text": "主與他們同在，信而歸主的人就很多了。"
+            },
+            {
+              "number": 26,
+              "text": "他們足有一年的工夫和教會一同聚集，教訓了許多人。門徒稱為「基督徒」是從安提阿起首。"
+            }
+          ],
+          "excerpt": "門徒稱為「基督徒」是從安提阿起首..."
+        }
+      },
+      "previousEventId": "peter-cornelius",
+      "nextEventId": "peter-escape"
+    },
+    {
+      "id": "peter-escape",
+      "title": {
+        "en": "Peter's Miraculous Escape",
+        "zh": "彼得奇蹟般逃脫"
+      },
+      "description": {
+        "en": "An angel frees Peter from prison while the church prays for his release",
+        "zh": "當教會為他禱告時，天使將彼得從監獄中釋放"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 12,
+        "verseStart": 5,
+        "verseEnd": 17,
+        "display": "Acts 12:5-17"
+      },
+      "date": {
+        "year": 44,
+        "displayText": {
+          "en": "A.D. 44",
+          "zh": "主後44年"
+        },
+        "order": 10
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/peter-escape.jpg",
+      "imageSource": "Unsplash",
+      "category": "miracle",
+      "keyFigures": [
+        "peter"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "Peter therefore was kept in the prison: but prayer was made earnestly of the church unto God for him. And when Herod was about to bring him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and guards before the door kept the prison. And behold, an angel of the Lord stood by him, and a light shined in the cell: and he smote Peter on the side, and awoke him, saying, Rise up quickly. And his chains fell off from his hands. And the angel said unto him, Gird thyself, and bind on thy sandals. And he did so. And he saith unto him, Cast thy garment about thee, and follow me. And he went out, and followed; and he knew not that it was true which was doneby the angel, but thought he saw a vision. And when they were past the first and the second guard, they came unto the iron gate that leadeth into the city; which opened to them of its own accord: and they went out, and passed on through one street; and straightway the angel departed from him. And when Peter was come to himself, he said, Now I know of a truth, that the Lord hath sent forth his angel and delivered me out of the hand of Herod, and from all the expectation of the people of the Jews. And when he had consideredthe thing, he came to the house of Mary the mother of John whose surname was Mark; where many were gathered together and were praying. And when he knocked at the door of the gate, a maid came to answer, named Rhoda. And when she knew Peter’s voice, she opened not the gate for joy, but ran in, and told that Peter stood before the gate. And they said unto her, Thou art mad. But she confidently affirmed that it was even so. And they said, It is his angel. But Peter continued knocking: and when they had opened, they saw him, and were amazed. But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him forth out of the prison. And he said, Tell these things unto James, and to the brethren. And he departed, and went to another place.",
+          "verses": [
+            {
+              "number": 5,
+              "text": "Peter therefore was kept in the prison: but prayer was made earnestly of the church unto God for him."
+            },
+            {
+              "number": 6,
+              "text": "And when Herod was about to bring him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and guards before the door kept the prison."
+            },
+            {
+              "number": 7,
+              "text": "And behold, an angel of the Lord stood by him, and a light shined in the cell: and he smote Peter on the side, and awoke him, saying, Rise up quickly. And his chains fell off from his hands."
+            },
+            {
+              "number": 8,
+              "text": "And the angel said unto him, Gird thyself, and bind on thy sandals. And he did so. And he saith unto him, Cast thy garment about thee, and follow me."
+            },
+            {
+              "number": 9,
+              "text": "And he went out, and followed; and he knew not that it was true which was doneby the angel, but thought he saw a vision."
+            },
+            {
+              "number": 10,
+              "text": "And when they were past the first and the second guard, they came unto the iron gate that leadeth into the city; which opened to them of its own accord: and they went out, and passed on through one street; and straightway the angel departed from him."
+            },
+            {
+              "number": 11,
+              "text": "And when Peter was come to himself, he said, Now I know of a truth, that the Lord hath sent forth his angel and delivered me out of the hand of Herod, and from all the expectation of the people of the Jews."
+            },
+            {
+              "number": 12,
+              "text": "And when he had consideredthe thing, he came to the house of Mary the mother of John whose surname was Mark; where many were gathered together and were praying."
+            },
+            {
+              "number": 13,
+              "text": "And when he knocked at the door of the gate, a maid came to answer, named Rhoda."
+            },
+            {
+              "number": 14,
+              "text": "And when she knew Peter’s voice, she opened not the gate for joy, but ran in, and told that Peter stood before the gate."
+            },
+            {
+              "number": 15,
+              "text": "And they said unto her, Thou art mad. But she confidently affirmed that it was even so. And they said, It is his angel."
+            },
+            {
+              "number": 16,
+              "text": "But Peter continued knocking: and when they had opened, they saw him, and were amazed."
+            },
+            {
+              "number": 17,
+              "text": "But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him forth out of the prison. And he said, Tell these things unto James, and to the brethren. And he departed, and went to another place."
+            }
+          ],
+          "excerpt": "Peter therefore was kept in the prison: but prayer was made earnestly of the ..."
+        },
+        "zh": {
+          "fullText": "於是彼得被囚在監裡；教會卻為他切切地禱告神。希律將要提他出來的前一夜，彼得被兩條鐵鍊鎖著，睡在兩個兵丁當中；看守的人也在門外看守。忽然，有主的一個使者站在旁邊，屋裡有光照耀，天使拍彼得的肋旁，拍醒了他，說：「快快起來！」那鐵鍊就從他手上脫落下來。天使對他說：「束上帶子，穿上鞋。」他就那樣做。天使又說：「披上外衣，跟著我來。」彼得就出來跟著他，不知道天使所做是真的，只當見了異象。過了第一層第二層監牢，就來到臨街的鐵門，那門自己開了。他們出來，走過一條街，天使便離開他去了。彼得醒悟過來，說：「我現在真知道主差遣他的使者，救我脫離希律的手和猶太百姓一切所盼望的。」",
+          "verses": [
+            {
+              "number": 5,
+              "text": "於是彼得被囚在監裡；教會卻為他切切地禱告神。"
+            },
+            {
+              "number": 7,
+              "text": "忽然，有主的一個使者站在旁邊，屋裡有光照耀，天使拍彼得的肋旁，拍醒了他，說：「快快起來！」那鐵鍊就從他手上脫落下來。"
+            },
+            {
+              "number": 10,
+              "text": "過了第一層第二層監牢，就來到臨街的鐵門，那門自己開了。他們出來，走過一條街，天使便離開他去了。"
+            },
+            {
+              "number": 11,
+              "text": "彼得醒悟過來，說：「我現在真知道主差遣他的使者，救我脫離希律的手和猶太百姓一切所盼望的。」"
+            }
+          ],
+          "excerpt": "主差遣他的使者，救我脫離希律的手..."
+        }
+      },
+      "previousEventId": "antioch-church",
+      "nextEventId": "paul-first-journey"
+    },
+    {
+      "id": "paul-first-journey",
+      "title": {
+        "en": "Paul's First Missionary Journey",
+        "zh": "保羅第一次宣教之旅"
+      },
+      "description": {
+        "en": "Paul and Barnabas are sent out from Antioch to spread the gospel to the Gentiles",
+        "zh": "保羅和巴拿巴從安提阿被差遣，向外邦人傳福音"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 13,
+        "verseStart": 1,
+        "verseEnd": 5,
+        "display": "Acts 13:1-5"
+      },
+      "date": {
+        "year": 46,
+        "displayText": {
+          "en": "A.D. 46-48",
+          "zh": "主後46-48年"
+        },
+        "order": 11
+      },
+      "location": "antioch",
+      "primaryImage": "/images/events/paul-first-journey.png",
+      "imageSource": "Unsplash",
+      "category": "missionary-journey",
+      "keyFigures": [
+        "paul",
+        "barnabas"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "Now there were at Antioch, in the church that wasthere, prophets and teachers, Barnabas, and Symeon that was called Niger, and Lucius of Cyrene, and Manaen the foster-brother of Herod the tetrarch, and Saul. And as they ministered to the Lord, and fasted, the Holy Spirit said, Separate me Barnabas and Saul for the work whereunto I have called them. Then, when they had fasted and prayed and laid their hands on them, they sent them away. So they, being sent forth by the Holy Spirit, went down to Seleucia; and from thence they sailed to Cyprus. And when they were at Salamis, they proclaimed the word of God in the synagogues of the Jews: and they had also John as their attendant.",
+          "verses": [
+            {
+              "number": 2,
+              "text": "And as they ministered to the Lord, and fasted, the Holy Spirit said, Separate me Barnabas and Saul for the work whereunto I have called them."
+            },
+            {
+              "number": 3,
+              "text": "Then, when they had fasted and prayed and laid their hands on them, they sent them away."
+            },
+            {
+              "number": 4,
+              "text": "So they, being sent forth by the Holy Spirit, went down to Seleucia; and from thence they sailed to Cyprus."
+            },
+            {
+              "number": 5,
+              "text": "And when they were at Salamis, they proclaimed the word of God in the synagogues of the Jews: and they had also John as their attendant."
+            }
+          ],
+          "excerpt": "And as they ministered to the Lord, and fasted, the Holy Spirit said, Separat..."
+        },
+        "zh": {
+          "fullText": "在安提阿的教會中，有幾位先知和教師，就是巴拿巴和稱呼尼結的西面、古利奈人路求，與分封之王希律同養的馬念，並掃羅。他們事奉主、禁食的時候，聖靈說：「要為我分派巴拿巴和掃羅，去做我召他們所做的工。」於是禁食禱告，按手在他們頭上，就打發他們去了。他們既被聖靈差遣，就下到西流基，從那裡坐船往塞浦路斯去。到了撒拉米，就在猶太人各會堂裡傳講神的道，也有約翰作他們的幫手。",
+          "verses": [
+            {
+              "number": 1,
+              "text": "在安提阿的教會中，有幾位先知和教師，就是巴拿巴和稱呼尼結的西面、古利奈人路求，與分封之王希律同養的馬念，並掃羅。"
+            },
+            {
+              "number": 2,
+              "text": "他們事奉主、禁食的時候，聖靈說：「要為我分派巴拿巴和掃羅，去做我召他們所做的工。」"
+            },
+            {
+              "number": 3,
+              "text": "於是禁食禱告，按手在他們頭上，就打發他們去了。"
+            },
+            {
+              "number": 4,
+              "text": "他們既被聖靈差遣，就下到西流基，從那裡坐船往塞浦路斯去。"
+            }
+          ],
+          "excerpt": "要為我分派巴拿巴和掃羅..."
+        }
+      },
+      "journeyId": "first-journey",
+      "previousEventId": "peter-escape",
+      "nextEventId": "jerusalem-council"
+    },
+    {
+      "id": "jerusalem-council",
+      "title": {
+        "en": "The Council of Jerusalem",
+        "zh": "耶路撒冷會議"
+      },
+      "description": {
+        "en": "Church leaders decide that Gentile believers do not need to follow Jewish law",
+        "zh": "教會領袖決定外邦信徒不需要遵守猶太律法"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 15,
+        "verseStart": 6,
+        "verseEnd": 29,
+        "display": "Acts 15:6-29"
+      },
+      "date": {
+        "year": 49,
+        "displayText": {
+          "en": "A.D. 49",
+          "zh": "主後49年"
+        },
+        "order": 12
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/The-Council-of-Jerusalem.jpg",
+      "imageSource": "Unsplash",
+      "category": "early-church",
+      "keyFigures": [
+        "peter",
+        "paul",
+        "barnabas"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And the apostles and the elders were gathered together to consider of this matter. And when there had been much questioning, Peter rose up, and said unto them, Brethren, ye know thata good while ago God made choice among you, that by my mouth the Gentiles should hear the word of thegospel, and believe. And God, who knoweth the heart, bare them witness, giving them the Holy Spirit, even as he did unto us; 9and he made no distinction between us and them, cleansing their hearts by faith. Now therefore why make ye trial of God, that ye should put a yoke upon the neck of the disciples which neither our fathers nor we were able to bear? But we believe that we shall be saved through the grace of the Lord Jesus, in like manner as they. And all the multitude kept silence; and they hearkened unto Barnabas and Paul rehearsing what signs and wonders God had wrought among the Gentiles through them. And after they had held their peace, James answered, saying, Brethren, hearken unto me: Symeon hath rehearsed how first God visited theGentiles, to take out of them a people for his name. And to this agree the words of the prophets; as it is written, After these things I will return, And I will build again the tabernacle of David, which is fallen; And I will build again the ruins thereof, And I will set it up: That the residue of men may seek after the Lord, And all theGentiles, upon whom my name is called, Saith the Lord,who maketh these things known from of old. Wherefore my judgment is, that we trouble not them that from among the Gentiles turn to God; 20but that wewrite unto them, that they abstain from the pollutions of idols, and from fornication, and from what is strangled, and from blood. For Moses from generations of old hath in every city them that preach him, being read in the synagogues every sabbath. Then it seemed good to the apostles and the elders, with the whole church, to choose men out of their company, and send them to Antioch with Paul and Barnabas;namely, Judas called Barsabbas, and Silas, chief men among the brethren: 23and they wrotethusby them,The apostles and the elders, brethren, unto the brethren who are of the Gentiles in Antioch and Syria and Cilicia, greeting: Forasmuch as we have heard that certainwho went out from us have troubled you with words, subverting your souls; to whom we gave no commandment; 25it seemed good unto us, having come to one accord, to choose out men and send them unto you with our beloved Barnabas and Paul, 26men that have hazarded their lives for the name of our Lord Jesus Christ. We have sent therefore Judas and Silas, who themselves also shall tell you the same things by word of mouth. For it seemed good to the Holy Spirit, and to us, to lay upon you no greater burden than these necessary things: 29that ye abstain from things sacrificed to idols, and from blood, and from things strangled, and from fornication; from which if ye keep yourselves, it shall be well with you. Fare ye well.",
+          "verses": [
+            {
+              "number": 6,
+              "text": "And the apostles and the elders were gathered together to consider of this matter."
+            },
+            {
+              "number": 7,
+              "text": "And when there had been much questioning, Peter rose up, and said unto them, Brethren, ye know thata good while ago God made choice among you, that by my mouth the Gentiles should hear the word of thegospel, and believe."
+            },
+            {
+              "number": 8,
+              "text": "And God, who knoweth the heart, bare them witness, giving them the Holy Spirit, even as he did unto us; 9and he made no distinction between us and them, cleansing their hearts by faith."
+            },
+            {
+              "number": 10,
+              "text": "Now therefore why make ye trial of God, that ye should put a yoke upon the neck of the disciples which neither our fathers nor we were able to bear?"
+            },
+            {
+              "number": 11,
+              "text": "But we believe that we shall be saved through the grace of the Lord Jesus, in like manner as they."
+            },
+            {
+              "number": 12,
+              "text": "And all the multitude kept silence; and they hearkened unto Barnabas and Paul rehearsing what signs and wonders God had wrought among the Gentiles through them."
+            },
+            {
+              "number": 13,
+              "text": "And after they had held their peace, James answered, saying, Brethren, hearken unto me:"
+            },
+            {
+              "number": 14,
+              "text": "Symeon hath rehearsed how first God visited theGentiles, to take out of them a people for his name."
+            },
+            {
+              "number": 15,
+              "text": "And to this agree the words of the prophets; as it is written,"
+            },
+            {
+              "number": 16,
+              "text": "After these things I will return, And I will build again the tabernacle of David, which is fallen; And I will build again the ruins thereof, And I will set it up:"
+            },
+            {
+              "number": 17,
+              "text": "That the residue of men may seek after the Lord, And all theGentiles, upon whom my name is called,"
+            },
+            {
+              "number": 18,
+              "text": "Saith the Lord,who maketh these things known from of old."
+            },
+            {
+              "number": 19,
+              "text": "Wherefore my judgment is, that we trouble not them that from among the Gentiles turn to God; 20but that wewrite unto them, that they abstain from the pollutions of idols, and from fornication, and from what is strangled, and from blood."
+            },
+            {
+              "number": 21,
+              "text": "For Moses from generations of old hath in every city them that preach him, being read in the synagogues every sabbath."
+            },
+            {
+              "number": 22,
+              "text": "Then it seemed good to the apostles and the elders, with the whole church, to choose men out of their company, and send them to Antioch with Paul and Barnabas;namely, Judas called Barsabbas, and Silas, chief men among the brethren: 23and they wrotethusby them,The apostles and the elders, brethren, unto the brethren who are of the Gentiles in Antioch and Syria and Cilicia, greeting:"
+            },
+            {
+              "number": 24,
+              "text": "Forasmuch as we have heard that certainwho went out from us have troubled you with words, subverting your souls; to whom we gave no commandment; 25it seemed good unto us, having come to one accord, to choose out men and send them unto you with our beloved Barnabas and Paul, 26men that have hazarded their lives for the name of our Lord Jesus Christ."
+            },
+            {
+              "number": 27,
+              "text": "We have sent therefore Judas and Silas, who themselves also shall tell you the same things by word of mouth."
+            },
+            {
+              "number": 28,
+              "text": "For it seemed good to the Holy Spirit, and to us, to lay upon you no greater burden than these necessary things: 29that ye abstain from things sacrificed to idols, and from blood, and from things strangled, and from fornication; from which if ye keep yourselves, it shall be well with you. Fare ye well."
+            }
+          ],
+          "excerpt": "And the apostles and the elders were gathered together to consider of this ma..."
+        },
+        "zh": {
+          "fullText": "使徒和長老聚會商議這事；辯論已經多了，彼得就起來，說：「諸位弟兄，你們知道神早已在你們中間揀選了我，叫外邦人從我口中得聽福音之道，而且相信。知道人心的神也為他們作了見證，賜聖靈給他們，正如給我們一樣；又藉著信潔淨了他們的心，並不分他們我們。現在為甚麼試探神，要把我們祖宗和我們所不能負的軛放在門徒的頸項上呢？我們得救乃是因主耶穌的恩，和他們一樣，這是我們所信的。」眾人都默默無聲，聽巴拿巴和保羅述說神藉他們在外邦人中所行的神蹟奇事。",
+          "verses": [
+            {
+              "number": 6,
+              "text": "使徒和長老聚會商議這事；"
+            },
+            {
+              "number": 7,
+              "text": "辯論已經多了，彼得就起來，說：「諸位弟兄，你們知道神早已在你們中間揀選了我，叫外邦人從我口中得聽福音之道，而且相信。"
+            },
+            {
+              "number": 11,
+              "text": "我們得救乃是因主耶穌的恩，和他們一樣，這是我們所信的。」"
+            },
+            {
+              "number": 28,
+              "text": "因為聖靈和我們定意不將別的重擔放在你們身上，惟有幾件事是不可少的，"
+            }
+          ],
+          "excerpt": "我們得救乃是因主耶穌的恩..."
+        }
+      },
+      "previousEventId": "paul-first-journey",
+      "nextEventId": "philippian-jailer"
+    },
+    {
+      "id": "philippian-jailer",
+      "title": {
+        "en": "The Philippian Jailer",
+        "zh": "腓立比獄卒"
+      },
+      "description": {
+        "en": "Paul and Silas imprisoned in Philippi; earthquake leads to the jailer's conversion",
+        "zh": "保羅和西拉在腓立比被囚；地震導致獄卒悔改"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 16,
+        "verseStart": 25,
+        "verseEnd": 34,
+        "display": "Acts 16:25-34"
+      },
+      "date": {
+        "year": 50,
+        "displayText": {
+          "en": "A.D. 50",
+          "zh": "主後50年"
+        },
+        "order": 13
+      },
+      "location": "philippi",
+      "primaryImage": "/images/events/The-Philippian-Jailer.jpeg",
+      "imageSource": "Unsplash",
+      "category": "conversion",
+      "keyFigures": [
+        "paul"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "But about midnight Paul and Silas were praying and singing hymns unto God, and the prisoners were listening to them; 26and suddenly there was a great earthquake, so that the foundations of the prison-house were shaken: and immediately all the doors were opened; and every one’s bands were loosed. And the jailor, being roused out of sleep and seeing the prison doors open, drew his sword and was about to kill himself, supposing that the prisoners had escaped. But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here. And he called for lights and sprang in, and, trembling for fear, fell down before Paul and Silas, 30and brought them out and said, Sirs, what must I do to be saved? And they said, Believe on the Lord Jesus, and thou shalt be saved, thou and thy house. And they spake the word ofthe Lord unto him, with all that were in his house. And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, immediately. And he brought them up into his house, and setfood before them, and rejoiced greatly, with all his house,having believed in God.",
+          "verses": [
+            {
+              "number": 25,
+              "text": "But about midnight Paul and Silas were praying and singing hymns unto God, and the prisoners were listening to them; 26and suddenly there was a great earthquake, so that the foundations of the prison-house were shaken: and immediately all the doors were opened; and every one’s bands were loosed."
+            },
+            {
+              "number": 27,
+              "text": "And the jailor, being roused out of sleep and seeing the prison doors open, drew his sword and was about to kill himself, supposing that the prisoners had escaped."
+            },
+            {
+              "number": 28,
+              "text": "But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here."
+            },
+            {
+              "number": 29,
+              "text": "And he called for lights and sprang in, and, trembling for fear, fell down before Paul and Silas, 30and brought them out and said, Sirs, what must I do to be saved?"
+            },
+            {
+              "number": 31,
+              "text": "And they said, Believe on the Lord Jesus, and thou shalt be saved, thou and thy house."
+            },
+            {
+              "number": 32,
+              "text": "And they spake the word ofthe Lord unto him, with all that were in his house."
+            },
+            {
+              "number": 33,
+              "text": "And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, immediately."
+            },
+            {
+              "number": 34,
+              "text": "And he brought them up into his house, and setfood before them, and rejoiced greatly, with all his house,having believed in God."
+            }
+          ],
+          "excerpt": "But about midnight Paul and Silas were praying and singing hymns unto God, an..."
+        },
+        "zh": {
+          "fullText": "約在半夜，保羅和西拉禱告，唱詩讚美神，眾囚犯也側耳而聽。忽然，地大震動，甚至監牢的地基都搖動了，監門立刻全開，眾囚犯的鎖鍊也都鬆開了。禁卒一醒，看見監門全開，以為囚犯已經逃走，就拔刀要自殺。保羅大聲呼叫說：「不要傷害自己！我們都在這裡。」禁卒叫人拿燈來，就跳進去，戰戰兢兢地俯伏在保羅、西拉面前；又領他們出來，說：「二位先生，我當怎樣行才可以得救？」他們說：「當信主耶穌，你和你一家都必得救。」他們就把主的道講給他和他全家的人聽。當夜，就在那時候，禁卒把他們帶去，洗他們的傷；他和屬乎他的人立時都受了洗。於是禁卒領他們上自己家裡去，給他們擺上飯。他和全家，因為信了神，都很喜樂。",
+          "verses": [
+            {
+              "number": 25,
+              "text": "約在半夜，保羅和西拉禱告，唱詩讚美神，眾囚犯也側耳而聽。"
+            },
+            {
+              "number": 26,
+              "text": "忽然，地大震動，甚至監牢的地基都搖動了，監門立刻全開，眾囚犯的鎖鍊也都鬆開了。"
+            },
+            {
+              "number": 30,
+              "text": "又領他們出來，說：「二位先生，我當怎樣行才可以得救？」"
+            },
+            {
+              "number": 31,
+              "text": "他們說：「當信主耶穌，你和你一家都必得救。」"
+            }
+          ],
+          "excerpt": "當信主耶穌，你和你一家都必得救..."
+        }
+      },
+      "journeyId": "second-journey",
+      "previousEventId": "jerusalem-council",
+      "nextEventId": "paul-athens"
+    },
+    {
+      "id": "paul-athens",
+      "title": {
+        "en": "Paul in Athens",
+        "zh": "保羅在雅典"
+      },
+      "description": {
+        "en": "Paul preaches to Greek philosophers at the Areopagus about the unknown God",
+        "zh": "保羅在亞略巴古向希臘哲學家講論未識之神"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 17,
+        "verseStart": 22,
+        "verseEnd": 31,
+        "display": "Acts 17:22-31"
+      },
+      "date": {
+        "year": 51,
+        "displayText": {
+          "en": "A.D. 51",
+          "zh": "主後51年"
+        },
+        "order": 14
+      },
+      "location": "athens",
+      "primaryImage": "/images/events/Paul-in-Athens.jpg",
+      "imageSource": "Unsplash",
+      "category": "missionary-journey",
+      "keyFigures": [
+        "paul"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And Paul stood in the midst of the Areopagus, and said, Ye men of Athens, in all things I perceive that ye arevery religious. For as I passed along, and observed the objects of your worship, I found also an altar with this inscription,To an Unknown God. What therefore ye worship in ignorance, this I set forth unto you. The God that made the world and all things therein, he, being Lord of heaven and earth, dwelleth not intemples made with hands; 25neither is he served by men’s hands, as though he needed anything, seeing he himself giveth to all life, and breath, and all things; 26and he made of one every nation of men to dwell on all the face of the earth, having determinedtheirappointed seasons, and the bounds of their habitation; 27that they should seek God, if haply they might feel after him and find him, though he is not far from each one of us: 28for in him we live, and move, and have our being; as certain even of your own poets have said, For we are also his offspring. Being then the offspring of God, we ought not to think thatthe Godhead is like unto gold, or silver, or stone, graven by art and device of man. The times of ignorance therefore God overlooked; but now hecommandeth men that they should all everywhere repent: 31inasmuch as he hath appointed a day in which he will judgethe world in righteousnessbythe man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.",
+          "verses": [
+            {
+              "number": 22,
+              "text": "And Paul stood in the midst of the Areopagus, and said, Ye men of Athens, in all things I perceive that ye arevery religious."
+            },
+            {
+              "number": 23,
+              "text": "For as I passed along, and observed the objects of your worship, I found also an altar with this inscription,To an Unknown God. What therefore ye worship in ignorance, this I set forth unto you."
+            },
+            {
+              "number": 24,
+              "text": "The God that made the world and all things therein, he, being Lord of heaven and earth, dwelleth not intemples made with hands; 25neither is he served by men’s hands, as though he needed anything, seeing he himself giveth to all life, and breath, and all things; 26and he made of one every nation of men to dwell on all the face of the earth, having determinedtheirappointed seasons, and the bounds of their habitation; 27that they should seek God, if haply they might feel after him and find him, though he is not far from each one of us: 28for in him we live, and move, and have our being; as certain even of your own poets have said, For we are also his offspring."
+            },
+            {
+              "number": 29,
+              "text": "Being then the offspring of God, we ought not to think thatthe Godhead is like unto gold, or silver, or stone, graven by art and device of man."
+            },
+            {
+              "number": 30,
+              "text": "The times of ignorance therefore God overlooked; but now hecommandeth men that they should all everywhere repent: 31inasmuch as he hath appointed a day in which he will judgethe world in righteousnessbythe man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead."
+            }
+          ],
+          "excerpt": "And Paul stood in the midst of the Areopagus, and said, Ye men of Athens, in ..."
+        },
+        "zh": {
+          "fullText": "保羅站在亞略巴古當中，說：「眾位雅典人哪，我看你們凡事很敬畏鬼神。我遊行的時候，觀看你們所敬拜的，遇見一座壇，上面寫著『未識之神』。你們所不認識而敬拜的，我現在告訴你們。創造宇宙和其中萬物的神，既是天地的主，就不住人手所造的殿，也不用人手服事，好像缺少甚麼；自己倒將生命、氣息、萬物，賜給萬人。他從一本造出萬族的人，住在全地上，並且預先定準他們的年限和所住的疆界，要叫他們尋求神，或者可以揣摩而得，其實他離我們各人不遠；我們生活、動作、存留，都在乎他。就如你們作詩的，有人說：『我們也是他所生的。』我們既是神所生的，就不當以為神的神性像人用手藝、心思所雕刻的金、銀、石。世人蒙昧無知的時候，神並不監察，如今卻吩咐各處的人都要悔改。因為他已經定了日子，要藉著他所設立的人按公義審判天下，並且叫他從死裡復活，給萬人作可信的憑據。」",
+          "verses": [
+            {
+              "number": 22,
+              "text": "保羅站在亞略巴古當中，說：「眾位雅典人哪，我看你們凡事很敬畏鬼神。"
+            },
+            {
+              "number": 23,
+              "text": "我遊行的時候，觀看你們所敬拜的，遇見一座壇，上面寫著『未識之神』。你們所不認識而敬拜的，我現在告訴你們。"
+            },
+            {
+              "number": 28,
+              "text": "我們生活、動作、存留，都在乎他。就如你們作詩的，有人說：『我們也是他所生的。』"
+            },
+            {
+              "number": 30,
+              "text": "世人蒙昧無知的時候，神並不監察，如今卻吩咐各處的人都要悔改。"
+            }
+          ],
+          "excerpt": "你們所不認識而敬拜的未識之神..."
+        }
+      },
+      "journeyId": "second-journey",
+      "previousEventId": "philippian-jailer",
+      "nextEventId": "paul-corinth"
+    },
+    {
+      "id": "paul-corinth",
+      "title": {
+        "en": "Paul in Corinth",
+        "zh": "保羅在哥林多"
+      },
+      "description": {
+        "en": "Paul establishes a strong church in Corinth and meets Aquila and Priscilla",
+        "zh": "保羅在哥林多建立堅固的教會，並遇見亞居拉和百基拉"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 18,
+        "verseStart": 1,
+        "verseEnd": 11,
+        "display": "Acts 18:1-11"
+      },
+      "date": {
+        "year": 51,
+        "displayText": {
+          "en": "A.D. 51-52",
+          "zh": "主後51-52年"
+        },
+        "order": 15
+      },
+      "location": "corinth",
+      "primaryImage": "/images/events/Paul-in-Corinth.jpg",
+      "imageSource": "Unsplash",
+      "category": "missionary-journey",
+      "keyFigures": [
+        "paul"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "After these things he departed from Athens, and came to Corinth. And he found a certain Jew named Aquila, a man of Pontus by race, lately come from Italy, with his wife Priscilla, because Claudius had commanded all the Jews to depart from Rome: and he came unto them; 3and because he was of the same trade, he abode with them, and they wrought; for by their trade they were tentmakers. And he reasoned in the synagogue every sabbath, andpersuaded Jews and Greeks. But when Silas and Timothy came down from Macedonia, Paul was constrained by the word, testifying to the Jews that Jesus was the Christ. And when they opposed themselves andblasphemed, he shook out his raiment and said unto them, Your bloodbeupon your own heads; I am clean: from henceforth I will go unto the Gentiles. And he departed thence, and went into the house of a certain man named Titus Justus, one that worshipped God, whose house joined hard to the synagogue. And Crispus, the ruler of the synagogue,believed in the Lord with all his house; and many of the Corinthians hearing believed, and were baptized. And the Lord said unto Paul in the night by a vision, Be not afraid, but speak and hold not thy peace: 10for I am with thee, and no man shall set on thee to harm thee: for I have much people in this city. And he dwelttherea year and six months, teaching the word of God among them.",
+          "verses": [
+            {
+              "number": 2,
+              "text": "And he found a certain Jew named Aquila, a man of Pontus by race, lately come from Italy, with his wife Priscilla, because Claudius had commanded all the Jews to depart from Rome: and he came unto them; 3and because he was of the same trade, he abode with them, and they wrought; for by their trade they were tentmakers."
+            },
+            {
+              "number": 4,
+              "text": "And he reasoned in the synagogue every sabbath, andpersuaded Jews and Greeks."
+            },
+            {
+              "number": 5,
+              "text": "But when Silas and Timothy came down from Macedonia, Paul was constrained by the word, testifying to the Jews that Jesus was the Christ."
+            },
+            {
+              "number": 6,
+              "text": "And when they opposed themselves andblasphemed, he shook out his raiment and said unto them, Your bloodbeupon your own heads; I am clean: from henceforth I will go unto the Gentiles."
+            },
+            {
+              "number": 7,
+              "text": "And he departed thence, and went into the house of a certain man named Titus Justus, one that worshipped God, whose house joined hard to the synagogue."
+            },
+            {
+              "number": 8,
+              "text": "And Crispus, the ruler of the synagogue,believed in the Lord with all his house; and many of the Corinthians hearing believed, and were baptized."
+            },
+            {
+              "number": 9,
+              "text": "And the Lord said unto Paul in the night by a vision, Be not afraid, but speak and hold not thy peace: 10for I am with thee, and no man shall set on thee to harm thee: for I have much people in this city."
+            },
+            {
+              "number": 11,
+              "text": "And he dwelttherea year and six months, teaching the word of God among them."
+            }
+          ],
+          "excerpt": "And he found a certain Jew named Aquila, a man of Pontus by race, lately come..."
+        },
+        "zh": {
+          "fullText": "這事以後，保羅離了雅典，來到哥林多。遇見一個猶太人，名叫亞居拉，他生在本都；因為克勞第命猶太人都離開羅馬，新近帶著妻百基拉，從義大利來。保羅就投奔了他們。他們本是製造帳棚為業。保羅因與他們同業，就和他們同住做工。每逢安息日，保羅在會堂裡辯論，勸化猶太人和希臘人。西拉和提摩太從馬其頓來的時候，保羅為道迫切，向猶太人證明耶穌是基督。他們既抗拒、毀謗，保羅就抖著衣裳，說：「你們的罪歸到你們自己頭上，與我無干。從今以後，我要往外邦人那裡去。」於是離開那裡，到了一個人的家中；這人名叫提多猶士都，是敬拜神的，他的家靠近會堂。管會堂的基利司布和全家都信了主，還有許多哥林多人聽了，就相信受洗。夜間，主在異象中對保羅說：「不要怕，只管講，不要閉口，有我與你同在，必沒有人下手害你，因為在這城裡我有許多的百姓。」保羅在那裡住了一年零六個月，將神的道教訓他們。",
+          "verses": [
+            {
+              "number": 1,
+              "text": "這事以後，保羅離了雅典，來到哥林多。"
+            },
+            {
+              "number": 2,
+              "text": "遇見一個猶太人，名叫亞居拉，他生在本都；因為克勞第命猶太人都離開羅馬，新近帶著妻百基拉，從義大利來。保羅就投奔了他們。"
+            },
+            {
+              "number": 9,
+              "text": "夜間，主在異象中對保羅說：「不要怕，只管講，不要閉口，"
+            },
+            {
+              "number": 10,
+              "text": "有我與你同在，必沒有人下手害你，因為在這城裡我有許多的百姓。」"
+            }
+          ],
+          "excerpt": "不要怕，只管講...有我與你同在..."
+        }
+      },
+      "journeyId": "second-journey",
+      "previousEventId": "paul-athens",
+      "nextEventId": "paul-ephesus"
+    },
+    {
+      "id": "paul-ephesus",
+      "title": {
+        "en": "Paul in Ephesus",
+        "zh": "保羅在以弗所"
+      },
+      "description": {
+        "en": "Revival breaks out in Ephesus with miraculous healings and burning of magic books",
+        "zh": "以弗所爆發復興，有神蹟醫治和焚燒魔術書籍"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 19,
+        "verseStart": 11,
+        "verseEnd": 20,
+        "display": "Acts 19:11-20"
+      },
+      "date": {
+        "year": 54,
+        "displayText": {
+          "en": "A.D. 54-57",
+          "zh": "主後54-57年"
+        },
+        "order": 16
+      },
+      "location": "ephesus",
+      "primaryImage": "/images/events/Paul-in-Ephesus.jpg",
+      "imageSource": "Unsplash",
+      "category": "missionary-journey",
+      "keyFigures": [
+        "paul"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And God wrought specialmiracles by the hands of Paul: 12insomuch that unto the sick were carried away from his body handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out. But certain also of the strolling Jews, exorcists, took upon them to name over them that had the evil spirits the name of the Lord Jesus, saying, I adjure you by Jesus whom Paul preacheth. And there were seven sons of one Sceva, a Jew, a chief priest, who did this. And the evil spirit answered and said unto them, Jesus Iknow, and Paul I know; but who are ye? And the man in whom the evil spirit was leaped on them, and mastered both of them, and prevailed against them, so that they fled out of that house naked and wounded. And this became known to all, both Jews and Greeks, that dwelt at Ephesus; and fear fell upon them all, and the name of the Lord Jesus was magnified. Many also of them that had believed came, confessing, and declaring their deeds. And not a few of them that practised magical arts brought their books together and burned them in the sight of all; and they counted the price of them, and found it fifty thousand pieces of silver. So mightily grew the word of the Lord and prevailed.",
+          "verses": [
+            {
+              "number": 11,
+              "text": "And God wrought specialmiracles by the hands of Paul: 12insomuch that unto the sick were carried away from his body handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out."
+            },
+            {
+              "number": 13,
+              "text": "But certain also of the strolling Jews, exorcists, took upon them to name over them that had the evil spirits the name of the Lord Jesus, saying, I adjure you by Jesus whom Paul preacheth."
+            },
+            {
+              "number": 14,
+              "text": "And there were seven sons of one Sceva, a Jew, a chief priest, who did this."
+            },
+            {
+              "number": 15,
+              "text": "And the evil spirit answered and said unto them, Jesus Iknow, and Paul I know; but who are ye?"
+            },
+            {
+              "number": 16,
+              "text": "And the man in whom the evil spirit was leaped on them, and mastered both of them, and prevailed against them, so that they fled out of that house naked and wounded."
+            },
+            {
+              "number": 17,
+              "text": "And this became known to all, both Jews and Greeks, that dwelt at Ephesus; and fear fell upon them all, and the name of the Lord Jesus was magnified."
+            },
+            {
+              "number": 18,
+              "text": "Many also of them that had believed came, confessing, and declaring their deeds."
+            },
+            {
+              "number": 19,
+              "text": "And not a few of them that practised magical arts brought their books together and burned them in the sight of all; and they counted the price of them, and found it fifty thousand pieces of silver."
+            },
+            {
+              "number": 20,
+              "text": "So mightily grew the word of the Lord and prevailed."
+            }
+          ],
+          "excerpt": "And God wrought specialmiracles by the hands of Paul: 12insomuch that unto th..."
+        },
+        "zh": {
+          "fullText": "神藉保羅的手行了些非常的奇事；甚至有人從保羅身上拿手巾或圍裙放在病人身上，病就退了，惡鬼也出去了。那時，有幾個遊行各處、念咒趕鬼的猶太人，向那被惡鬼附的人擅自稱主耶穌的名，說：「我奉保羅所傳的耶穌敕令你們出來！」做這事的，有猶太祭司長士基瓦的七個兒子。惡鬼回答他們說：「耶穌我認識，保羅我也知道。你們卻是誰呢？」惡鬼所附的人就跳在他們身上，勝了其中二人，制伏他們，叫他們赤著身子受了傷，從那房子裡逃出去了。凡住在以弗所的，無論是猶太人，是希臘人，都知道這事，也都懼怕；主耶穌的名從此就尊大了。那已經信的，多有人來承認訴說自己所行的事。平素行邪術的，也有許多人把書拿來，堆積在眾人面前焚燒。他們算計書價，便知道共合五萬塊錢。主的道大大興旺，而且得勝，就是這樣。",
+          "verses": [
+            {
+              "number": 11,
+              "text": "神藉保羅的手行了些非常的奇事；"
+            },
+            {
+              "number": 12,
+              "text": "甚至有人從保羅身上拿手巾或圍裙放在病人身上，病就退了，惡鬼也出去了。"
+            },
+            {
+              "number": 18,
+              "text": "那已經信的，多有人來承認訴說自己所行的事。"
+            },
+            {
+              "number": 19,
+              "text": "平素行邪術的，也有許多人把書拿來，堆積在眾人面前焚燒。他們算計書價，便知道共合五萬塊錢。"
+            },
+            {
+              "number": 20,
+              "text": "主的道大大興旺，而且得勝，就是這樣。"
+            }
+          ],
+          "excerpt": "主的道大大興旺，而且得勝..."
+        }
+      },
+      "journeyId": "third-journey",
+      "previousEventId": "paul-corinth",
+      "nextEventId": "paul-arrest"
+    },
+    {
+      "id": "paul-arrest",
+      "title": {
+        "en": "Paul's Arrest in Jerusalem",
+        "zh": "保羅在耶路撒冷被捕"
+      },
+      "description": {
+        "en": "Paul is arrested in Jerusalem after a riot breaks out at the temple",
+        "zh": "保羅在聖殿引發騷亂後在耶路撒冷被捕"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 21,
+        "verseStart": 30,
+        "verseEnd": 40,
+        "display": "Acts 21:30-40"
+      },
+      "date": {
+        "year": 57,
+        "displayText": {
+          "en": "A.D. 57",
+          "zh": "主後57年"
+        },
+        "order": 17
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/Pauls-Arrest-in-Jerusalem.jpg",
+      "imageSource": "Unsplash",
+      "category": "imprisonment",
+      "keyFigures": [
+        "paul"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And all the city was moved, and the people ran together; and they laid hold on Paul, and dragged him out of the temple: and straightway the doors were shut. And as they were seeking to kill him, tidings came up to thechief captain of theband, that all Jerusalem was in confusion. And forthwith he took soldiers and centurions, and ran down upon them: and they, when they saw thechief captain and the soldiers, left off beating Paul. Then thechief captain came near, and laid hold on him, and commanded him to be bound with two chains; and inquired who he was, and what he had done. And some shouted one thing, some another, among the crowd: and when he could not know the certainty for the uproar, he commanded him to be brought into the castle. And when he came upon the stairs, so it was that he was borne of the soldiers for the violence of the crowd; 36for the multitude of the people followed after, crying out, Away with him. And as Paul was about to be brought into the castle, he saith unto thechief captain, May I say something unto thee? And he said, Dost thou know Greek? Art thou not then the Egyptian, who before these days stirred up to sedition and led out into the wilderness the four thousand men of the Assassins? But Paul said, I am a Jew, of Tarsus in Cilicia, a citizen of no mean city: and I beseech thee, give me leave to speak unto the people. And when he had given him leave, Paul, standing on the stairs, beckoned with the hand unto the people; and when there was made a great silence, he spake unto them in the Hebrew language, saying,",
+          "verses": [
+            {
+              "number": 30,
+              "text": "And all the city was moved, and the people ran together; and they laid hold on Paul, and dragged him out of the temple: and straightway the doors were shut."
+            },
+            {
+              "number": 31,
+              "text": "And as they were seeking to kill him, tidings came up to thechief captain of theband, that all Jerusalem was in confusion."
+            },
+            {
+              "number": 32,
+              "text": "And forthwith he took soldiers and centurions, and ran down upon them: and they, when they saw thechief captain and the soldiers, left off beating Paul."
+            },
+            {
+              "number": 33,
+              "text": "Then thechief captain came near, and laid hold on him, and commanded him to be bound with two chains; and inquired who he was, and what he had done."
+            },
+            {
+              "number": 34,
+              "text": "And some shouted one thing, some another, among the crowd: and when he could not know the certainty for the uproar, he commanded him to be brought into the castle."
+            },
+            {
+              "number": 35,
+              "text": "And when he came upon the stairs, so it was that he was borne of the soldiers for the violence of the crowd; 36for the multitude of the people followed after, crying out, Away with him."
+            },
+            {
+              "number": 37,
+              "text": "And as Paul was about to be brought into the castle, he saith unto thechief captain, May I say something unto thee? And he said, Dost thou know Greek?"
+            },
+            {
+              "number": 38,
+              "text": "Art thou not then the Egyptian, who before these days stirred up to sedition and led out into the wilderness the four thousand men of the Assassins?"
+            },
+            {
+              "number": 39,
+              "text": "But Paul said, I am a Jew, of Tarsus in Cilicia, a citizen of no mean city: and I beseech thee, give me leave to speak unto the people."
+            },
+            {
+              "number": 40,
+              "text": "And when he had given him leave, Paul, standing on the stairs, beckoned with the hand unto the people; and when there was made a great silence, he spake unto them in the Hebrew language, saying,"
+            }
+          ],
+          "excerpt": "And all the city was moved, and the people ran together; and they laid hold o..."
+        },
+        "zh": {
+          "fullText": "合城都震動，百姓一齊跑來，拿住保羅，拉他出殿，殿門立刻都關了。他們正想要殺他，有人報信給營裡的千夫長說：「耶路撒冷合城都亂了。」千夫長立時帶著兵丁和幾個百夫長，跑下去到他們那裡。他們見了千夫長和兵丁，就止住不打保羅。於是千夫長上前拿住他，吩咐用兩條鐵鍊捆鎖；又問他是甚麼人，做的是甚麼事。眾人有喊叫這個的，有喊叫那個的；千夫長因為這樣亂嚷，得不著實情，就吩咐人將保羅帶進營樓去。到了臺階上，眾人擠得兇猛，兵丁只得將保羅抬起來。眾人跟在後面，喊著說：「除掉他！」將要帶他進營樓，保羅對千夫長說：「我對你說句話可以不可以？」他說：「你懂得希臘話嗎？你莫非是從前作亂、帶領四千兇徒往曠野去的那埃及人嗎？」保羅說：「我本是猶太人，生在基利家的大數，並不是無名小城的人。求你准我對百姓說話。」千夫長准了。保羅就站在臺階上，向百姓擺手，他們都靜默無聲，保羅便用希伯來話對他們說：",
+          "verses": [
+            {
+              "number": 30,
+              "text": "合城都震動，百姓一齊跑來，拿住保羅，拉他出殿，殿門立刻都關了。"
+            },
+            {
+              "number": 31,
+              "text": "他們正想要殺他，有人報信給營裡的千夫長說：「耶路撒冷合城都亂了。」"
+            },
+            {
+              "number": 33,
+              "text": "於是千夫長上前拿住他，吩咐用兩條鐵鍊捆鎖；又問他是甚麼人，做的是甚麼事。"
+            },
+            {
+              "number": 39,
+              "text": "保羅說：「我本是猶太人，生在基利家的大數，並不是無名小城的人。求你准我對百姓說話。」"
+            }
+          ],
+          "excerpt": "合城都震動...拿住保羅..."
+        }
+      },
+      "previousEventId": "paul-ephesus",
+      "nextEventId": "paul-shipwreck"
+    },
+    {
+      "id": "paul-shipwreck",
+      "title": {
+        "en": "Paul's Shipwreck",
+        "zh": "保羅遭遇海難"
+      },
+      "description": {
+        "en": "Paul survives a violent storm and shipwreck on the journey to Rome",
+        "zh": "保羅在前往羅馬的旅程中經歷暴風雨和海難後倖存"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 27,
+        "verseStart": 39,
+        "verseEnd": 44,
+        "display": "Acts 27:39-44"
+      },
+      "date": {
+        "year": 60,
+        "displayText": {
+          "en": "A.D. 60",
+          "zh": "主後60年"
+        },
+        "order": 18
+      },
+      "location": "malta",
+      "primaryImage": "/images/events/Pauls-Shipwreck.jpg",
+      "imageSource": "Unsplash",
+      "category": "miracle",
+      "keyFigures": [
+        "paul"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And when it was day, they knew not the land: but they perceived a certain bay with a beach, and they took counsel whether they coulddrive the ship upon it. And casting off the anchors, they left them in the sea, at the same time loosing the bands of the rudders; and hoisting up the foresail to the wind, they made for the beach. But lighting upon a place where two seas met, they ran the vessel aground; and the foreship struck and remained unmoveable, but the stern began to break up by the violenceof the waves. And the soldiers’ counsel was to kill the prisoners, lest anyof themshould swim out, and escape. But the centurion, desiring to save Paul, stayed them from their purpose; and commanded that they who could swim should cast themselves overboard, and get first to the land; 44and the rest, some on planks, and some onotherthings from the ship. And so it came to pass, that they all escaped safe to the land.",
+          "verses": [
+            {
+              "number": 39,
+              "text": "And when it was day, they knew not the land: but they perceived a certain bay with a beach, and they took counsel whether they coulddrive the ship upon it."
+            },
+            {
+              "number": 40,
+              "text": "And casting off the anchors, they left them in the sea, at the same time loosing the bands of the rudders; and hoisting up the foresail to the wind, they made for the beach."
+            },
+            {
+              "number": 41,
+              "text": "But lighting upon a place where two seas met, they ran the vessel aground; and the foreship struck and remained unmoveable, but the stern began to break up by the violenceof the waves."
+            },
+            {
+              "number": 42,
+              "text": "And the soldiers’ counsel was to kill the prisoners, lest anyof themshould swim out, and escape."
+            },
+            {
+              "number": 43,
+              "text": "But the centurion, desiring to save Paul, stayed them from their purpose; and commanded that they who could swim should cast themselves overboard, and get first to the land; 44and the rest, some on planks, and some onotherthings from the ship. And so it came to pass, that they all escaped safe to the land."
+            }
+          ],
+          "excerpt": "And when it was day, they knew not the land: but they perceived a certain bay..."
+        },
+        "zh": {
+          "fullText": "到了天亮，他們不認識那地方，但見一個海灣，有岸可登，就商議能把船攏進去不能。於是砍斷纜索，棄錨在海裡；同時也鬆開舵繩，拉起頭篷，順著風向岸行去。但遇著兩水夾流的地方，就把船擱了淺；船頭膠住不動，船尾被浪的猛力衝壞。兵丁的意思要把囚犯殺了，恐怕有洑水脫逃的。但百夫長要救保羅，不准他們任意而行，就吩咐會洑水的，跳下水去先上岸；其餘的人可以用板子或船上的零碎東西上岸。這樣，眾人都得了救，上了岸。",
+          "verses": [
+            {
+              "number": 39,
+              "text": "到了天亮，他們不認識那地方，但見一個海灣，有岸可登，就商議能把船攏進去不能。"
+            },
+            {
+              "number": 41,
+              "text": "但遇著兩水夾流的地方，就把船擱了淺；船頭膠住不動，船尾被浪的猛力衝壞。"
+            },
+            {
+              "number": 43,
+              "text": "但百夫長要救保羅，不准他們任意而行，就吩咐會洑水的，跳下水去先上岸；"
+            },
+            {
+              "number": 44,
+              "text": "其餘的人可以用板子或船上的零碎東西上岸。這樣，眾人都得了救，上了岸。"
+            }
+          ],
+          "excerpt": "這樣，眾人都得了救，上了岸..."
+        }
+      },
+      "previousEventId": "paul-arrest",
+      "nextEventId": "paul-rome"
+    },
+    {
+      "id": "paul-rome",
+      "title": {
+        "en": "Paul in Rome",
+        "zh": "保羅在羅馬"
+      },
+      "description": {
+        "en": "Paul preaches the gospel boldly while under house arrest in Rome",
+        "zh": "保羅在羅馬軟禁期間大膽傳講福音"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 28,
+        "verseStart": 30,
+        "verseEnd": 31,
+        "display": "Acts 28:30-31"
+      },
+      "date": {
+        "year": 60,
+        "displayText": {
+          "en": "A.D. 60-62",
+          "zh": "主後60-62年"
+        },
+        "order": 19
+      },
+      "location": "rome",
+      "primaryImage": "/images/events/Paul-in-Rome.png",
+      "imageSource": "Unsplash",
+      "category": "imprisonment",
+      "keyFigures": [
+        "paul"
+      ],
+      "passage": {
+        "en": {
+          "fullText": "And he abode two whole years in his own hired dwelling, and received all that went in unto him, 31preaching the kingdom of God, and teaching the things concerning the Lord Jesus Christ with all boldness, none forbidding him.",
+          "verses": [
+            {
+              "number": 30,
+              "text": "And he abode two whole years in his own hired dwelling, and received all that went in unto him, 31preaching the kingdom of God, and teaching the things concerning the Lord Jesus Christ with all boldness, none forbidding him."
+            }
+          ],
+          "excerpt": "And he abode two whole years in his own hired dwelling, and received all that..."
+        },
+        "zh": {
+          "fullText": "保羅在自己所租的房子裡住了足足兩年。凡來見他的人，他全都接待，放膽傳講神國的道，將主耶穌基督的事教導人，並沒有人禁止。",
+          "verses": [
+            {
+              "number": 30,
+              "text": "保羅在自己所租的房子裡住了足足兩年。凡來見他的人，他全都接待，"
+            },
+            {
+              "number": 31,
+              "text": "放膽傳講神國的道，將主耶穌基督的事教導人，並沒有人禁止。"
+            }
+          ],
+          "excerpt": "放膽傳講神國的道..."
+        }
+      },
+      "previousEventId": "paul-shipwreck"
+    }
+  ],
+  "locations": [
+    {
+      "id": "jerusalem",
+      "name": {
+        "en": "Jerusalem",
+        "zh": "耶路撒冷"
+      },
+      "coordinates": [
+        31.7683,
+        35.2137
+      ],
+      "modernName": {
+        "en": "Jerusalem, Israel",
+        "zh": "以色列，耶路撒冷"
+      },
+      "description": {
+        "en": "The holy city where Jesus was crucified and where the early church began after Pentecost",
+        "zh": "耶穌被釘十字架的聖城，五旬節後早期教會開始的地方"
+      },
+      "imageUrl": "/images/locations/jerusalem.jpg"
+    },
+    {
+      "id": "mount-of-olives",
+      "name": {
+        "en": "Mount of Olives",
+        "zh": "橄欖山"
+      },
+      "coordinates": [
+        31.7784,
+        35.2456
+      ],
+      "modernName": {
+        "en": "Mount of Olives, Jerusalem",
+        "zh": "耶路撒冷，橄欖山"
+      },
+      "description": {
+        "en": "The mountain ridge east of Jerusalem where Jesus ascended to heaven",
+        "zh": "耶路撒冷東面的山脊，耶穌在此升天"
+      },
+      "imageUrl": "/images/locations/mount-of-olives.jpg"
+    },
+    {
+      "id": "damascus",
+      "name": {
+        "en": "Damascus",
+        "zh": "大馬士革"
+      },
+      "coordinates": [
+        33.5138,
+        36.2765
+      ],
+      "modernName": {
+        "en": "Damascus, Syria",
+        "zh": "敘利亞，大馬士革"
+      },
+      "description": {
+        "en": "An ancient city where Saul encountered Jesus on the road and was converted, becoming the Apostle Paul",
+        "zh": "古城，掃羅在前往此地的路上遇見耶穌並悔改，成為使徒保羅"
+      },
+      "imageUrl": "/images/locations/damascus.jpg"
+    },
+    {
+      "id": "gaza",
+      "name": {
+        "en": "Gaza",
+        "zh": "迦薩"
+      },
+      "coordinates": [
+        31.5,
+        34.4667
+      ],
+      "modernName": {
+        "en": "Gaza, Palestine",
+        "zh": "巴勒斯坦，迦薩"
+      },
+      "description": {
+        "en": "The desert road where Philip met and baptized the Ethiopian eunuch",
+        "zh": "腓利遇見埃塞俄比亞太監並為他施洗的曠野之路"
+      },
+      "imageUrl": "/images/locations/gaza.jpg"
+    },
+    {
+      "id": "caesarea",
+      "name": {
+        "en": "Caesarea",
+        "zh": "該撒利亞"
+      },
+      "coordinates": [
+        32.5,
+        34.9
+      ],
+      "modernName": {
+        "en": "Caesarea Maritima, Israel",
+        "zh": "以色列，該撒利亞"
+      },
+      "description": {
+        "en": "A Roman port city where Peter preached to Cornelius and the gospel first reached the Gentiles",
+        "zh": "羅馬港口城市，彼得向哥尼流傳道，福音首次傳給外邦人"
+      },
+      "imageUrl": "/images/locations/caesarea.jpg"
+    },
+    {
+      "id": "antioch",
+      "name": {
+        "en": "Antioch",
+        "zh": "安提阿"
+      },
+      "coordinates": [
+        36.2,
+        36.16
+      ],
+      "modernName": {
+        "en": "Antakya, Turkey",
+        "zh": "土耳其，安塔基亞"
+      },
+      "description": {
+        "en": "Major city where believers were first called Christians and the base for Paul's missionary journeys",
+        "zh": "主要城市，信徒首次被稱為基督徒，保羅宣教旅程的基地"
+      },
+      "imageUrl": "/images/locations/antioch.jpg"
+    },
+    {
+      "id": "philippi",
+      "name": {
+        "en": "Philippi",
+        "zh": "腓立比"
+      },
+      "coordinates": [
+        41.0136,
+        24.2869
+      ],
+      "modernName": {
+        "en": "Philippi, Greece",
+        "zh": "希臘，腓立比"
+      },
+      "description": {
+        "en": "Roman colony in Macedonia where Paul established a church and the jailer was converted",
+        "zh": "馬其頓的羅馬殖民地，保羅建立教會，獄卒在此悔改"
+      },
+      "imageUrl": "/images/locations/philippi.jpg"
+    },
+    {
+      "id": "athens",
+      "name": {
+        "en": "Athens",
+        "zh": "雅典"
+      },
+      "coordinates": [
+        37.9838,
+        23.7275
+      ],
+      "modernName": {
+        "en": "Athens, Greece",
+        "zh": "希臘，雅典"
+      },
+      "description": {
+        "en": "Cultural center of ancient Greece where Paul preached at the Areopagus about the unknown God",
+        "zh": "古希臘文化中心，保羅在亞略巴古講論未識之神"
+      },
+      "imageUrl": "/images/locations/athens.jpg"
+    },
+    {
+      "id": "corinth",
+      "name": {
+        "en": "Corinth",
+        "zh": "哥林多"
+      },
+      "coordinates": [
+        37.9065,
+        22.8756
+      ],
+      "modernName": {
+        "en": "Corinth, Greece",
+        "zh": "希臘，哥林多"
+      },
+      "description": {
+        "en": "Wealthy commercial city where Paul established a strong church and met Aquila and Priscilla",
+        "zh": "富裕的商業城市，保羅建立堅固的教會並遇見亞居拉和百基拉"
+      },
+      "imageUrl": "/images/locations/corinth.jpg"
+    },
+    {
+      "id": "ephesus",
+      "name": {
+        "en": "Ephesus",
+        "zh": "以弗所"
+      },
+      "coordinates": [
+        37.9495,
+        27.3686
+      ],
+      "modernName": {
+        "en": "Ephesus, Turkey",
+        "zh": "土耳其，以弗所"
+      },
+      "description": {
+        "en": "Major city in Asia Minor where a great revival occurred and magic books were burned",
+        "zh": "小亞細亞的主要城市，發生大復興並焚燒魔術書籍"
+      },
+      "imageUrl": "/images/locations/ephesus.jpg"
+    },
+    {
+      "id": "malta",
+      "name": {
+        "en": "Malta",
+        "zh": "馬耳他"
+      },
+      "coordinates": [
+        35.9375,
+        14.3754
+      ],
+      "modernName": {
+        "en": "Malta",
+        "zh": "馬耳他"
+      },
+      "description": {
+        "en": "Island where Paul and his companions were shipwrecked on the journey to Rome",
+        "zh": "保羅和同伴前往羅馬途中遭遇海難的島嶼"
+      },
+      "imageUrl": "/images/locations/malta.jpg"
+    },
+    {
+      "id": "rome",
+      "name": {
+        "en": "Rome",
+        "zh": "羅馬"
+      },
+      "coordinates": [
+        41.9028,
+        12.4964
+      ],
+      "modernName": {
+        "en": "Rome, Italy",
+        "zh": "意大利，羅馬"
+      },
+      "description": {
+        "en": "Capital of the Roman Empire where Paul was imprisoned and continued preaching the gospel",
+        "zh": "羅馬帝國首都，保羅被囚禁並繼續傳福音"
+      },
+      "imageUrl": "/images/locations/rome.jpg"
+    }
+  ],
+  "people": [
+    {
+      "id": "jesus",
+      "name": {
+        "en": "Jesus Christ",
+        "zh": "耶穌基督"
+      },
+      "role": {
+        "en": "Son of God, Savior",
+        "zh": "神的兒子，救主"
+      },
+      "description": {
+        "en": "The central figure of Christianity, whose teachings and resurrection form the foundation of the Christian faith.",
+        "zh": "基督教的中心人物，其教導和復活構成了基督教信仰的基礎。"
+      }
+    },
+    {
+      "id": "peter",
+      "name": {
+        "en": "Peter (Simon)",
+        "zh": "彼得（西門）"
+      },
+      "role": {
+        "en": "Apostle & Rock of the Church",
+        "zh": "使徒和教會的磐石"
+      },
+      "description": {
+        "en": "Originally a fisherman, Peter became one of Jesus' closest disciples and a leader of the early church. He preached the first sermon at Pentecost and was instrumental in spreading the gospel to both Jews and Gentiles.",
+        "zh": "彼得原本是一名漁夫，成為耶穌最親密的門徒之一和早期教會的領袖。他在五旬節講了第一篇道，在向猶太人和外邦人傳福音方面發揮了重要作用。"
+      },
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pope-peter_pprubens.jpg/500px-Pope-peter_pprubens.jpg",
+      "events": [
+        "pentecost",
+        "lame-man-healed"
+      ]
+    },
+    {
+      "id": "john",
+      "name": {
+        "en": "John",
+        "zh": "約翰"
+      },
+      "role": {
+        "en": "Apostle, Beloved Disciple",
+        "zh": "使徒，耶穌所愛的門徒"
+      },
+      "description": {
+        "en": "One of the twelve apostles, known as the disciple whom Jesus loved. He was present at key moments and later wrote the Gospel of John.",
+        "zh": "十二使徒之一，被稱為耶穌所愛的門徒。他在關鍵時刻在場，後來寫了約翰福音。"
+      },
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rubens_apostel_johannes_grt.jpg/500px-Rubens_apostel_johannes_grt.jpg",
+      "events": [
+        "pentecost",
+        "lame-man-healed"
+      ]
+    },
+    {
+      "id": "paul",
+      "name": {
+        "en": "Paul (Saul)",
+        "zh": "保羅（掃羅）"
+      },
+      "role": {
+        "en": "Apostle to the Gentiles",
+        "zh": "外邦人的使徒"
+      },
+      "description": {
+        "en": "Originally a persecutor of Christians, Paul had a dramatic conversion on the road to Damascus. He became the most influential missionary of the early church, writing much of the New Testament and establishing churches throughout the Roman Empire.",
+        "zh": "保羅原本是基督徒的迫害者，在大馬士革的路上經歷了戲劇性的悔改。他成為早期教會最有影響力的宣教士，撰寫了大部分新約聖經，並在羅馬帝國各地建立教會。"
+      },
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rubens_apostel_paulus_grt.jpg/500px-Rubens_apostel_paulus_grt.jpg",
+      "events": []
+    },
+    {
+      "id": "stephen",
+      "name": {
+        "en": "Stephen",
+        "zh": "司提反"
+      },
+      "role": {
+        "en": "First Christian Martyr",
+        "zh": "第一位基督教殉道者"
+      },
+      "description": {
+        "en": "One of the seven deacons chosen to serve the early church, Stephen was full of faith and power. He performed great wonders and was the first Christian martyr, stoned to death for his bold testimony.",
+        "zh": "司提反是被選出來服事早期教會的七位執事之一，滿有信心和能力。他行了大神蹟，是第一位基督教殉道者，因其大膽的見證而被石頭打死。"
+      },
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St-stephen.jpg/500px-St-stephen.jpg",
+      "events": []
+    },
+    {
+      "id": "philip",
+      "name": {
+        "en": "Philip the Evangelist",
+        "zh": "腓利傳道者"
+      },
+      "role": {
+        "en": "Deacon & Evangelist",
+        "zh": "執事和傳道者"
+      },
+      "description": {
+        "en": "One of the seven deacons, Philip was a powerful evangelist who preached in Samaria and led the Ethiopian eunuch to faith in Christ. His ministry demonstrated the gospel breaking cultural barriers.",
+        "zh": "腓利是七位執事之一，是一位強有力的傳道者，他在撒馬利亞傳道，並帶領埃塞俄比亞太監信主。他的事工展示了福音打破文化障礙。"
+      },
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rubens_apostel_philippus.jpg/960px-Rubens_apostel_philippus.jpg",
+      "events": []
+    },
+    {
+      "id": "barnabas",
+      "name": {
+        "en": "Barnabas",
+        "zh": "巴拿巴"
+      },
+      "role": {
+        "en": "Encourager & Missionary",
+        "zh": "鼓勵者和宣教士"
+      },
+      "description": {
+        "en": "Known as 'Son of Encouragement', Barnabas was a generous supporter of the early church who introduced Paul to the apostles and traveled with him on missionary journeys, demonstrating grace and encouragement.",
+        "zh": "被稱為「勸慰子」的巴拿巴是早期教會的慷慨支持者，他將保羅介紹給使徒們，並與他一起進行宣教旅程，展示了恩典和鼓勵。"
+      },
+      "avatarUrl": "https://ccic-iowa.org/wp-content/uploads/2021/08/%E5%B7%B4%E6%8B%BF%E5%B7%B4.jpeg",
+      "events": []
+    },
+    {
+      "id": "luke",
+      "name": {
+        "en": "Luke",
+        "zh": "路加"
+      },
+      "role": {
+        "en": "Physician & Historian",
+        "zh": "醫生和歷史學家"
+      },
+      "description": {
+        "en": "A physician and companion of Paul, Luke wrote the Gospel of Luke and the Book of Acts. His detailed historical accounts provide much of what we know about the early church and Jesus' ministry.",
+        "zh": "路加是一位醫生，也是保羅的同伴，他寫了路加福音和使徒行傳。他詳細的歷史記載為我們提供了許多關於早期教會和耶穌事工的知識。"
+      },
+      "events": []
+    }
+  ],
+  "journeys": [
+    {
+      "id": "early-church",
+      "name": "early-church",
+      "displayName": {
+        "en": "Early Church",
+        "zh": "早期教會"
+      },
+      "events": [
+        "ascension",
+        "pentecost",
+        "lame-man-healed"
+      ],
+      "route": [
+        {
+          "from": "mount-of-olives",
+          "to": "jerusalem"
+        }
+      ],
+      "color": "#1152d4",
+      "startDate": "30",
+      "endDate": "30"
+    },
+    {
+      "id": "first-journey",
+      "name": "first-journey",
+      "displayName": {
+        "en": "First Journey",
+        "zh": "第一次旅程"
+      },
+      "events": [
+        "paul-first-journey"
+      ],
+      "route": [
+        {
+          "from": "antioch",
+          "to": "antioch"
+        }
+      ],
+      "color": "#2563eb",
+      "startDate": "46",
+      "endDate": "48"
+    },
+    {
+      "id": "second-journey",
+      "name": "second-journey",
+      "displayName": {
+        "en": "Second Journey",
+        "zh": "第二次旅程"
+      },
+      "events": [
+        "philippian-jailer",
+        "paul-athens",
+        "paul-corinth"
+      ],
+      "route": [
+        {
+          "from": "antioch",
+          "to": "philippi"
+        },
+        {
+          "from": "philippi",
+          "to": "athens"
+        },
+        {
+          "from": "athens",
+          "to": "corinth"
+        }
+      ],
+      "color": "#7c3aed",
+      "startDate": "49",
+      "endDate": "52"
+    },
+    {
+      "id": "third-journey",
+      "name": "third-journey",
+      "displayName": {
+        "en": "Third Journey",
+        "zh": "第三次旅程"
+      },
+      "events": [
+        "paul-ephesus"
+      ],
+      "route": [
+        {
+          "from": "antioch",
+          "to": "ephesus"
+        }
+      ],
+      "color": "#dc2626",
+      "startDate": "53",
+      "endDate": "57"
+    }
+  ]
+}
