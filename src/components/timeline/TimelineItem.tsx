@@ -4,6 +4,7 @@ import { Event, Location } from '../../types';
 import { useLanguage } from '../../hooks/useLanguage';
 import Badge from '../shared/Badge';
 import TimelineConnector from './TimelineConnector';
+import { formatScriptureDisplay } from '../../utils/scriptureUtils';
 
 interface TimelineItemProps {
   event: Event;
@@ -18,6 +19,7 @@ const TimelineItem = ({ event, location, isLast = false }: TimelineItemProps) =>
   const [imageError, setImageError] = React.useState(false);
 
   const handleClick = () => {
+    sessionStorage.setItem('timeline-scroll', String(window.scrollY));
     navigate(`/event/${event.id}`);
   };
 
@@ -42,7 +44,7 @@ const TimelineItem = ({ event, location, isLast = false }: TimelineItemProps) =>
       >
         {/* Scripture Reference Badge */}
         <Badge variant="primary" className="mb-1">
-          {event.scripture.display}
+          {formatScriptureDisplay(event.scripture)}
         </Badge>
 
         {/* Title */}
@@ -63,7 +65,7 @@ const TimelineItem = ({ event, location, isLast = false }: TimelineItemProps) =>
               src={event.primaryImage}
               alt={event.title[lang]}
               onError={handleImageError}
-              className="aspect-[16/7] w-full rounded-lg object-cover border border-slate-200 dark:border-slate-700"
+              className="aspect-[16/9] w-full rounded-lg object-cover border border-slate-200 dark:border-slate-700"
               loading="lazy"
             />
             {location && (

@@ -1,6 +1,16 @@
 import { ScriptureReference } from '../types';
 
 /**
+ * Formats a scripture reference into a human-readable display string
+ * e.g., "Acts 27:9-20" or "Acts 2:1"
+ */
+export const formatScriptureDisplay = (scripture: Pick<ScriptureReference, 'book' | 'chapter' | 'verseStart' | 'verseEnd'>): string => {
+  const { book, chapter, verseStart, verseEnd } = scripture;
+  const verseRange = verseEnd && verseEnd !== verseStart ? `${verseStart}-${verseEnd}` : `${verseStart}`;
+  return `${book} ${chapter}:${verseRange}`;
+};
+
+/**
  * Builds Bible Gateway URL for a scripture reference
  */
 export const buildBibleGatewayUrl = (

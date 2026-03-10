@@ -33,11 +33,10 @@ const ChapterNavigation = ({ currentChapter, totalChapters, onNavigate }: Chapte
         <button
           onClick={handlePrevious}
           disabled={!hasPrevious}
-          className={`flex-1 flex items-center justify-center gap-2 py-3 px-4 rounded-lg font-medium transition-all ${
-            hasPrevious
+          className={`flex-1 flex items-center justify-center gap-2 py-3 px-4 rounded-lg font-medium transition-all ${hasPrevious
               ? 'bg-primary text-white hover:bg-primary-dark active:scale-95'
               : 'bg-slate-100 dark:bg-slate-800 text-slate-400 dark:text-slate-600 cursor-not-allowed'
-          }`}
+            }`}
         >
           <span className="material-symbols-outlined">chevron_left</span>
           <span className="hidden sm:inline">{t('read.navigation.previous')}</span>
@@ -55,11 +54,10 @@ const ChapterNavigation = ({ currentChapter, totalChapters, onNavigate }: Chapte
         <button
           onClick={handleNext}
           disabled={!hasNext}
-          className={`flex-1 flex items-center justify-center gap-2 py-3 px-4 rounded-lg font-medium transition-all ${
-            hasNext
+          className={`flex-1 flex items-center justify-center gap-2 py-3 px-4 rounded-lg font-medium transition-all ${hasNext
               ? 'bg-primary text-white hover:bg-primary-dark active:scale-95'
               : 'bg-slate-100 dark:bg-slate-800 text-slate-400 dark:text-slate-600 cursor-not-allowed'
-          }`}
+            }`}
         >
           <span className="hidden sm:inline">{t('read.navigation.next')}</span>
           <span className="sm:hidden">{t('event.next')}</span>

@@ -5,7 +5,6 @@ export interface ScriptureReference {
   chapter: number;
   verseStart: number;
   verseEnd?: number;
-  display: string; // e.g., "Acts 9:1-9"
 }
 
 export interface Verse {
@@ -30,17 +29,14 @@ export interface Event {
   };
   location: string; // Location ID
   primaryImage: string;
-  imageSource: string; // Credit/attribution
-  category: 'early-church' | 'persecution' | 'conversion' | 'missionary-journey' | 'imprisonment' | 'miracle';
+  category: 'early-church' | 'persecution' | 'conversion' | 'missionary-journey' | 'imprisonment' | 'miracle' | 'speech' | 'journey' | 'evangelism' | 'vision';
   keyFigures: string[]; // Person IDs
   passage: {
     en: {
-      fullText: string; // Complete ASV passage
       verses: Verse[];
       excerpt?: string; // Short preview for timeline
     };
     zh: {
-      fullText: string; // Complete 和合本 passage
       verses: Verse[];
       excerpt?: string;
     };
@@ -65,18 +61,29 @@ export interface Person {
   role: BilingualText;
   description?: BilingualText;
   avatarUrl?: string;
+  category?: 'believer' | 'opponent';
   events?: string[]; // Event IDs this person is associated with
+}
+
+export interface JourneyStop {
+  locationId: string;
+  verseRef: string;
+  keyEvent: BilingualText;
 }
 
 export interface Journey {
   id: string;
   name: string;
-  displayName: BilingualText; // e.g., "1st Journey" / "第一次旅程"
-  events: string[]; // Event IDs
-  route: Array<{ from: string; to: string }>; // Location IDs
+  displayName: BilingualText;
+  events: string[];
+  route: Array<{ from: string; to: string }>;  // All segments (used as fallback)
+  outboundRoute?: Array<{ from: string; to: string }>;
+  returnRoute?: Array<{ from: string; to: string }>;
   color: string;
+  returnColor?: string;       // Color for the return leg
   startDate: string;
   endDate: string;
+  journeyStops?: JourneyStop[]; // Full ordered stops including revisits, with metadata
 }
 
 export interface ActsData {

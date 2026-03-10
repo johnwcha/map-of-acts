@@ -46,7 +46,11 @@
     "conversion": "悔改與呼召",
     "missionary-journey": "宣教旅程",
     "imprisonment": "審判與監禁",
-    "miracle": "神蹟與奇事"
+    "miracle": "神蹟與奇事",
+    "speech": "講道與辯護",
+    "journey": "旅程",
+    "evangelism": "傳福音",
+    "vision": "異象與啟示"
   },
   "read": {
     "title": "閱讀使徒行傳",
@@ -65,7 +69,8 @@
     },
     "navigation": {
       "previous": "上一章",
-      "next": "下一章"
+      "next": "下一章",
+      "goToChapter": "前往章節"
     }
   }
 }

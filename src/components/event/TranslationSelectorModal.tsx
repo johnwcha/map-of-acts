@@ -1,5 +1,5 @@
 import { ScriptureReference } from '../../types';
-import { BIBLE_VERSIONS } from '../../utils/scriptureUtils';
+import { BIBLE_VERSIONS, formatScriptureDisplay } from '../../utils/scriptureUtils';
 import { useLanguage } from '../../hooks/useLanguage';
 
 interface TranslationSelectorModalProps {
@@ -47,7 +47,7 @@ const TranslationSelectorModal = ({
         {/* Scripture Reference Display */}
         <div className="mb-4 p-3 bg-slate-50 dark:bg-slate-800 rounded-lg">
           <p className="text-sm font-medium text-primary">
-            {scripture.display}
+            {formatScriptureDisplay(scripture)}
           </p>
         </div>
 

@@ -1,4 +1,3 @@
-import { useState, useEffect } from 'react';
 import { ReadingMode } from '../../types';
 import { useLanguage } from '../../hooks/useLanguage';
 
@@ -25,11 +24,10 @@ const LanguageToggle = ({ mode, onChange }: LanguageToggleProps) => {
         <button
           key={m}
           onClick={() => handleModeChange(m)}
-          className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${
-            mode === m
+          className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${mode === m
               ? 'bg-primary text-white'
               : 'bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
-          }`}
+            }`}
         >
           {m === 'side-by-side' && (
             <span className="flex items-center gap-1">

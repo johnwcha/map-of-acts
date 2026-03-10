@@ -38,6 +38,7 @@ const ChapterReader = ({ chapter, currentChapter, totalChapters, onNavigate }: C
           chapter={chapter}
           currentChapter={currentChapter}
           totalChapters={totalChapters}
+          onNavigate={onNavigate}
         />
 
         {/* Language toggle */}

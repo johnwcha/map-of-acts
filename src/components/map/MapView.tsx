@@ -1,4 +1,5 @@
-import { MapContainer, TileLayer } from 'react-leaflet';
+import { useEffect } from 'react';
+import { MapContainer, TileLayer, useMap } from 'react-leaflet';
 import { LatLngExpression } from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 
@@ -7,6 +8,16 @@ interface MapViewProps {
   zoom: number;
   children?: React.ReactNode;
 }
+
+const MapViewport = ({ center, zoom }: Pick<MapViewProps, 'center' | 'zoom'>) => {
+  const map = useMap();
+
+  useEffect(() => {
+    map.setView(center, zoom, { animate: false });
+  }, [center, map, zoom]);
+
+  return null;
+};
 
 const MapView = ({ center, zoom, children }: MapViewProps) => {
   return (
@@ -23,6 +34,7 @@ const MapView = ({ center, zoom, children }: MapViewProps) => {
         url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}"
         maxZoom={20}
       />
+      <MapViewport center={center} zoom={zoom} />
 
       {/* Option 2: Esri World Imagery - Stunning satellite view (uncomment to use) */}
       {/* <TileLayer

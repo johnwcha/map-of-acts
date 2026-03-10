@@ -5,6 +5,19 @@ interface SectionDividerProps {
   category: Event['category'];
 }
 
+const CATEGORY_EMOJI: Record<Event['category'], string> = {
+  'early-church': '🕊️',
+  'persecution': '⚔️',
+  'conversion': '✨',
+  'missionary-journey': '🗺️',
+  'imprisonment': '⛓️',
+  'miracle': '⚡',
+  'speech': '📜',
+  'journey': '⛵',
+  'evangelism': '📢',
+  'vision': '👁️',
+};
+
 const SectionDivider = ({ category }: SectionDividerProps) => {
   const { t } = useLanguage();
 
@@ -14,8 +27,8 @@ const SectionDivider = ({ category }: SectionDividerProps) => {
         <div className="w-[2px] bg-primary/30 h-full" />
       </div>
       <div className="py-4">
-        <h2 className="font-serif text-slate-700 dark:text-slate-300 text-sm font-bold tracking-wide uppercase">
-          {t(`categories.${category}`)}
+        <h2 className="font-serif text-slate-700 dark:text-slate-300 text-lg md:text-xl font-extrabold tracking-[0.14em] uppercase leading-none">
+          {CATEGORY_EMOJI[category]} {t(`categories.${category}`)}
         </h2>
       </div>
     </div>

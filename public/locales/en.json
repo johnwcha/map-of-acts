@@ -46,7 +46,11 @@
     "conversion": "Conversion & Calling",
     "missionary-journey": "Missionary Journeys",
     "imprisonment": "Trials & Imprisonment",
-    "miracle": "Miracles & Signs"
+    "miracle": "Miracles & Signs",
+    "speech": "Speeches & Defenses",
+    "journey": "Journeys",
+    "evangelism": "Evangelism",
+    "vision": "Visions & Revelations"
   },
   "read": {
     "title": "Read Acts",
@@ -65,7 +69,8 @@
     },
     "navigation": {
       "previous": "Previous Chapter",
-      "next": "Next Chapter"
+      "next": "Next Chapter",
+      "goToChapter": "Go to Chapter"
     }
   }
 }
