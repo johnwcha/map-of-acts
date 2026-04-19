@@ -95,6 +95,17 @@ const buildHistoricalContext = (
     ];
   }
 
+  if (person.category === 'official') {
+    return [
+      lang === 'en'
+        ? `${textFor(person.name, lang)} appears in Acts at the intersection of royal influence, Roman governance, and the public examination of the Christian message. Figures described as ${role.toLowerCase()} show that the gospel reached courtrooms, palaces, and elite households as well as synagogues and city streets.`
+        : `${textFor(person.name, lang)}出現在使徒行傳時，正位於王室影響力、羅馬治理與福音公開受審視的交會點。像這樣的${role}顯示，福音不只進入會堂與街市，也傳到公廳、宮廷與上層家庭之中。`,
+      lang === 'en'
+        ? `Read in context, these scenes show that Acts records more than missionary travel. It also preserves the moments when rulers and their households heard the apostolic witness and had to reckon with the claims of the risen Jesus.`
+        : `放在歷史脈絡中來讀，這些場景說明使徒行傳不只是宣教旅行的記錄，也保存了統治者及其家室聽見使徒見證、不得不面對復活耶穌宣稱的時刻。`
+    ];
+  }
+
   if (relatedJourneys.length > 0) {
     return [
       lang === 'en'
@@ -181,7 +192,9 @@ const PersonDetailPage = () => {
       textFor(person.role, lang),
       person.category === 'opponent'
         ? (lang === 'en' ? 'Acts Opponent' : '使徒行傳中的反對者')
-        : (lang === 'en' ? 'Early Church Figure' : '早期教會人物'),
+        : person.category === 'official'
+          ? (lang === 'en' ? 'Acts Official' : '使徒行傳中的官員')
+          : (lang === 'en' ? 'Early Church Figure' : '早期教會人物'),
     ];
 
     if (relatedJourneys.length > 0) {
@@ -306,6 +319,7 @@ const PersonDetailPage = () => {
             <span className="material-symbols-outlined text-primary">timeline</span>
             <h2 className="font-serif text-2xl font-bold text-slate-900 dark:text-white">
               {person.category === 'opponent'
+                || person.category === 'official'
                 ? (lang === 'en' ? 'Timeline in Acts' : '在使徒行傳中的時間線')
                 : (lang === 'en' ? 'Timeline of Ministry' : '事工時間線')}
             </h2>

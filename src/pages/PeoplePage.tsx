@@ -33,7 +33,7 @@ const PeoplePage = () => {
 
   // Split people by category
   const believers = people.filter(p => p.id !== 'jesus' && p.id !== 'peter' && p.id !== 'paul' && (p.category === 'believer' || !p.category));
-  const opponents = people.filter(p => p.category === 'opponent');
+  const opponents = people.filter(p => p.category === 'opponent' || p.category === 'official');
 
   // Get featured people for main cards
   const peter = people.find(p => p.id === 'peter');

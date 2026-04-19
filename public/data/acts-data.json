@@ -210,7 +210,8 @@
       "category": "early-church",
       "keyFigures": [
         "peter",
-        "john"
+        "john",
+        "mary-mother-of-jesus"
       ],
       "passage": {
         "en": {
@@ -1168,7 +1169,8 @@
       "primaryImage": "/images/events/Ananias-and-Sapphira.jpg",
       "category": "early-church",
       "keyFigures": [
-        "peter"
+        "peter",
+        "sapphira"
       ],
       "passage": {
         "en": {
@@ -2082,7 +2084,8 @@
       "primaryImage": "/images/events/Peter-in-Lydda-and-Joppa.jpg",
       "category": "miracle",
       "keyFigures": [
-        "peter"
+        "peter",
+        "tabitha"
       ],
       "passage": {
         "en": {
@@ -2601,7 +2604,9 @@
       "primaryImage": "/images/events/peter-escape.jpg",
       "category": "miracle",
       "keyFigures": [
-        "peter"
+        "peter",
+        "mary-mother-of-john-mark",
+        "rhoda"
       ],
       "passage": {
         "en": {
@@ -3699,7 +3704,8 @@
       "primaryImage": "/images/events/lydia-slave-girl.jpg",
       "category": "missionary-journey",
       "keyFigures": [
-        "paul"
+        "paul",
+        "lydia"
       ],
       "passage": {
         "en": {
@@ -4131,7 +4137,8 @@
       "primaryImage": "/images/events/Paul-in-Athens.jpg",
       "category": "missionary-journey",
       "keyFigures": [
-        "paul"
+        "paul",
+        "damaris"
       ],
       "passage": {
         "en": {
@@ -4257,7 +4264,8 @@
       "primaryImage": "/images/events/Paul-in-Corinth.jpg",
       "category": "missionary-journey",
       "keyFigures": [
-        "paul"
+        "paul",
+        "priscilla"
       ],
       "passage": {
         "en": {
@@ -4445,7 +4453,8 @@
       "primaryImage": "/images/events/paul-return-journey.jpg",
       "category": "missionary-journey",
       "keyFigures": [
-        "paul"
+        "paul",
+        "priscilla"
       ],
       "passage": {
         "en": {
@@ -4539,7 +4548,8 @@
       "primaryImage": "/images/events/apollos-ephesus.jpg",
       "category": "missionary-journey",
       "keyFigures": [
-        "paul"
+        "paul",
+        "priscilla"
       ],
       "passage": {
         "en": {
@@ -7194,7 +7204,9 @@
       "primaryImage": "/images/events/paul-felix-delays.jpg",
       "category": "imprisonment",
       "keyFigures": [
-        "paul"
+        "paul",
+        "felix",
+        "drusilla"
       ],
       "passage": {
         "en": {
@@ -7473,7 +7485,10 @@
       "primaryImage": "/images/events/paul-festus-agrippa.webp",
       "category": "imprisonment",
       "keyFigures": [
-        "paul"
+        "paul",
+        "festus",
+        "herod-agrippa-ii",
+        "bernice"
       ],
       "passage": {
         "en": {
@@ -7598,7 +7613,10 @@
       "primaryImage": "/images/events/paul-audience-agrippa.jpeg",
       "category": "speech",
       "keyFigures": [
-        "paul"
+        "paul",
+        "festus",
+        "herod-agrippa-ii",
+        "bernice"
       ],
       "passage": {
         "en": {
@@ -10238,6 +10256,209 @@
       "category": "believer",
       "avatarUrl": "/images/people/luke.png",
       "events": []
+    },
+    {
+      "id": "mary-mother-of-jesus",
+      "name": {
+        "en": "Mary, Mother of Jesus",
+        "zh": "耶穌的母親馬利亞"
+      },
+      "role": {
+        "en": "Mother of Jesus and prayerful witness",
+        "zh": "耶穌的母親與禱告中的見證人"
+      },
+      "description": {
+        "en": "Present with the apostles and other believers in prayer after Jesus' ascension. Her appearance in Acts links the story of Jesus' birth to the birth of the church.",
+        "zh": "耶穌升天後，她與使徒和其他信徒一同恆切禱告。她在使徒行傳中的出現，把耶穌降生的故事連到教會誕生的時刻。"
+      },
+      "avatarUrl": "/images/people/mary-mother-of-jesus.svg",
+      "category": "believer",
+      "events": [
+        "disciples-gather-pray"
+      ]
+    },
+    {
+      "id": "mary-mother-of-john-mark",
+      "name": {
+        "en": "Mary, Mother of John Mark",
+        "zh": "約翰馬可的母親馬利亞"
+      },
+      "role": {
+        "en": "Jerusalem believer and house church host",
+        "zh": "耶路撒冷信徒與家庭教會主人"
+      },
+      "description": {
+        "en": "A Jerusalem believer whose house became a gathering place for prayer. After Peter's release from prison, he went to her home where many were assembled.",
+        "zh": "她是耶路撒冷的信徒，她的家成為眾人聚集禱告的地方。彼得出獄後來到她家時，已有許多人在那裡同心祈禱。"
+      },
+      "avatarUrl": "/images/people/mary-mother-of-john-mark.svg",
+      "category": "believer",
+      "events": [
+        "peter-escape"
+      ]
+    },
+    {
+      "id": "rhoda",
+      "name": {
+        "en": "Rhoda",
+        "zh": "羅大"
+      },
+      "role": {
+        "en": "Servant girl in Jerusalem",
+        "zh": "耶路撒冷的使女"
+      },
+      "description": {
+        "en": "The servant girl who recognized Peter's voice at the gate after his miraculous release from prison and ran to tell the believers.",
+        "zh": "彼得奇蹟出獄後，她在門口聽出彼得的聲音，便跑去告訴屋內的信徒。"
+      },
+      "avatarUrl": "/images/people/rhoda.svg",
+      "category": "believer",
+      "events": [
+        "peter-escape"
+      ]
+    },
+    {
+      "id": "tabitha",
+      "name": {
+        "en": "Tabitha (Dorcas)",
+        "zh": "大比大（多加）"
+      },
+      "role": {
+        "en": "Disciple known for charity",
+        "zh": "以善行聞名的門徒"
+      },
+      "description": {
+        "en": "A disciple in Joppa known for good works and care for the poor. Peter raised her from the dead, and many in the city turned to the Lord.",
+        "zh": "她是住在約帕的女門徒，滿有善行與賙濟。彼得使她從死裡復活，叫城中許多人因此歸向主。"
+      },
+      "avatarUrl": "/images/people/tabitha.svg",
+      "category": "believer",
+      "events": [
+        "peter-lydda-joppa"
+      ]
+    },
+    {
+      "id": "sapphira",
+      "name": {
+        "en": "Sapphira",
+        "zh": "撒非喇"
+      },
+      "role": {
+        "en": "Wife of Ananias",
+        "zh": "亞拿尼亞的妻子"
+      },
+      "description": {
+        "en": "She conspired with her husband to misrepresent the proceeds of a land sale. When confronted by Peter, she also fell under God's judgment.",
+        "zh": "她與丈夫同謀，謊報賣地所得。當彼得質問她時，她也落在神的審判之下。"
+      },
+      "avatarUrl": "/images/people/sapphira.svg",
+      "events": [
+        "ananias-sapphira"
+      ]
+    },
+    {
+      "id": "damaris",
+      "name": {
+        "en": "Damaris",
+        "zh": "大馬哩"
+      },
+      "role": {
+        "en": "Athenian believer",
+        "zh": "雅典的信徒"
+      },
+      "description": {
+        "en": "One of the Athenians who believed after Paul's sermon at the Areopagus, showing that the gospel reached even the city's intellectual circles.",
+        "zh": "她是保羅在亞略巴古講道後信主的雅典人之一，顯示福音也進入了城中的思想與辯論圈。"
+      },
+      "avatarUrl": "/images/people/damaris.svg",
+      "category": "believer",
+      "events": [
+        "paul-athens"
+      ]
+    },
+    {
+      "id": "lydia",
+      "name": {
+        "en": "Lydia",
+        "zh": "呂底亞"
+      },
+      "role": {
+        "en": "Merchant and host in Philippi",
+        "zh": "商人與腓立比的接待者"
+      },
+      "description": {
+        "en": "A seller of purple cloth from Thyatira whose heart the Lord opened in Philippi. Her household became an early base of support for the church there.",
+        "zh": "她來自推雅推喇，販賣紫色布匹；主在腓立比開啟她的心。她的家後來成為當地教會早期的重要接待與聚集之處。"
+      },
+      "avatarUrl": "/images/people/lydia.svg",
+      "category": "believer",
+      "events": [
+        "lydia-slave-girl",
+        "philippian-jailer"
+      ]
+    },
+    {
+      "id": "priscilla",
+      "name": {
+        "en": "Priscilla (Prisca)",
+        "zh": "百基拉"
+      },
+      "role": {
+        "en": "Teacher and ministry coworker",
+        "zh": "教師與事工同工"
+      },
+      "description": {
+        "en": "A Jewish believer who served alongside Aquila. She welcomed Paul, traveled in ministry, and helped explain the way of God more accurately to Apollos.",
+        "zh": "她是與亞居拉一同事奉的猶太信徒。她接待保羅、在宣教旅程中同行，並向亞波羅更詳細地講解神的道。"
+      },
+      "avatarUrl": "/images/people/priscilla.svg",
+      "category": "believer",
+      "events": [
+        "paul-corinth",
+        "paul-return-journey",
+        "apollos-ephesus"
+      ]
+    },
+    {
+      "id": "drusilla",
+      "name": {
+        "en": "Drusilla",
+        "zh": "土西拉"
+      },
+      "role": {
+        "en": "Jewish wife of Felix",
+        "zh": "腓力斯的猶太妻子"
+      },
+      "description": {
+        "en": "The wife of Governor Felix who heard Paul speak about faith in Christ Jesus, righteousness, self-control, and coming judgment.",
+        "zh": "她是巡撫腓力斯的猶太妻子，曾與丈夫一同聽保羅講論信基督耶穌之道、公義、節制和將來的審判。"
+      },
+      "avatarUrl": "/images/people/drusilla.svg",
+      "category": "official",
+      "events": [
+        "paul-felix-delays"
+      ]
+    },
+    {
+      "id": "bernice",
+      "name": {
+        "en": "Bernice (Berenice)",
+        "zh": "百妮基"
+      },
+      "role": {
+        "en": "Herodian princess",
+        "zh": "希律王族公主"
+      },
+      "description": {
+        "en": "The sister of King Agrippa II who was present in Caesarea when Festus explained Paul's case and when Paul gave his formal defense before the royal court.",
+        "zh": "她是亞基帕二世的妹妹，在該撒利亞陪同王室聽非斯都陳述保羅的案件，也在保羅正式申辯時在場。"
+      },
+      "avatarUrl": "/images/people/bernice.svg",
+      "category": "official",
+      "events": [
+        "paul-festus-agrippa",
+        "paul-audience-agrippa"
+      ]
     },
     {
       "id": "herod-agrippa-i",

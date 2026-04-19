@@ -61,7 +61,7 @@ export interface Person {
   role: BilingualText;
   description?: BilingualText;
   avatarUrl?: string;
-  category?: 'believer' | 'opponent';
+  category?: 'believer' | 'opponent' | 'official';
   events?: string[]; // Event IDs this person is associated with
 }
 
