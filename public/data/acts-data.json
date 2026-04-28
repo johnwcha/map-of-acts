@@ -822,7 +822,7 @@
       "scripture": {
         "book": "Acts",
         "chapter": 3,
-        "verseStart": 12,
+        "verseStart": 11,
         "verseEnd": 26
       },
       "date": {
@@ -843,6 +843,10 @@
       "passage": {
         "en": {
           "verses": [
+            {
+              "number": 11,
+              "text": "And as he held Peter and John, all the people ran together unto them in the porch that is called Solomon's, greatly wondering."
+            },
             {
               "number": 12,
               "text": "And when Peter saw it, he answered unto the people, Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk?"
@@ -908,6 +912,10 @@
         },
         "zh": {
           "verses": [
+            {
+              "number": 11,
+              "text": "那人正在稱為所羅門的廊下、拉著彼得、約翰．眾百姓一齊跑到他們那裡、很覺希奇"
+            },
             {
               "number": 12,
               "text": "彼得看見，就對百姓說：以色列人哪，為什麼把這事當作希奇呢？為什麼定睛看我們，以為我們憑自己的能力和虔誠使這人行走呢？"
@@ -1139,6 +1147,101 @@
         }
       },
       "previousEventId": "peter-speech-solomons-colonnade",
+      "nextEventId": "early-church-shares-possessions"
+    },
+    {
+      "id": "early-church-shares-possessions",
+      "title": {
+        "en": "The Believers Share Their Possessions",
+        "zh": "信徒凡物公用"
+      },
+      "description": {
+        "en": "The believers are united in heart and soul, sharing their possessions so no one is in need. The apostles continue testifying to Jesus' resurrection with great power, and Barnabas is introduced as a generous encourager.",
+        "zh": "眾信徒一心一意，凡物公用，使群體中沒有人缺乏。使徒大有能力見證主耶穌復活，巴拿巴也在此以慷慨奉獻者的身分登場。"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 4,
+        "verseStart": 32,
+        "verseEnd": 37
+      },
+      "date": {
+        "year": 30,
+        "displayText": {
+          "en": "A.D. 30",
+          "zh": "主後30年"
+        },
+        "order": 3.9
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/early-church-formed.webp",
+      "category": "early-church",
+      "keyFigures": [
+        "barnabas",
+        "peter",
+        "john"
+      ],
+      "passage": {
+        "en": {
+          "verses": [
+            {
+              "number": 32,
+              "text": "And the multitude of them that believed were of one heart and soul: and not one of them said that aught of the things which he possessed was his own; but they had all things common."
+            },
+            {
+              "number": 33,
+              "text": "And with great power gave the apostles their witness of the resurrection of the Lord Jesus: and great grace was upon them all."
+            },
+            {
+              "number": 34,
+              "text": "For neither was there among them any that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,"
+            },
+            {
+              "number": 35,
+              "text": "and laid them at the apostles' feet: and distribution was made unto each, according as any one had need."
+            },
+            {
+              "number": 36,
+              "text": "And Joseph, who by the apostles was surnamed Barnabas (which is, being interpreted, Son of exhortation), a Levite, a man of Cyprus by race,"
+            },
+            {
+              "number": 37,
+              "text": "having a field, sold it, and brought the money and laid it at the apostles' feet."
+            }
+          ],
+          "excerpt": "And the multitude of them that believed were of one heart and soul..."
+        },
+        "zh": {
+          "verses": [
+            {
+              "number": 32,
+              "text": "那許多信的人、都是一心一意的、沒有一人說、他的東西有一樣是自己的、都是大家公用"
+            },
+            {
+              "number": 33,
+              "text": "使徒大有能力、見證主耶穌復活．眾人也都蒙大恩"
+            },
+            {
+              "number": 34,
+              "text": "內中也沒有一個缺乏的、因為人人將田產房屋都賣了、把所賣的價銀拿來、放在使徒腳前"
+            },
+            {
+              "number": 35,
+              "text": "照各人所需用的、分給各人"
+            },
+            {
+              "number": 36,
+              "text": "有一個利未人、生在居比路、名叫約瑟、使徒稱他為巴拿巴。（巴拿巴翻出來、就是勸慰子）"
+            },
+            {
+              "number": 37,
+              "text": "他有田地、也賣了、把價銀拿來、放在使徒腳前"
+            }
+          ],
+          "excerpt": "那許多信的人、都是一心一意的、都是大家公用"
+        }
+      },
+      "previousEventId": "peter-john-before-sanhedrin",
       "nextEventId": "ananias-sapphira"
     },
     {
@@ -1268,7 +1371,7 @@
           "excerpt": "你不是欺哄人，是欺哄神了..."
         }
       },
-      "previousEventId": "peter-john-before-sanhedrin",
+      "previousEventId": "early-church-shares-possessions",
       "nextEventId": "apostles-prison-and-gamaliel"
     },
     {
@@ -1385,18 +1488,18 @@
     {
       "id": "stephen-ministry-and-speech",
       "title": {
-        "en": "Choosing of the Seven and Stephen's Address",
-        "zh": "選出七位執事與司提反的申訴"
+        "en": "Choosing of the Seven and Stephen Before the Council",
+        "zh": "選出七位執事與司提反受審"
       },
       "description": {
-        "en": "The early church chooses seven deacons, including Stephen, to oversee the distribution of food. Stephen, full of grace and power, performs great wonders. He is falsely accused and brought before the Sanhedrin, where he delivers a powerful historical defense.",
-        "zh": "初代教會選出包括司提反在內的七位執事，負責管理飯食。司提反滿有恩惠能力，在民間行了大事。他被誣陷並帶到公會，在那裡他發表了一段強有力的歷史性辯護。"
+        "en": "The early church chooses seven deacons, including Stephen, to oversee the distribution of food. Stephen, full of grace and power, performs great wonders, is falsely accused, and is brought before the Sanhedrin.",
+        "zh": "初代教會選出包括司提反在內的七位執事，負責管理飯食。司提反滿有恩惠能力，在民間行了大事，後來被誣陷並帶到公會面前。"
       },
       "scripture": {
         "book": "Acts",
         "chapter": 6,
         "verseStart": 1,
-        "verseEnd": 7
+        "verseEnd": 15
       },
       "date": {
         "year": 34,
@@ -1422,8 +1525,24 @@
               "text": "Now in those days, when the number of the disciples was multiplying, there arose a murmuring of the Grecian Jews against the Hebrews, because their widows were neglected in the daily ministration."
             },
             {
+              "number": 2,
+              "text": "And the twelve called the multitude of the disciples unto them, and said, It is not fit that we should forsake the word of God, and serve tables."
+            },
+            {
               "number": 3,
               "text": "Look ye out therefore, brethren, from among you seven men of good report, full of the Spirit and of wisdom, whom we may appoint over this business."
+            },
+            {
+              "number": 4,
+              "text": "But we will continue stedfastly in prayer, and in the ministry of the word."
+            },
+            {
+              "number": 5,
+              "text": "And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and of the Holy Spirit, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolaus a proselyte of Antioch;"
+            },
+            {
+              "number": 6,
+              "text": "whom they set before the apostles: and when they had prayed, they laid their hands upon them."
             },
             {
               "number": 7,
@@ -1434,15 +1553,35 @@
               "text": "And Stephen, full of grace and power, wrought great wonders and signs among the people."
             },
             {
-              "number": 51,
-              "text": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Spirit: as your fathers did, so do ye."
+              "number": 9,
+              "text": "But there arose certain of them that were of the synagogue called the synagogue of the Libertines, and of the Cyrenians, and of the Alexandrians, and of them of Cilicia and Asia, disputing with Stephen."
             },
             {
-              "number": 52,
-              "text": "Which of the prophets did not your fathers persecute? and they killed them that showed before of the coming of the Righteous One; of whom ye have now become betrayers and murderers."
+              "number": 10,
+              "text": "And they were not able to withstand the wisdom and the Spirit by which he spake."
+            },
+            {
+              "number": 11,
+              "text": "Then they suborned men, who said, We have heard him speak blasphemous words against Moses, and against God."
+            },
+            {
+              "number": 12,
+              "text": "And they stirred up the people, and the elders, and the scribes, and came upon him, and seized him, and brought him into the council,"
+            },
+            {
+              "number": 13,
+              "text": "and set up false witnesses, who said, This man ceaseth not to speak words against this holy place, and the law:"
+            },
+            {
+              "number": 14,
+              "text": "for we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered unto us."
+            },
+            {
+              "number": 15,
+              "text": "And all that sat in the council, fastening their eyes on him, saw his face as it had been the face of an angel."
             }
           ],
-          "excerpt": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Spirit."
+          "excerpt": "And Stephen, full of grace and power, wrought great wonders and signs among the people."
         },
         "zh": {
           "verses": [
@@ -1451,8 +1590,24 @@
               "text": "那時，門徒增多，有ﯩ希臘話的猶太人向希伯來人發怨言，因為在天天的供給上忽略了他們的寡婦。"
             },
             {
+              "number": 2,
+              "text": "十二使徒叫眾門徒來、對他們說、我們撇下　神的道、去管理飯食、原是不合宜的"
+            },
+            {
               "number": 3,
               "text": "所以弟兄們，當從你們中間選出七個有好名聲、被聖靈充滿、智慧充足的人，我們就派他們管理這事。"
+            },
+            {
+              "number": 4,
+              "text": "但我們要專心以祈禱傳道為事"
+            },
+            {
+              "number": 5,
+              "text": "大眾都喜悅這話、就揀選了司提反、乃是大有信心、聖靈充滿的人、又揀選腓利、伯羅哥羅、尼迦挪、提門、巴米拿、並進猶太教的安提阿人尼哥拉"
+            },
+            {
+              "number": 6,
+              "text": "叫他們站在使徒面前．使徒禱告了、就按手在他們頭上"
             },
             {
               "number": 7,
@@ -1463,18 +1618,507 @@
               "text": "司提反滿有恩惠、能力，在民間行了大神蹟和好事。"
             },
             {
-              "number": 51,
-              "text": "你們這硬著頸項、心與耳未受割禮的人，常時抗拒聖靈！你們的祖宗怎樣，你們也怎樣。"
+              "number": 9,
+              "text": "當時有稱利百地拿會堂的幾個人、並有古利奈、亞力山太、基利家、亞西亞、各處會堂的幾個人、都起來、和司提反辯論"
             },
             {
-              "number": 52,
-              "text": "那一個先知不是你們祖宗逼迫呢？他們也把預先傳ﯩ那義者要來的人殺了；如今你們又把那義者賣了，殺了。"
+              "number": 10,
+              "text": "司提反是以智慧和聖靈說話、眾人敵擋不住"
+            },
+            {
+              "number": 11,
+              "text": "就買出人來說、我們聽見他說謗讟摩西、和　神的話"
+            },
+            {
+              "number": 12,
+              "text": "他們又聳動了百姓、長老、並文士、就忽然來捉拿他、把他帶到公會去"
+            },
+            {
+              "number": 13,
+              "text": "設下假見證說、這個人說話、不住的蹧踐聖所和律法"
+            },
+            {
+              "number": 14,
+              "text": "我們曾聽見他說、這拿撒勒人耶穌、要毀壞此地、也要改變摩西所交給我們的規條"
+            },
+            {
+              "number": 15,
+              "text": "在公會裡坐著的人、都定睛看他、見他的面貌、好像天使的面貌"
             }
           ],
-          "excerpt": "你們這硬著頸項、心與耳未受割禮的人，常時抗拒聖靈！"
+          "excerpt": "司提反滿有恩惠、能力，在民間行了大奇事和神蹟。"
         }
       },
       "previousEventId": "apostles-prison-and-gamaliel",
+      "nextEventId": "stephen-speech-before-sanhedrin"
+    },
+    {
+      "id": "stephen-speech-before-sanhedrin",
+      "title": {
+        "en": "Stephen's Speech Before the Sanhedrin",
+        "zh": "司提反在公會前的講道"
+      },
+      "description": {
+        "en": "Standing before the council, Stephen retells Israel's history from Abraham through Moses, the wilderness, and the temple. He exposes Israel's repeated resistance to God's messengers and charges his hearers with betraying and murdering the Righteous One.",
+        "zh": "司提反站在公會前，從亞伯拉罕、摩西、曠野到聖殿，回顧以色列的歷史。他指出以色列一再抗拒神所差來的人，並責備聽眾賣了、殺了那義者。"
+      },
+      "scripture": {
+        "book": "Acts",
+        "chapter": 7,
+        "verseStart": 1,
+        "verseEnd": 53
+      },
+      "date": {
+        "year": 34,
+        "displayText": {
+          "en": "A.D. 34",
+          "zh": "主後34年"
+        },
+        "order": 4.9
+      },
+      "location": "jerusalem",
+      "primaryImage": "/images/events/stoning_of_stephen.jpg",
+      "category": "speech",
+      "keyFigures": [
+        "stephen"
+      ],
+      "passage": {
+        "en": {
+          "verses": [
+            {
+              "number": 1,
+              "text": "And the high priest said, Are these things so?"
+            },
+            {
+              "number": 2,
+              "text": "And he said,Brethren and fathers, hearken: The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Haran,"
+            },
+            {
+              "number": 3,
+              "text": "and said unto him, Get thee out of thy land, and from thy kindred, and come into the land which I shall show thee."
+            },
+            {
+              "number": 4,
+              "text": "Then came he out of the land of the Chaldæans, and dwelt in Haran: and from thence, when his father was dead, God removed him into this land, wherein ye now dwell:"
+            },
+            {
+              "number": 5,
+              "text": "and he gave him none inheritance in it, no, not so much as to set his foot on: and he promised that he would give it to him in possession, and to his seed after him, when as yet he had no child."
+            },
+            {
+              "number": 6,
+              "text": "And God spake on this wise, that his seed should sojourn in a strange land, and that they should bring them into bondage, and treat them ill, four hundred years."
+            },
+            {
+              "number": 7,
+              "text": "And the nation to which they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place."
+            },
+            {
+              "number": 8,
+              "text": "And he gave him the covenant of circumcision: and so Abraham begat Isaac, and circumcised him the eighth day; and Isaac begat Jacob, and Jacob the twelve patriarchs."
+            },
+            {
+              "number": 9,
+              "text": "And the patriarchs, moved with jealousy against Joseph, sold him into Egypt: and God was with him,"
+            },
+            {
+              "number": 10,
+              "text": "and delivered him out of all his afflictions, and gave him favor and wisdom before Pharaoh king of Egypt; and he made him governor over Egypt and all his house."
+            },
+            {
+              "number": 11,
+              "text": "Now there came a famine over all Egypt and Canaan, and great affliction: and our fathers found no sustenance."
+            },
+            {
+              "number": 12,
+              "text": "But when Jacob heard that there was grain in Egypt, he sent forth our fathers the first time."
+            },
+            {
+              "number": 13,
+              "text": "And at the second time Joseph was made known to his brethren; and Joseph’s race became manifest unto Pharaoh."
+            },
+            {
+              "number": 14,
+              "text": "And Joseph sent, and called to him Jacob his father, and all his kindred, threescore and fifteen souls."
+            },
+            {
+              "number": 15,
+              "text": "And Jacob went down into Egypt; and he died, himself and our fathers;"
+            },
+            {
+              "number": 16,
+              "text": "and they were carried over unto Shechem, and laid in the tomb that Abraham bought for a price in silver of the sons of Hamor in Shechem."
+            },
+            {
+              "number": 17,
+              "text": "But as the time of the promise drew nigh which God vouchsafed unto Abraham, the people grew and multiplied in Egypt,"
+            },
+            {
+              "number": 18,
+              "text": "till there arose another king over Egypt, who knew not Joseph."
+            },
+            {
+              "number": 19,
+              "text": "The same dealt craftily with our race, and ill-treated our fathers, that they should cast out their babes to the end they might not live."
+            },
+            {
+              "number": 20,
+              "text": "At which season Moses was born, and was exceeding fair; and he was nourished three months in his father’s house."
+            },
+            {
+              "number": 21,
+              "text": "and when he was cast out, Pharaoh’s daughter took him up, and nourished him for her own son."
+            },
+            {
+              "number": 22,
+              "text": "And Moses was instructed in all the wisdom of the Egyptians; and he was mighty in his words and works."
+            },
+            {
+              "number": 23,
+              "text": "But when he was well-nigh forty years old, it came into his heart to visit his brethren the children of Israel."
+            },
+            {
+              "number": 24,
+              "text": "And seeing one of them suffer wrong, he defended him, and avenged him that was oppressed, smiting the Egyptian:"
+            },
+            {
+              "number": 25,
+              "text": "and he supposed that his brethren understood that God by his hand was giving them deliverance; but they understood not."
+            },
+            {
+              "number": 26,
+              "text": "And the day following he appeared unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?"
+            },
+            {
+              "number": 27,
+              "text": "But he that did his neighbor wrong thrust him away, saying, Who made thee a ruler and a judge over us?"
+            },
+            {
+              "number": 28,
+              "text": "Wouldest thou kill me, as thou killedst the Egyptian yesterday?"
+            },
+            {
+              "number": 29,
+              "text": "And Moses fled at this saying, and became a sojourner in the land of Midian, where he begat two sons."
+            },
+            {
+              "number": 30,
+              "text": "And when forty years were fulfilled, an angel appeared to him in the wilderness of Mount Sinai, in a flame of fire in a bush."
+            },
+            {
+              "number": 31,
+              "text": "And when Moses saw it, he wondered at the sight: and as he drew near to behold, there came a voice of the Lord,"
+            },
+            {
+              "number": 32,
+              "text": "I am the God of thy fathers, the God of Abraham, and of Isaac, and of Jacob. And Moses trembled, and durst not behold."
+            },
+            {
+              "number": 33,
+              "text": "And the Lord said unto him, Loose the shoes from thy feet: for the place whereon thou standest is holy ground."
+            },
+            {
+              "number": 34,
+              "text": "I have surely seen the affliction of my people that is in Egypt, and have heard their groaning, and I am come down to deliver them: and now come, I will send thee into Egypt."
+            },
+            {
+              "number": 35,
+              "text": "This Moses whom they refused, saying, Who made thee a ruler and a judge? him hath God sent to be both a ruler and a deliverer with the hand of the angel that appeared to him in the bush."
+            },
+            {
+              "number": 36,
+              "text": "This man led them forth, having wrought wonders and signs in Egypt, and in the Red Sea, and in the wilderness forty years."
+            },
+            {
+              "number": 37,
+              "text": "This is that Moses, who said unto the children of Israel, A prophet shall God raise up unto you from among your brethren, like unto me."
+            },
+            {
+              "number": 38,
+              "text": "This is he that was in the church in the wilderness with the angel that spake to him in the Mount Sinai, and with our fathers: who received living oracles to give unto us:"
+            },
+            {
+              "number": 39,
+              "text": "to whom our fathers would not be obedient, but thrust him from them, and turned back in their hearts unto Egypt,"
+            },
+            {
+              "number": 40,
+              "text": "saying unto Aaron, Make us gods that shall go before us: for as for this Moses, who led us forth out of the land of Egypt, we know not what is become of him."
+            },
+            {
+              "number": 41,
+              "text": "And they made a calf in those days, and brought a sacrifice unto the idol, and rejoiced in the works of their hands."
+            },
+            {
+              "number": 42,
+              "text": "But God turned, and gave them up to serve the host of heaven; as it is written in the book of the prophets, Did ye offer unto me slain beasts and sacrifices Forty years in the wilderness, O house of Israel?"
+            },
+            {
+              "number": 43,
+              "text": "And ye took up the tabernacle of Moloch, And the star of the god Rephan, The figures which ye made to worship them: And I will carry you away beyond Babylon."
+            },
+            {
+              "number": 44,
+              "text": "Our fathers had the tabernacle of the testimony in the wilderness, even as he appointed who spake unto Moses, that he should make it according to the figure that he had seen."
+            },
+            {
+              "number": 45,
+              "text": "Which also our fathers, in their turn, brought in with Joshua when they entered on the possession of the nations, that God thrust out before the face of our fathers, unto the days of David;"
+            },
+            {
+              "number": 46,
+              "text": "who found favor in the sight of God, and asked to find a habitation for the God of Jacob."
+            },
+            {
+              "number": 47,
+              "text": "But Solomon built him a house."
+            },
+            {
+              "number": 48,
+              "text": "Howbeit the Most High dwelleth not in houses made with hands; as saith the prophet,"
+            },
+            {
+              "number": 49,
+              "text": "The heaven is my throne, And the earth the footstool of my feet: What manner of house will ye build me? saith the Lord: Or what is the place of my rest?"
+            },
+            {
+              "number": 50,
+              "text": "Did not my hand make all these things?"
+            },
+            {
+              "number": 51,
+              "text": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Spirit: as your fathers did, so do ye."
+            },
+            {
+              "number": 52,
+              "text": "Which of the prophets did not your fathers persecute? and they killed them that showed before of the coming of the Righteous One; of whom ye have now become betrayers and murderers;"
+            },
+            {
+              "number": 53,
+              "text": "ye who received the law as it was ordained by angels, and kept it not."
+            }
+          ],
+          "excerpt": "Brethren and fathers, hearken: The God of glory appeared unto our father Abraham..."
+        },
+        "zh": {
+          "verses": [
+            {
+              "number": 1,
+              "text": "大祭司就說、這些事果然有麼"
+            },
+            {
+              "number": 2,
+              "text": "司提反說、諸位父兄請聽．當日我們的祖宗亞伯拉罕在米所波大米還未住哈蘭的時候、榮耀的　神向他顯現"
+            },
+            {
+              "number": 3,
+              "text": "對他說、『你要離開本地和親族、往我所要指示你的地方去。』"
+            },
+            {
+              "number": 4,
+              "text": "他就離開迦勒底人之地住在哈蘭．他父親死了以後、　神使他從那裡搬到你們現在所住之地"
+            },
+            {
+              "number": 5,
+              "text": "在這地方　神並沒有給他產業、連立足之地也沒有給他．但應許要將這地賜給他和他的後裔為業．那時他還沒有兒子"
+            },
+            {
+              "number": 6,
+              "text": "神說、他的後裔、必寄居外邦、那裡的人、要叫他們作奴僕、苦待他們四百年"
+            },
+            {
+              "number": 7,
+              "text": "神又說、使他們作奴僕的那國、我要懲罰、以後他們要出來、在這地方事奉我"
+            },
+            {
+              "number": 8,
+              "text": "神又賜他割禮的約．於是亞伯拉罕生了以撒、第八日給他行了割禮．以撒生雅各、雅各生十二位先祖"
+            },
+            {
+              "number": 9,
+              "text": "先祖嫉妒約瑟、把他賣到埃及去．　神卻與他同在"
+            },
+            {
+              "number": 10,
+              "text": "救他脫離一切苦難、又使他在埃及王法老面前、得恩典有智慧．法老就派他作埃及國的宰相兼管全家"
+            },
+            {
+              "number": 11,
+              "text": "後來埃及和迦南全地遭遇饑荒、大受艱難、我們的祖宗、就絕了糧"
+            },
+            {
+              "number": 12,
+              "text": "雅各聽見在埃及有糧、就打發我們的祖宗、初次往那裡去"
+            },
+            {
+              "number": 13,
+              "text": "第二次約瑟與弟兄們相認、他的親族也被法老知道了"
+            },
+            {
+              "number": 14,
+              "text": "約瑟就打發弟兄請父親雅各、和全家七十五個人都來"
+            },
+            {
+              "number": 15,
+              "text": "於是雅各下了埃及、後來他和我們的祖宗都死在那裡"
+            },
+            {
+              "number": 16,
+              "text": "又被帶到示劍、葬於亞伯拉罕在示劍用銀子從哈抹子孫買來的墳墓裡"
+            },
+            {
+              "number": 17,
+              "text": "及至　神應許亞伯拉罕的日期將到、以色列民在埃及興盛眾多"
+            },
+            {
+              "number": 18,
+              "text": "直到有不曉得約瑟的新王興起"
+            },
+            {
+              "number": 19,
+              "text": "他用詭計待我們的宗族、苦害我們的祖宗、叫他們丟棄嬰孩、使嬰孩不能存活"
+            },
+            {
+              "number": 20,
+              "text": "那時、摩西生下來、俊美非凡、在他父親家裡撫養了三個月"
+            },
+            {
+              "number": 21,
+              "text": "他被丟棄的時候、法老的女兒拾了去、養為自己的兒子"
+            },
+            {
+              "number": 22,
+              "text": "摩西學了埃及人一切的學問、說話行事、都有才能"
+            },
+            {
+              "number": 23,
+              "text": "他將到四十歲、心中起意、去看望他的弟兄以色列人"
+            },
+            {
+              "number": 24,
+              "text": "到了那裡、見他們一個人受冤屈、就護庇他、為那受欺壓的人報仇、打死了那埃及人"
+            },
+            {
+              "number": 25,
+              "text": "他以為弟兄必明白　神是藉他的手搭救他們．他們卻不明白"
+            },
+            {
+              "number": 26,
+              "text": "第二天、遇見兩個以色列人爭鬥、就勸他們和睦、說、你們二位是弟兄、為甚麼彼此欺負呢"
+            },
+            {
+              "number": 27,
+              "text": "那欺負鄰舍的、把他推開說、『誰立你作我們的首領、和審判官呢"
+            },
+            {
+              "number": 28,
+              "text": "難道你要殺我、像昨天殺那埃及人麼。』"
+            },
+            {
+              "number": 29,
+              "text": "摩西聽見這話就逃走了、寄居於米甸．在那裡生了兩個兒子"
+            },
+            {
+              "number": 30,
+              "text": "過了四十年、在西乃山的曠野、有一位天使、從荊棘火焰中、向摩西顯現"
+            },
+            {
+              "number": 31,
+              "text": "摩西見了那異象、便覺希奇．正進前觀看的時候、有主的聲音說"
+            },
+            {
+              "number": 32,
+              "text": "『我是你列祖的　神、就是亞伯拉罕的　神、以撒的　神、雅各的　神。』摩西戰戰兢兢、不敢觀看"
+            },
+            {
+              "number": 33,
+              "text": "主對他說、『把你腳上的鞋脫下來．因為你所站之地是聖地"
+            },
+            {
+              "number": 34,
+              "text": "我的百姓在埃及所受的困苦、我實在看見了．他們悲歎的聲音、我也聽見了．我下來要救他們、你來、我要差你往埃及去。』"
+            },
+            {
+              "number": 35,
+              "text": "這摩西、就是百姓棄絕說、誰立你作我們的首領、和審判官的．　神卻藉那在荊棘中顯現之使者的手、差派他作首領、作救贖的"
+            },
+            {
+              "number": 36,
+              "text": "這人領百姓出來、在埃及、在紅海、在曠野、四十年間行了奇事神蹟"
+            },
+            {
+              "number": 37,
+              "text": "那曾對以色列人說、『　神要從你們弟兄中間、給你們興起一位先知像我的、』就是這位摩西"
+            },
+            {
+              "number": 38,
+              "text": "這人曾在曠野會中、和西乃山上與那對他說話的天使同在、又與我們的祖宗同在、並且領受活潑的聖言傳給我們"
+            },
+            {
+              "number": 39,
+              "text": "我們的祖宗不肯聽從、反棄絕他、心裡歸向埃及"
+            },
+            {
+              "number": 40,
+              "text": "對亞倫說、『你且為我們造些神像、在我們前面引路．因為領我們出埃及地的那個摩西、我們不知道他遭了甚麼事。』"
+            },
+            {
+              "number": 41,
+              "text": "那時、他們造了一個牛犢、又拿祭物獻給那像、歡喜自己手中的工作"
+            },
+            {
+              "number": 42,
+              "text": "神就轉臉不顧、任憑他們事奉天上的日月星辰、正如先知書上所寫的說、『以色列家阿、你們四十年間在曠野、豈是將犧牲和祭物獻給我麼"
+            },
+            {
+              "number": 43,
+              "text": "你們抬著摩洛的帳幕、和理番神的星．就是你們所造為要敬拜的像．因此、我要把你們遷到巴比倫外去。』"
+            },
+            {
+              "number": 44,
+              "text": "我們的祖宗在曠野、有法櫃的帳幕、是　神吩咐摩西叫他照所看見的樣式作的"
+            },
+            {
+              "number": 45,
+              "text": "這帳幕、我們的祖宗相繼承受、當　神在他們面前趕出外邦人去的時候、他們同約書亞把帳幕搬進承受為業之地、直存到大衛的日子"
+            },
+            {
+              "number": 46,
+              "text": "大衛在　神面前蒙恩、祈求為雅各的　神預備居所"
+            },
+            {
+              "number": 47,
+              "text": "卻是所羅門為　神造成殿宇"
+            },
+            {
+              "number": 48,
+              "text": "其實至高者並不住人手所造的．就如先知所言"
+            },
+            {
+              "number": 49,
+              "text": "『主說、天是我的座位、地是我的腳凳．你們要為我造何等的殿宇、那裡是我安息的地方呢"
+            },
+            {
+              "number": 50,
+              "text": "這一切不都是我手所造的麼。』"
+            },
+            {
+              "number": 51,
+              "text": "你們這硬著頸項、心與耳未受割禮的人、常時抗拒聖靈．你們的祖宗怎樣、你們也怎樣"
+            },
+            {
+              "number": 52,
+              "text": "那一個先知、不是你們祖宗逼迫呢．他們也把預先傳說那義者要來的人殺了．如今你們又把那義者賣了、殺了"
+            },
+            {
+              "number": 53,
+              "text": "你們受了天使所傳的律法、竟不遵守"
+            }
+          ],
+          "excerpt": "諸位父兄請聽．當日我們的祖宗亞伯拉罕..."
+        }
+      },
+      "previousEventId": "stephen-ministry-and-speech",
       "nextEventId": "stephen-martyrdom"
     },
     {
@@ -1568,7 +2212,7 @@
           "excerpt": "求主耶穌接收我的靈魂..."
         }
       },
-      "previousEventId": "stephen-ministry-and-speech",
+      "previousEventId": "stephen-speech-before-sanhedrin",
       "nextEventId": "persecution-and-samaria"
     },
     {
@@ -9658,8 +10302,8 @@
         "zh": "特庇"
       },
       "coordinates": [
-        37.3500,
-        33.0500
+        37.35,
+        33.05
       ],
       "modernName": {
         "en": "Kerti Höyük, Turkey",
@@ -9696,7 +10340,7 @@
         "zh": "弗呂家和加拉太地區"
       },
       "coordinates": [
-        39.0,
+        39,
         31.2
       ],
       "modernName": {
@@ -9944,7 +10588,7 @@
       },
       "coordinates": [
         39.1077,
-        26.5540
+        26.554
       ],
       "modernName": {
         "en": "Mytilene, Lesbos, Greece",
@@ -9982,7 +10626,7 @@
       },
       "coordinates": [
         37.7548,
-        26.9770
+        26.977
       ],
       "modernName": {
         "en": "Samos, Greece",
